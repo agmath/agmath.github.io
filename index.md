@@ -1,10 +1,11 @@
 # Adam Gilbert, PhD
 
-![image](/SiteFiles/face.jpg){: style="float: left"}
-Associate Professor of Mathematics</br>
+<img src="/SiteFiles/face.jpg" align="left" width=150>Associate Professor of Mathematics</br>
 Southern New Hampshire University</br>
-office: Robert Frost 215 </br>
+Office: Robert Frost 215</br>
 email: a [dot] gilbert1 [at] snhu [dot] edu
+
+</br></br>
 
 ## Welcome
 
