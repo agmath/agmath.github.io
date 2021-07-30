@@ -1,7 +1,7 @@
 ---
 title: Courses Previously Taught
+description: Find basic information about courses I've taught during previous 
+semesters, including course syllabi and notes.
 ---
 
-This page gives some basic information about courses I've taught during previous 
-semesters. While the page is currently under construction, you'll eventually be
-able to find syllabi and course notes here.
+This page is under construction.
