@@ -28,6 +28,14 @@ that you'll find some of the materials posted here to be interesting and useful.
 
 You can find information about courses I've taught in previous semesters [here](OldCourses.md).
 
+## Interested in Undergraduate Research?
+
+Are you a current SNHU student who is interested in pursuing an undergraduate research project?
+I'm really interested in projects involving data science and machine learning, simulation and
+agent-based modeling, mathematical models, and anything involving graph theory or combinatiorial
+games. Check out [this page](UGRmentor.md) for more on my interests, recent projects with students,
+and how to contact me if you are interested in working together.
+
 ## Data Science and Machine Learning
 
 I became interested in data science in 2016 and have (slowly) been transitioning my professional focus in 
