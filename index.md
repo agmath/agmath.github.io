@@ -12,9 +12,9 @@ email: a [dot] gilbert1 [at] snhu [dot] edu
 <br/><br/>
 
 Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. 
-While I earned my PhD in Mathematics under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the 
+While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the 
 University of Rhode Island in 2013, my teaching responsibilities and research interests have transitioned 
-to data science. In particular, I am interested in data science that promote the *social good*. I hope 
+to data science. In particular, I am interested in data science projects that promote the *social good*. I hope 
 that you'll find some of the materials posted here to be interesting and useful.
   
 ## Currently Teaching
