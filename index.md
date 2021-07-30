@@ -11,9 +11,7 @@ email: a [dot] gilbert1 [at] snhu [dot] edu
 
 <br/><br/>
 
-## Welcome
-
-Welcome to my webpage. I am an Associate Professor of Mathematics at Southern New Hampshire University. 
+Hello! Welcome to my webpage. I am an Associate Professor of Mathematics at Southern New Hampshire University. 
 While I earned my PhD in Mathematics under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the 
 University of Rhode Island in 2013, my teaching responsibilities and research interests have transitioned 
 to data science. In particular, I am interested in data science that promote the *social good*. I hope 
@@ -21,14 +19,20 @@ that you'll find some of the materials posted here to be interesting and useful.
   
 ## Currently Teaching
 
-+ MAT 239 (Discrete Mathematics for Computing)
-+ MAT 241 (Modern Statistics with Software)
-+ MAT 431 (Introduction to Discrete Mathematical Modeling)
-+ QSO 370/570 (Predictive Analytics)
++ [MAT 239 (Discrete Mathematics for Computing)](DiscreteForComputing.md)
++ [MAT 241 (Modern Statistics with Software)](StatsWithR.md)
++ [MAT 431 (Introduction to Discrete Mathematical Modeling)](DiscreteModeling.md)
++ [QSO 370/570 (Predictive Analytics)](PredictiveAnalytics.md)
 
-## Course Information from Previous Semesters
+### Course Information from Previous Semesters
 
-You can find information about courses I've taught in previous semesters here (link to be added).
+You can find information about courses I've taught in previous semesters [here](OldCourses.md).
+
+## Data Science and Machine Learning
+
+I became interested in data science in 2016 and have (slowly) been transitioning my professional focus in 
+this direction ever since. While I'm not much of a blogger, you can check in on what I'm up to 
+[here](MyDSjourney.md).
 
 ## Other Initiatives
 
