@@ -1,5 +1,3 @@
-# Welcome
-
 ## Adam Gilbert, PhD
 
 <img src="/SiteFiles/face.jpg" align="left" width=150>Associate Professor of Mathematics<br/>
