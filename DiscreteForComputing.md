@@ -14,7 +14,5 @@ representations, counting, functions, probability distributions, and arrays.<br/
 <br/>
 *This software-agnostic course connects first year computer science students with the mathematics that underlays
 the foundations of computer programming. Students should expect to be exposed to mathematical concepts and 
-immediately consider how they are relevant to programming and software. This course currently makes use of
-zyBooks, but Dr. Caples, Dr. Frasier, and Dr. Gilbert are developing an interactive, open-source book using 
-PreTeXt and MyOpenMath for future semesters.*<br/>
+immediately consider how they are relevant to programming and software development.*<br/>
 <br/><br/>
