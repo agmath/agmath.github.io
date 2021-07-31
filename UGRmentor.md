@@ -19,8 +19,7 @@ that falls into (or nearby) one of these areas and you'd like to work together, 
 I've authored several of the Undergraduate Research Case Studies for SNHU over the past three years. 
 If you've looked at these case studies, you'll notice that the majority of them offer researchers an
 opportunity to think about, and advocate for, making positive change around an important issue within 
-their local, state, or larger communities. As citizens of an increasingly interconnected world, I 
-believe it is important that we use our talents to improve the lives of everyone around us.  
+their local, state, or larger communities.   
   + <u>Academic Year 2021-2022 Case Studies:</u>  
     + [Homelessness in the Queen City](https://drive.google.com/file/d/1tWxZblj9dpkdZTzEN02hWvqfbmzrotg1/view?usp=sharing) (with V. Corbo)
     + [Past, Present, Future of Policing and Community Response](https://drive.google.com/file/d/1lu4EF84r0VOcL2yzzq2drUbi_imcShRN/view?usp=sharing) (with L. Speropolous)
@@ -40,6 +39,11 @@ the [*TidyTuesday*](https://github.com/rfordatascience/tidytuesday) social data 
 and to participate using our SNHU Analytics Slack Channel (e-mail me for an invite) or using the
 hashtag #TidyTuesday on Twitter.
 
+A sample of recent student projects in data science include:  
++ An Analysis of Survey Data for SNHU's Global Education Movement (GEM) Program (GEM is SNHU's effort to expand educational opportunities to refugees in encampments across the globe -- see more [here](https://gem.snhu.edu/)).
++ #2020: Classifying Misinformation on Twitter
++ Spatial Classifiers and Gerrymanders
+
 ### Simulation and Agent-Based Modeling
 
 Need to write...
@@ -50,7 +54,7 @@ Need to write...
 
 ### Graph Theory
 
-I spent much of my time in graduate school working in this area of discrete mathematics. Formally, a graph consists of two sets -- the first, a vertex-set, is a list of nodes (dots) in the graph, while the second, an edge-set, is a set containing pairs of vertices (lines connecting two dots), indicating connections between nodes. There are many interesting properties of these graph structures that can be examined, including planarity, connectivity, subgraph properties, and more. My research was largely focused on graph colorings and graph representations. In general, graph colorings are mappings from a finite set of $k$ "colors", to the vertices of a graph -- we can set rules for which tupes of colorings are *permissible* and disocover properties that a graph must possess in order for a permissible $k$-coloring to exist. Graph representations are schemes for encoding graph structure -- some common examples include the adjacency matrix and edge-list, however we can consider more abstract representations such as using subtrees of a particular class of tree to represent each vertex and defining edges to exist between a pair of vertices when the trees representing the pair satisfy some property. It can be quite interesting to explore the limitations of such representation schemes.
+I spent much of my time in graduate school working in this area of discrete mathematics. Formally, a graph consists of two sets -- the first, a vertex-set, is a list of nodes (dots) in the graph, while the second, an edge-set, is a set containing pairs of vertices (lines connecting two dots), indicating connections between nodes. There are many interesting properties of these graph structures that can be examined, including planarity, connectivity, subgraph properties, and more. My research was largely focused on graph colorings and graph representations. In general, graph colorings are mappings from a finite set of k "colors", to the vertices of a graph -- we can set rules for which tupes of colorings are *permissible* and disocover properties that a graph must possess in order for a permissible k-coloring to exist. Graph representations are schemes for encoding graph structure -- some common examples include the adjacency matrix and edge-list, however we can consider more abstract representations such as using subtrees of a particular class of tree to represent each vertex and defining edges to exist between a pair of vertices when the trees representing the pair satisfy some property. It can be quite interesting to explore the limitations of such representation schemes.
 
 ### Combinatorial Games
 
