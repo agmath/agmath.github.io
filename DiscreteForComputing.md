@@ -16,3 +16,5 @@ representations, counting, functions, probability distributions, and arrays.<br/
 the foundations of computer programming. Students should expect to be exposed to mathematical concepts and 
 immediately consider how they are relevant to programming and software development.*<br/>
 <br/><br/>
+
+[Back to Hompage](https://agmath.github.io/)
