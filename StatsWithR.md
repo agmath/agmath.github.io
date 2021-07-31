@@ -12,3 +12,4 @@ description: This is a homepage for MAT241, Modern Statistics with Software, at 
 *Students in this course will utilize R and will work with real-word (large and messy) datasets. Instructions for accessing course notes are available <a href="https://agmath.github.io/SiteFiles/AccessingInteractiveNotes.html" title="Install Instructions">here</a> and information about the package is available [here](https://github.com/agmath/AppliedStatsInteractive) (check the README file at the bottom of the page).*<br/>
 <br/><br/>
 
+[Back to Homepage](https://agmath.github.io/)
