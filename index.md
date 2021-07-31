@@ -7,7 +7,8 @@ title: Welcome
 <img src="/SiteFiles/face.jpg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
 &nbsp; &nbsp;Southern New Hampshire University<br/>
 &nbsp; &nbsp;Office: Robert Frost 215<br/>
-&nbsp; &nbsp;email: a [dot] gilbert1 [at] snhu [dot] edu
+&nbsp; &nbsp;email: a [dot] gilbert1 [at] snhu [dot] edu <br/>
+&nbsp; &nbsp;Download My: [CV](https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing), [Resume](https://drive.google.com/file/d/1f6bLxDBklwcRpG11SWjYMIpAAsnj3emF/view?usp=sharing)
 
 <br/><br/>
 
@@ -17,7 +18,7 @@ University of Rhode Island in 2013, my teaching responsibilities and research in
 to data science. In particular, I am interested in data science projects that promote the *social good*. I hope 
 that you'll find some of the materials posted here to be interesting and useful.
   
-## Currently Teaching
+## Currently Teaching (Fall 2021)
 
 + [MAT 239 (Discrete Mathematics for Computing)](DiscreteForComputing.md)
 + [MAT 241 (Modern Statistics with Software)](StatsWithR.md)
