@@ -8,10 +8,10 @@ description: Find basic information about courses I've taught during previous se
 Links will be added to the list below, with information about each course.  
 + STEMming the Zombie Apocalypse (with A. Collins)
 + Bioinformatics (with K. Duryea)
-+ MAT 140 - Precalculus
++ MAT 140 - Precalculus (no longer offered on campus)
 + MAT 225 - Calculus I
-+ MAT 230 - Introduction to Discrete Mathematics (No longer offered)
-+ MAT 235 - Discrete Mathematics II (No longer offered)
++ MAT 230 - Introduction to Discrete Mathematics (No longer offered on campus)
++ MAT 235 - Discrete Mathematics II (No longer offered on campus)
 + MAT 239 - Introduction to Discrete Mathematics for Computing
 + MAT 240 - Applied Statistics
 + MAT 241 - Modern Statistics with Software
