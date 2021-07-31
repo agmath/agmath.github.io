@@ -22,9 +22,9 @@ opportunity to think about, and advocate for, making positive change around an i
 their local, state, or larger communities. As citizens of an increasingly interconnected world, I 
 believe it is important that we use our talents to improve the lives of everyone around us.  
   + <u>Academic Year 2021-2022 Case Studies:</u>  
-    + [Homelessness in the Queen City](https://drive.google.com/file/d/1tWxZblj9dpkdZTzEN02hWvqfbmzrotg1/view?usp=sharing)
-    + [Past, Present, Future of Policing and Community Response](https://drive.google.com/file/d/1lu4EF84r0VOcL2yzzq2drUbi_imcShRN/view?usp=sharing)
-    + [Pandemic: Past, Present, Future](https://drive.google.com/file/d/19lkPnDTdSyjblfKzgVptYdmNku1nRUVq/view?usp=sharing)
+    + [Homelessness in the Queen City](https://drive.google.com/file/d/1tWxZblj9dpkdZTzEN02hWvqfbmzrotg1/view?usp=sharing) (with V. Corbo)
+    + [Past, Present, Future of Policing and Community Response](https://drive.google.com/file/d/1lu4EF84r0VOcL2yzzq2drUbi_imcShRN/view?usp=sharing) (with L. Speropolous)
+    + [Pandemic: Past, Present, Future](https://drive.google.com/file/d/19lkPnDTdSyjblfKzgVptYdmNku1nRUVq/view?usp=sharing) (with J. Reis and K. Duryea)
   + <u>Previous Case Studies:</u>  
     + [2020, short descriptions](https://drive.google.com/file/d/1w7l0UZ3zxWrdrnMb1TjmEyN5AAu4QSZe/view?usp=sharing)
     + [2019, short descriptions](https://docs.google.com/document/d/1m4rplDV9tbh7xVKXbIUflRmch8NJUZYJtXf_gVYx7ec/edit?usp=sharing)
