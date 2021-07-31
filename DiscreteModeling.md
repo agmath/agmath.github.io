@@ -18,3 +18,5 @@ dynamical systems, agent-based models and simulation, graph-theoretic models, an
 students will develop skills in technical reporting. In fact, report-writing is a major component of this 
 course.*<br/>
 <br/><br/>
+
+[Back to Hompage](https://agmath.github.io/)
