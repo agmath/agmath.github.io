@@ -55,3 +55,7 @@ Need to write...
 ### Combinatorial Games
 
 Need to write...
+
+<br/><br/>
+
+[Back to Homepage](https://agmath.github.io/)
