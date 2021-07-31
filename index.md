@@ -4,10 +4,10 @@ title: Welcome
 
 ## Adam Gilbert, PhD
 
-<img src="/SiteFiles/face.jpg" align="left" width=150>Associate Professor of Mathematics<br/>
-Southern New Hampshire University<br/>
-Office: Robert Frost 215<br/>
-email: a [dot] gilbert1 [at] snhu [dot] edu
+<img src="/SiteFiles/face.jpg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
+&nbsp; &nbsp;Southern New Hampshire University<br/>
+&nbsp; &nbsp;Office: Robert Frost 215<br/>
+&nbsp; &nbsp;email: a [dot] gilbert1 [at] snhu [dot] edu
 
 <br/><br/>
 
