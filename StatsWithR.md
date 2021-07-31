@@ -9,6 +9,6 @@ description: This is a homepage for MAT241, Modern Statistics with Software, at 
 <br/>
 ***Course Description:*** This is a fundamental course in modern-day data, data visualization, and the application of statistical techniques to analyze and make inferences from sample data. In a world where data is being constantly collected, it is necessary for individuals to be data literate, to have exposure to the power of data, and to understand as well as practice proper and ethical analyses with data. In a world where data has become abundant, rather than scarce, statistical tools are evolving. This course looks at modern statistical techniques in the age of "Big-Data".<br/>
 <br/>
-*Students in this course will utilize R and will work with real-word (large and messy) datasets. Instructions for accessing course notes are available [here](https://github.com/agmath/AppliedStatsInteractive) (check the README file at the bottom of the page).*<br/>
+*Students in this course will utilize R and will work with real-word (large and messy) datasets. Instructions for accessing course notes are available [here]("/siteFiles/AccessingInteractiveNotes.html") and information about the package is available [here](https://github.com/agmath/AppliedStatsInteractive) (check the README file at the bottom of the page).*<br/>
 <br/><br/>
 
