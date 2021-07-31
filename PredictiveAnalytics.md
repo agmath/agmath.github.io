@@ -15,3 +15,5 @@ techniques to implement predictive models for a variety of practical business ap
 through scripted analyses outside of class meetings and then will get their hands dirty, working with real data
 during class time. Applications will vary according to student and instructor interests.*<br/>
 <br/><br/>
+
+[Back to Homepage](https://agmath.github.io/)
