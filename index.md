@@ -8,7 +8,7 @@ title: Welcome
 &nbsp; &nbsp;Southern New Hampshire University<br/>
 &nbsp; &nbsp;Office: Robert Frost 215<br/>
 &nbsp; &nbsp;email: a [dot] gilbert1 [at] snhu [dot] edu <br/>
-&nbsp; &nbsp;Download My: [CV](https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing), [Resume](https://drive.google.com/file/d/1f6bLxDBklwcRpG11SWjYMIpAAsnj3emF/view?usp=sharing)
+&nbsp; &nbsp;View My: [CV](https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing), <a href="https://agmath.github.io/SiteFiles/GilbertResume.html" title="Resume">Resume</a>
 
 <br/><br/>
 
