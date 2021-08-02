@@ -22,7 +22,6 @@ that you'll find some of the materials posted here to be interesting and useful.
 
 + [MAT 239 (Discrete Mathematics for Computing)](DiscreteForComputing.md)
 + [MAT 241 (Modern Statistics with Software)](StatsWithR.md)
-+ [MAT 431 (Introduction to Discrete Mathematical Modeling)](DiscreteModeling.md)
 + [QSO 370/570 (Predictive Analytics)](PredictiveAnalytics.md)
 
 ### Course Information from Previous Semesters
