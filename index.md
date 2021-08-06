@@ -12,27 +12,30 @@ title: Welcome
 
 <br/><br/>
 
-Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and research interests have transitioned to data science. In particular, I am interested in data science projects that promote the *social good*. I hope that you'll find some of the materials posted here to be interesting and useful.
+Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and research interests have transitioned to data science. In particular, I am interested in data science projects that promote the *social good*. I hope that you'll find some of the materials posted here to be interesting and useful.<br/>
+(Links: [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
-## Currently Teaching (Fall 2021)
+
+### Currently Teaching
 
 + [MAT 239 (Discrete Mathematics for Computing)](DiscreteForComputing.md)
 + [MAT 241 (Modern Statistics with Software)](StatsWithR.md)
 + [QSO 370/570 (Predictive Analytics)](PredictiveAnalytics.md)
 
+
 ### Course Information from Previous Semesters
 
 You can find information about courses I've taught in previous semesters [here](OldCourses.md).
 
-## Interested in Undergraduate Research?
+### Research With Undergraduates
 
 Are you a current SNHU student who is interested in pursuing an undergraduate research project?I'm really interested in projects involving data science and machine learning, simulation and agent-based modeling, mathematical models, and anything involving graph theory or combinatiorial games. Check out [this page](UGRmentor.md) for more on my interests, recent projects with students, and how to contact me if you are interested in working together.
 
-## Data Science and Machine Learning
+### Data Science and Machine Learning
 
 I became interested in data science in 2016 and have (slowly) been transitioning my professional focus in this direction ever since. While I'm not much of a blogger, you can check in on what I'm up to [here](MyDSjourney.md).
 
-## Other Initiatives
+### Other Initiatives
 
 In addition to teaching undergraduate and graduate students at Southern New Hampshire University, I have pursued various external projects.
 
