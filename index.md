@@ -38,7 +38,11 @@ In addition to teaching undergraduate and graduate students at Southern New Hamp
 
   + I worked with [Reaching Higher New Hampshire](https://reachinghighernh.org/) as a data science consultant on a variety of projects related to the state of public education in New Hampshire as well as education funding in New Hampshire.
   + I am on the *Steering Committee* for the North Shore Undergraduate Mathematics Conference (link to be added), a regional conference dedicated to making mathematics accessible to any math undergraduates, with participants from throughout eastern Massachusetts and New Hampshire.
-  + I have run several summer workshops to help faculty across a wide range of disciplines at Southern New Hampshire University learn about data science, machine learning, and [natural language processing](https://agmath.github.io/FacultyUpskilling/).
+  + I have run several summer *Faculty Upskilling* workshops here at SNHU. These workshops are targeted at faculty from a variety of disciplines. The two I have run are:  
+
+    +  Introductory through Intermediate Data Science and Machine Learning (2020) 
+    +  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling/) (2021, with William Jamieson)
+
   + I am very passionate about high-quality open educational resources (OER). I have been working with [OpenIntro.org](https://www.openintro.org/) since 2015. 
  
     + I developed and maintain a course shell at [MyOpenMath](https://www.myopenmath.com/) which aligns with the OpenIntro Statistics (4Ed) textbook.
