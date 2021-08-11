@@ -12,8 +12,8 @@ title: Welcome
 
 <br/><br/>
 
-Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and research interests have transitioned to data science. In particular, I am interested in data science projects that promote the *social good*. I hope that you'll find some of the materials posted here to be interesting and useful.<br/>
-(Page Links: [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
+Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and interests have transitioned to data science over the past five years. In particular, I am interested in data science projects that promote the *social good*. The pages on this site contain information about the courses I teach, my current interests/endeavors, and information for people (particularly students) who are interested in working with me. I hope you'll find something useful during your visit!<br/>
+(**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
 ### Currently Teaching
@@ -33,7 +33,7 @@ Are you a current SNHU student who is interested in pursuing an undergraduate re
 
 ### Data Science and Machine Learning
 
-I became interested in data science in 2016 and have (slowly) been transitioning my professional focus in this direction ever since. While I'm not much of a blogger, you can check in on what I'm up to [here](MyDSjourney.md).
+I became interested in data science in 2016 and have (slowly) been transitioning my professional focus in this direction ever since. While I'm not much of a blogger, you'll eventually be able to check in on what I'm up to [here](MyDSjourney.md).
 
 ### Other Initiatives
 
@@ -43,7 +43,7 @@ In addition to teaching undergraduate and graduate students at Southern New Hamp
   + I am on the *Steering Committee* for the North Shore Undergraduate Mathematics Conference (link to be added), a regional conference dedicated to making mathematics accessible to any math undergraduates, with participants from throughout eastern Massachusetts and New Hampshire.
   + I have run several summer *Faculty Upskilling* workshops here at SNHU. These workshops are targeted at faculty from a variety of disciplines. The two I have run are:  
 
-    +  Introductory through Intermediate Data Science and Machine Learning (2020) 
+    +  Introductory and Intermediate Data Science / Machine Learning (2020) 
     +  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling/) (2021, with William Jamieson)
 
   + I am very passionate about high-quality open educational resources (OER). I have been working with [OpenIntro.org](https://www.openintro.org/) since 2015. 
