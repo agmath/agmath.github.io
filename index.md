@@ -39,15 +39,24 @@ I became interested in data science in 2016 and have (slowly) been transitioning
 
 In addition to teaching undergraduate and graduate students at Southern New Hampshire University, I have pursued various external projects.
 
-  + I worked with [Reaching Higher New Hampshire](https://reachinghighernh.org/) as a data science consultant on a variety of projects related to the state of public education in New Hampshire as well as education funding in New Hampshire.
-  + I am on the *Steering Committee* for the North Shore Undergraduate Mathematics Conference (link to be added), a regional conference dedicated to making mathematics accessible to any math undergraduates, with participants from throughout eastern Massachusetts and New Hampshire.
-  + I have run several summer *Faculty Upskilling* workshops here at SNHU. These workshops are targeted at faculty from a variety of disciplines. The two I have run are:  
+#### Faculty Upskilling Workshops
 
-    +  Introductory and Intermediate Data Science / Machine Learning (2020) 
-    +  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling/) (2021, with William Jamieson)
+I have run several summer *Faculty Upskilling* workshops here at SNHU. These workshops are targeted at faculty from a variety of disciplines, spanning the humanities through the sciences. The two workshops I have run are below (links to the 2020 ML Workshop materials will be added at a later date).  
++  Introductory and Intermediate Data Science / Machine Learning (2020) 
++  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling/) (2021, with William Jamieson)
 
-  + I am very passionate about high-quality open educational resources (OER). I have been working with [OpenIntro.org](https://www.openintro.org/) since 2015. 
- 
-    + I developed and maintain a course shell at [MyOpenMath](https://www.myopenmath.com/) which aligns with the OpenIntro Statistics (4Ed) textbook.
-    + I developed and maintain a set of interactive notes for a course using the OpenIntro Statistics (4Ed) textbook and the R language. You can find those notebooks and installation instructions [here](https://github.com/agmath/AppliedStatsInteractive)
-    + I have run several workshops for faculty at SNHU to discuss the advantages of adopting OER as well as where to find high-quality resources. 
+#### Open Educational Resources (OER)
+
+I am very passionate about high-quality open educational resources (OER). I have been working with [OpenIntro.org](https://www.openintro.org/) to develop and enhance freely-available and open-source applied statistics content since 2015. Additionally, I am an OER Evangelist at Southern New Hampshire University.
++ I developed and maintain a course shell at [MyOpenMath](https://www.myopenmath.com/) which aligns with the OpenIntro Statistics (4Ed) textbook.
++ I developed and maintain a set of interactive notes for a course using the OpenIntro Statistics (4Ed) textbook and the R language. You can find those notebooks and installation instructions [here](https://github.com/agmath/AppliedStatsInteractive). Please let me know if you are using them!
+
+#### Data Science Consulting
+
+I have worked with [Reaching Higher New Hampshire](https://reachinghighernh.org/) as a data science consultant since 2018 on a variety of projects related to the state of public education in New Hampshire as well as education funding in New Hampshire.
+
+#### North Shore Undergraduate Mathematics Conference
+
+I am on the *Steering Committee* for the North Shore Undergraduate Mathematics Conference (link to be added), a regional conference dedicated to making mathematics accessible to any math undergraduates, with participants from throughout eastern Massachusetts and New Hampshire.
+
+
