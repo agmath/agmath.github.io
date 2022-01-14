@@ -5,14 +5,12 @@ title: Welcome
 ## Adam Gilbert, PhD
 
 <img src="/SiteFiles/face.jpg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
-&nbsp; &nbsp;Southern New Hampshire University<br/>
-&nbsp; &nbsp;Office: Robert Frost 215<br/>
-&nbsp; &nbsp;email: a [dot] gilbert1 [at] snhu [dot] edu <br/>
+&nbsp; &nbsp;email: agilbertmath [at] gmail [dot] com <br/>
 &nbsp; &nbsp;View My: [CV](https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing), <a href="https://agmath.github.io/SiteFiles/GilbertResume.html" title="Resume">Resume</a>
 
 <br/><br/>
 
-Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and interests have transitioned to data science over the past five years. In particular, I am interested in data science projects that promote the *social good*. The pages on this site contain information about the courses I teach, my current interests/endeavors, and information for people (particularly students) who are interested in working with me. I hope you'll find something useful during your visit!<br/>
+Hello, and welcome to my webpage! I am a former Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and interests have transitioned to data science over the past five years. In particular, I am interested in data science projects that promote the *social good*. The pages on this site contain information about the courses I teach, my current interests/endeavors, and information for people (particularly students) who are interested in working with me. I hope you'll find something useful during your visit!<br/>
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
