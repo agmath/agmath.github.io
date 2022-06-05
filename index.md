@@ -41,7 +41,7 @@ In addition to teaching undergraduate and graduate students at Southern New Hamp
 
 I have run several summer *Faculty Upskilling* workshops here at SNHU. These workshops are targeted at faculty from a variety of disciplines, spanning the humanities through the sciences. The two workshops I have run are below (links to the 2020 ML Workshop materials will be added at a later date).  
 +  Introductory and Intermediate Data Science / Machine Learning (2020) 
-+  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling_NLP/) (2021, with William Jamieson)
++  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling/) (2021, with William Jamieson)
 
 #### Open Educational Resources (OER)
 
