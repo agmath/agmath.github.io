@@ -16,10 +16,9 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 
 ### Currently Teaching
 
++ [MAT 225 (Calculus I)](CalculusI.md)
 + [MAT 239 (Discrete Mathematics for Computing)](DiscreteForComputing.md)
-+ [MAT 241 (Modern Statistics with Software)](StatsWithR.md)
-+ [QSO 370/570 (Predictive Analytics)](PredictiveAnalytics.md)
-
++ [MAT 299 (Introduction to Proof and Problem Solving)](ProofsCourse.md)
 
 ### Course Information from Previous Semesters
 
