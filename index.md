@@ -5,7 +5,7 @@ title: Welcome
 ## Adam Gilbert, PhD
 
 <img src="/SiteFiles/face.jpg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
-&nbsp; &nbsp;email: agilbertmath [at] gmail [dot] com <br/>
+&nbsp; &nbsp;email: a.gilbert1 [at] snhu [dot] edu <br/>
 &nbsp; &nbsp;View My: [CV](https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing), <a href="https://agmath.github.io/SiteFiles/GilbertResume.html" title="Resume">Resume</a>
 
 <br/><br/>
@@ -16,10 +16,9 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 
 ### Currently Teaching
 
++ [MAT 225 (Calculus I)](CalculusI.md)
 + [MAT 239 (Discrete Mathematics for Computing)](DiscreteForComputing.md)
-+ [MAT 241 (Modern Statistics with Software)](StatsWithR.md)
-+ [QSO 370/570 (Predictive Analytics)](PredictiveAnalytics.md)
-
++ [MAT 299 (Introduction to Proof and Problem Solving)](ProofsCourse.md)
 
 ### Course Information from Previous Semesters
 
@@ -41,7 +40,7 @@ In addition to teaching undergraduate and graduate students at Southern New Hamp
 
 I have run several summer *Faculty Upskilling* workshops here at SNHU. These workshops are targeted at faculty from a variety of disciplines, spanning the humanities through the sciences. The two workshops I have run are below (links to the 2020 ML Workshop materials will be added at a later date).  
 +  Introductory and Intermediate Data Science / Machine Learning (2020) 
-+  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling_NLP/) (2021, with William Jamieson)
++  [Foundations of Natural Language Processing](https://agmath.github.io/FacultyUpskilling/) (2021, with William Jamieson)
 
 #### Open Educational Resources (OER)
 
