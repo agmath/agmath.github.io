@@ -48,6 +48,8 @@ I am very passionate about high-quality open educational resources (OER). I have
 + I developed and maintain a course shell at [MyOpenMath](https://www.myopenmath.com/) which aligns with the OpenIntro Statistics (4Ed) textbook.
 + I developed and maintain a set of interactive notes for a course using the OpenIntro Statistics (4Ed) textbook and the R language. You can find those notebooks and installation instructions [here](https://github.com/agmath/AppliedStatsInteractive). Please let me know if you are using them!
 
+I've also begun collaborating with two of my other colleagues from SNHU on an open-source and interactive text to accompany our Discrete Mathematics for Computing course at SNHU. This is a course designed for first-semester students whose majors involve computing (Computer Science, Game Programming and Development, Information Technology, Computer and Information Systems, etc.). You can see the current status of the draft text [here](https://agmath.github.io/DiscreteMathForComputing/output/html/frontmatter.html).
+
 #### Data Science Consulting
 
 I have worked with [Reaching Higher New Hampshire](https://reachinghighernh.org/) as a data science consultant since 2018 on a variety of projects related to the state of public education in New Hampshire as well as education funding in New Hampshire.
