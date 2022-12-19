@@ -13,7 +13,7 @@ Content covered in this course is relevant to exploring human and viral genomes,
 <br/>
 
 
-[Click Here](https://mcduryea.github.io/Intro-to_Bioinformatics/) to access the Quarto Notebooks for this course.<br/>
+[Click Here](https://mcduryea.github.io/Intro-to-Bioinformatics/) to access the Quarto Notebooks for this course.<br/>
 <br/>
 
 
