@@ -1,5 +1,5 @@
 ---
-title: Applied Statistics II: Regression Analysis
+title: Applied Statistics II (Regression Analysis)
 description: This is a homepage for MAT300, Regression Analysis, with Dr. Gilbert at Southern New Hampshire University. This course introduces students to the construction, assessment, and interpretation of models in the regression setting.
 ---
 
