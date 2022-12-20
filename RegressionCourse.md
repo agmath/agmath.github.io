@@ -13,6 +13,15 @@ description: This is a homepage for MAT300, Regression Analysis, with Dr. Gilber
 Students in this course will use R, in particular the `tidyverse` and `tidymodels` ecosystems, to build and analyze regression models. The course covers simple and multiple linear regression, curvi-linear regression with polynomial and interaction terms, regularization with Ridge Regression and the LASSO, and tree-based models/ensembles. Cross-validation is implemented as an important technique for stable and unbiased model performance estimates, for identifying appropriate levels of model flexibility, and for hyperparameter tuning.<br/>
 <br/>
 
+### Course Notes
+
+| Class Meeting | Before Class | During Class | After Class |
+|---------------|--------------|--------------|-------------|
+| 1 | [Review Syllabus](https://drive.google.com/file/d/16uY1DsSHVn3eMP1pL3G1t592U7ljlw2O/view?usp=share_link) <br/> [Install R and RStudio](https://agmath.github.io/RegressionCourse/1b_AccessingRandRStudio.html) | [Introduction and What to Expect](https://agmath.github.io/RegressionCourse/1d_Outline.html)<br/> Ethics and Data Models | Homework 1|
+
+<br/>
+<br/>
+
 [Click here](https://agmath.github.io/RegressionCourse/) to obtain copies of the course notebooks and markdown files.<br/>
 <br/>
 
