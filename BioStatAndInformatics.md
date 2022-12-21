@@ -18,6 +18,13 @@ Content covered in this course is relevant to exploring human and viral genomes,
 |---------------|--------------|--------------|-------------|
 | 1 | [Review Syllabus](https://drive.google.com/file/d/1bId6EQV03bh8t0prF1kwzZczLpZCHNmc/view?usp=share_link) <br/> [Attempt Software Setup](https://mcduryea.github.io/Intro-to-Bioinformatics/SoftwareSetup.html) | Introduction and Software Setup | Homework 1 -- Complete Software Setup |
 | 2 | Setup a GitHub Account | [My First Repo and Commit](https://mcduryea.github.io/Intro-to-Bioinformatics/MyFirstRepoAndCommit.html) | Homework 2 -- Make a Commit to Your Repository |
+| 3 | Strarter Notebook ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/StarterNotebook.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/StarterNotebook.qmd)) | Tidy Analyses in R ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/TidyAnalysesInR.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/TidyAnalysesInR.qmd)) | Homework 3 - Commit Your Tidy Analsis to Your Repository | 
+| 4 |  | [From Description to Inference](https://mcduryea.github.io/Intro-to-Bioinformatics/FromDescriptionToInference.html) |  |
+| 5 |  | Simulation-Based Inference ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ClassicalInferenceAndSimulationBasedInference.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ClassicalInferenceAndSimulationBasedInference.qmd) |  |  
+| 6 | Look at Available Data Sets | [Generating Hypotheses](https://mcduryea.github.io/Intro-to-Bioinformatics/GeneratingHypotheses.html) | Homework 4 -- Generate Hypotheses | 
+| 7 |  | [Exploratory Analysis And Reporting](https://mcduryea.github.io/Intro-to-Bioinformatics/ExploratoryAnalysesAndReporting.html) | Homework 5 -- Write Partial Abstract, Introduction, and Exploratory Analysis | 
+| 8 |  | [Inference And Reporting](https://mcduryea.github.io/Intro-to-Bioinformatics/InferenceAndReporting.html) | Homework 6 -- Test Your Hypotheses and Describe the Results | 
+| 9 | [GitHub Pages and Publishing](https://mcduryea.github.io/Intro-to-Bioinformatics/GitHubPagesAndPublishing.html) | Work on GitHub Pages Page | Homework 7 -- Publish Your Report to Your GitHub Page | 
 
 <br/>
 <br/>
