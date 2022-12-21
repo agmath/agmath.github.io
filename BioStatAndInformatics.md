@@ -32,9 +32,10 @@ Content covered in this course is relevant to exploring human and viral genomes,
 | 14 |  | Replication Origin, Part II ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.qmd)) | Homework 9 -- Replication Origin Project Check-In | 
 | 15 |  | Replication Origin, Part III ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIII.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIII.qmd)) |  |
 | 16 |  | Replication Origin, Part IV ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIV.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIV.qmd)) | Homework 10 -- Replication Origin Project Check-In | 
+| 17 |  | Replication Origin, Part V ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartV.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartV.qmd)) |  | 
+| 18 |  | Finish and Recap Replication Origin Projects | Project I Due | 
+| 19+ | Final Projects | Final Projects | Final Projects| 
 
-| 18 |  | Finish and Recap Replication Origin Project | Project I Due |
-| 19+ | Final Projects | Final Projects | Final Projects |
 <br/>
 <br/>
 
