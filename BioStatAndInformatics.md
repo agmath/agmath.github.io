@@ -30,6 +30,8 @@ Content covered in this course is relevant to exploring human and viral genomes,
 | 12 |  | An Introduction to Replication |  | 
 | 13 | [Accessing Group Repository](https://mcduryea.github.io/Intro-to-Bioinformatics/Accessing_Group_Repository.html) | Replication Origin, Part I ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.qmd)) |  | 
 | 14 |  | Replication Origin, Part II ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.qmd)) | Homework 9 -- Replication Origin Project Check-In | 
+| 15 |  | Replication Origin, Part III ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIII.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIII.qmd)) |  |
+| 16 |  | Replication Origin, Part IV ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIV.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIV.qmd)) | Homework 10 -- Replication Origin Project Check-In | 
 
 <br/>
 <br/>
