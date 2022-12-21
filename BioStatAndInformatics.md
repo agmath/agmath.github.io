@@ -16,7 +16,7 @@ Content covered in this course is relevant to exploring human and viral genomes,
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | [Review Syllabus](https://drive.google.com/file/d/1bId6EQV03bh8t0prF1kwzZczLpZCHNmc/view?usp=share_link) <br/> [Attempt Software Setup](https://mcduryea.github.io/Intro-to-Bioinformatics/SoftwareSetup.html) | Introduction and Software Setup | Homework 1 -- Complete Software Setup |
+| 1 | [Review Syllabus](https://drive.google.com/file/d/1nDKZ1NF2TiZCX3hQ0yc6PCtVybeGGLUW/view?usp=share_link) <br/> [Attempt Software Setup](https://mcduryea.github.io/Intro-to-Bioinformatics/SoftwareSetup.html) | Introduction and Software Setup | Homework 1 -- Complete Software Setup |
 | 2 | Setup a GitHub Account | [My First Repo and Commit](https://mcduryea.github.io/Intro-to-Bioinformatics/MyFirstRepoAndCommit.html) | Homework 2 -- Make a Commit to Your Repository |
 | 3 | Strarter Notebook ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/StarterNotebook.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/StarterNotebook.qmd)) | Tidy Analyses in R ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/TidyAnalysesInR.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/TidyAnalysesInR.qmd)) | Homework 3 - Commit Your Tidy Analsis to Your Repository | 
 | 4 |  | [From Description to Inference](https://mcduryea.github.io/Intro-to-Bioinformatics/FromDescriptionToInference.html) |  |
@@ -26,9 +26,9 @@ Content covered in this course is relevant to exploring human and viral genomes,
 | 8 |  | [Inference And Reporting](https://mcduryea.github.io/Intro-to-Bioinformatics/InferenceAndReporting.html) | Homework 6 -- Test Your Hypotheses and Describe the Results | 
 | 9 | [GitHub Pages and Publishing](https://mcduryea.github.io/Intro-to-Bioinformatics/GitHubPagesAndPublishing.html) | Work on GitHub Pages Page | Homework 7 -- Publish Your Report to Your GitHub Page | 
 | 10 |  | The Genome and Bioinformatics |  |
-| 11 |  | Intro to R for Bioinformatics ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/IntroToRforBioinformatics.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/IntroToRforBioinformatics.qmd)) |  |
+| 11 | [Accessing Group Repository](https://mcduryea.github.io/Intro-to-Bioinformatics/Accessing_Group_Repository.html) | Intro to R for Bioinformatics ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/IntroToRforBioinformatics.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/IntroToRforBioinformatics.qmd)) |  |
 | 12 |  | An Introduction to Replication |  | 
-| 13 | [Accessing Group Repository](https://mcduryea.github.io/Intro-to-Bioinformatics/Accessing_Group_Repository.html) | Replication Origin, Part I ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.qmd)) |  | 
+| 13 |  | Replication Origin, Part I ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.qmd)) |  | 
 | 14 |  | Replication Origin, Part II ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.qmd)) | Homework 9 -- Replication Origin Project Check-In | 
 | 15 |  | Replication Origin, Part III ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIII.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIII.qmd)) |  |
 | 16 |  | Replication Origin, Part IV ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIV.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartIV.qmd)) | Homework 10 -- Replication Origin Project Check-In | 
