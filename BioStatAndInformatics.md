@@ -25,6 +25,11 @@ Content covered in this course is relevant to exploring human and viral genomes,
 | 7 |  | [Exploratory Analysis And Reporting](https://mcduryea.github.io/Intro-to-Bioinformatics/ExploratoryAnalysesAndReporting.html) | Homework 5 -- Write Partial Abstract, Introduction, and Exploratory Analysis | 
 | 8 |  | [Inference And Reporting](https://mcduryea.github.io/Intro-to-Bioinformatics/InferenceAndReporting.html) | Homework 6 -- Test Your Hypotheses and Describe the Results | 
 | 9 | [GitHub Pages and Publishing](https://mcduryea.github.io/Intro-to-Bioinformatics/GitHubPagesAndPublishing.html) | Work on GitHub Pages Page | Homework 7 -- Publish Your Report to Your GitHub Page | 
+| 10 |  | The Genome and Bioinformatics |  |
+| 11 |  | Intro to R for Bioinformatics ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/IntroToRforBioinformatics.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/IntroToRforBioinformatics.qmd)) |  |
+| 12 |  | An Introduction to Replication |  | 
+| 13 | [Accessing Group Repository](https://mcduryea.github.io/Intro-to-Bioinformatics/Accessing_Group_Repository.html) | Replication Origin, Part I ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartI.qmd)) |  | 
+| 14 |  | Replication Origin, Part II ([html](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.html), [qmd](https://mcduryea.github.io/Intro-to-Bioinformatics/ReplicationOrigin_PartII.qmd)) | Homework 9 -- Replication Origin Project Check-In | 
 
 <br/>
 <br/>
