@@ -42,7 +42,4 @@ Students in this course will use R, in particular the `tidyverse` and `tidymodel
 <br/>
 <br/>
 
-[Click here](https://agmath.github.io/RegressionCourse/) to obtain copies of the course notebooks and markdown files.<br/>
-<br/>
-
 [Back to Hompage](https://agmath.github.io/)
