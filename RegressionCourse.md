@@ -35,7 +35,7 @@ Students in this course will use R, in particular the `tidyverse` and `tidymodel
 | 16 | Read ISLR S5.1 ([Part I](https://youtu.be/ngrOYWgJjb4), [Part II](https://youtu.be/rSGzUy13F_0), [Part III](https://youtu.be/r64tRyHFAJ8)) | Performance Concerns Continued: Different Test, Different Expectations <br/> Cross-Validation and Unbiased Model Performance ([html](https://agmath.github.io/RegressionCourse/16d_CrossValidation.html), [rmd](https://agmath.github.io/RegressionCourse/16d_CrossValidation.rmd)) | Homework 3 |
 | 17 | Read ISLR S6.1, 6.2 ([Part IV](https://youtu.be/f_hkP_We0JY), [Part V](https://youtu.be/I8bPQ272Pbs), [Part VI](https://youtu.be/FlSQgXv7Dvw), <br/> [Part VII](https://youtu.be/8oEZkHqf_Rk)) | Variable Selection Methods: <br/> Stepwise Regression, Ridge Regression, and the LASSO ([html](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.html), [rmd](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.rmd)) |  |
 | 18 |  | Other Regressors ([html](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.html), [rmd](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.rmd)) | [Competition Assignment 6](https://agmath.github.io/RegressionCourse/CA6_OtherRegressors_SubmitPredictions.html) | 
-| 19 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation |  |
+| 19 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation ([html](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.html), [rmd](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.rmd)) |  |
 | 20 | [Read ISLR S4.3](https://youtu.be/RN_dweQpcpo) | Classification with Logistic Regression |  |
 | 21+ | Projects | Projects | Projects |
 
