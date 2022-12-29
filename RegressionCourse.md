@@ -36,7 +36,7 @@ Students in this course will use R, in particular the `tidyverse` and `tidymodel
 | 17 | Read ISLR S6.1, 6.2 ([Part IV](https://youtu.be/f_hkP_We0JY), [Part V](https://youtu.be/I8bPQ272Pbs), [Part VI](https://youtu.be/FlSQgXv7Dvw), <br/> [Part VII](https://youtu.be/8oEZkHqf_Rk)) | Variable Selection Methods: <br/> Stepwise Regression, Ridge Regression, and the LASSO ([html](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.html), [rmd](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.rmd)) |  |
 | 18 |  | Other Regressors ([html](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.html), [rmd](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.rmd)) | [Competition Assignment 6](https://agmath.github.io/RegressionCourse/CA6_OtherRegressors_SubmitPredictions.html) | 
 | 19 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation ([html](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.html), [rmd](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.rmd)) |  |
-| 20 | [Read ISLR S4.3](https://youtu.be/RN_dweQpcpo) | Classification with Logistic Regression |  |
+| 20 | [Read ISLR S4.3](https://youtu.be/RN_dweQpcpo) | Classification with Logistic Regression ([html](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.html), [rmd](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.rmd)) |  |
 | 21+ | Projects | Projects | Projects |
 
 <br/>
