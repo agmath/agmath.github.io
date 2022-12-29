@@ -13,7 +13,7 @@ description: This is a homepage for MAT300, Regression Analysis, with Dr. Gilber
 Students in this course will use R, in particular the `tidyverse` and `tidymodels` ecosystems, to build and analyze regression models. The course covers simple and multiple linear regression, curvi-linear regression with polynomial and interaction terms, regularization with Ridge Regression and the LASSO, and tree-based models/ensembles. Cross-validation is implemented as an important technique for stable and unbiased model performance estimates, for identifying appropriate levels of model flexibility, and for hyperparameter tuning.<br/>
 <br/>
 
-### Course Notes
+### Course Timeline and Notebooks
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
