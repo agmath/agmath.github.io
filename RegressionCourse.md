@@ -15,6 +15,8 @@ Students in this course will use R, in particular the `tidyverse` and `tidymodel
 
 ### Course Timeline and Notebooks
 
+Below is a tentative timeline for our course. It includes preparatory work that should be done prior to each class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each class meeting. The prepared notebooks use the Palmer `penguins` and `ames` housing datasets and are provided so that you have a detailed account of each topic we discuss. We'll learn this content better by *doing* it that we will by simply *reading* and *running* pre-existing code, so we'll plan to utilize different data in class. For now, I'm planning to start with [this data set](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-07-05) on rental properties in the San Francisco Bay Area posted to Craigslist, generously made open by [Dr. Kate Pennington](https://www.katepennington.org/data). We can switch to alternate data sets as student interest dictates. I've prepared the following student notes template ([html](https://agmath.github.io/RegressionCourse/StudentNotesTemplate.html), [rmd](https://agmath.github.io/RegressionCourse/StudentNotesTemplate.rmd)) that I hope you'll use to follow along during our in-class discussions. 
+
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
 | 1 | [Review Syllabus](https://drive.google.com/file/d/16uY1DsSHVn3eMP1pL3G1t592U7ljlw2O/view?usp=share_link) <br/> [Install R and RStudio](https://agmath.github.io/RegressionCourse/1b_AccessingRandRStudio.html) | [Introduction and What to Expect](https://agmath.github.io/RegressionCourse/1d_Outline.html)<br/> Ethics and Data Models |  |
@@ -38,6 +40,18 @@ Students in this course will use R, in particular the `tidyverse` and `tidymodel
 | 19 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation ([html](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.html), [rmd](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.rmd)) |  |
 | 20 | [Read ISLR S4.3](https://youtu.be/RN_dweQpcpo) | Classification with Logistic Regression ([html](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.html), [rmd](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.rmd)) |  |
 | 21+ | Projects | Projects | Projects |
+
+<br/>
+<br/>
+
+***
+
+> DeCock, Dean (2011). Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project. Journal of Statistics Education Volume 19, Number 3(2011),
+http://www.amstat.org/publications/jse/v19n3/decock.pdf
+> Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. doi:10.5281/zenodo.3960218, R package version 0.1.0, https://allisonhorst.github.io/palmerpenguins/.
+> Pennington, Kate (2018). Bay Area Craigslist Rental Housing Posts, 2000-2018. Retrieved from https://github.com/katepennington/historic_bay_area_craigslist_housing_posts/blob/master/clean_2000_2018.csv.zip.
+
+***
 
 <br/>
 <br/>
