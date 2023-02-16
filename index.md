@@ -21,6 +21,7 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 + [MAT 300 (Regression Analysis)](RegressionCourse.md)
 + [BIO4ST1 (Bioinformatics)](BioStatAndInformatics.md)
 + [QSO570 (Predictive Analytics)](PredictiveAnalytics.md)
++ [New Sample Page](SamplePage.md)
 
 ### Course Information from Previous Semesters
 
