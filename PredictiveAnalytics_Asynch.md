@@ -50,8 +50,9 @@ Below is a tentative timeline for our course. It includes Course Content and Ass
 
 | Week | Class Content | Assignments |
 |---------------|--------------|--------------|
-| 0 | [Intro to Class Video](https://youtu.be/pjeqjpvAm88)<br/> [Enabling Google Colaboratory](https://youtu.be/y_yRHa0nF1w) <br/> [Intro to Jupyter Notebooks](https://youtu.be/PiZ4DOz-8Qg) | Start HW 0 | <br/>
+| 0 | [Intro to Class Video](https://youtu.be/pjeqjpvAm88)<br/> [Enabling Google Colaboratory](https://youtu.be/y_yRHa0nF1w) <br/> [Intro to Jupyter Notebooks](https://youtu.be/PiZ4DOz-8Qg) | Start HW 0 |
 | 1 | [Terminology Overview Notebook](https://drive.google.com/file/d/17lKP6we86m62OYsn4QGKST3Po-3XF8jD/view?usp=share_link) ([Video Overview](https://youtu.be/wTLqhm42skM)) <br/> [Python for Analytics Notebook](https://drive.google.com/file/d/186A8tMcz_6B0UhpVZVXBTiXjvgnwe5hB/view?usp=share_link) (Videos: [Part I](https://youtu.be/VXKTCAAX-GE), [Part II](https://youtu.be/MR0lOgFiM3g)) | Slack Prompt (Wed) <br/> Slack Prompt (Sun) <br/> HW 0 Due (Sunday, May 7) <br/> Start Group Assign. 1 |
+| 2 | Next Week | Next Assignments |
 
 <br/>
 <br/>
