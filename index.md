@@ -14,14 +14,9 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
-### Currently Teaching
+### Currently Teaching (Summer 2023)
 
-
-+ [MAT 239 (Discrete Mathematics for Computing)](DiscreteForComputing.md)
-+ [MAT 300 (Regression Analysis)](RegressionCourse.md)
-+ [BIO4ST1 (Bioinformatics)](BioStatAndInformatics.md)
-+ [QSO570 (Predictive Analytics)](PredictiveAnalytics.md)
-+ [New Sample Page](SamplePage.md)
++ [QSO570 (Predictive Analytics, Remote-Asynchronous)](PredictiveAnalytics_Asynch.md)
 
 ### Course Information from Previous Semesters
 
