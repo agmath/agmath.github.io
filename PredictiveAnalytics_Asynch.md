@@ -5,7 +5,7 @@ description: This is a homepage for QSO370/570, Predictive Analytics, at Souther
 
 ## QSO 370/570 - Predictive Analytics
 
-<img src="/SiteFiles/PredictiveAnalytics.jpg" align="left" width=150>[**Syllabus (Spring 2023)**](https://drive.google.com/file/d/16yODiy9IGApwMPQwDoIAyPxTqyJWXZsh/view?usp=share_link)<br/>
+<img src="/SiteFiles/PredictiveAnalytics.jpg" align="left" width=150>[**Syllabus (Summer 2023)**](https://drive.google.com/file/d/1qLpncU502GH8MyOKrimO3Z2542lPtfpA/view?usp=share_link)<br/>
 <br/>
 ***Course Description:*** This course introduces the techniques of predictive modeling in a data-rich business 
 environment in order to predict future business outcomes and associated risks. It covers multivariate and other 
