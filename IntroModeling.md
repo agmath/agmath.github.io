@@ -20,7 +20,7 @@ Earth sciences, social sciences, engineering, and/or business.<br/>
 
 Below is a tentative timeline for our course. It includes preparatory work that should be done prior to each 
 class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each 
-class meeting.<br/>
+class meeting.
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
