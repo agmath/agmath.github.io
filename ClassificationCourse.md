@@ -31,6 +31,7 @@ in-class discussions.
 | 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Install R and RStudio](https://agmath.github.io/RegressionCourse/1b_AccessingRandRStudio.html) | Introduction and What to Expect <br/> Ethics and Data Models |  |
 | 2 | Enroll in Competition <br/> Read ISLR S2.1 ([Part I](https://www.youtube.com/watch?v=p9n2w236B48), [Part II](https://www.youtube.com/watch?v=HndOzII4jzs)) | Competition Discussion <br/> What is an Analytics Report? ([html](https://agmath.github.io/RegressionCourse/WhatIsAnAnalyticsReport.html), [rmd](https://agmath.github.io/RegressionCourse/WhatIsAnAnalyticsReport.Rmd)) | Competition Assignment 1  <br/> Analytics Report Shell ([html](https://agmath.github.io/RegressionCourse/AnalyticsReportShell.html), [rmd](https://agmath.github.io/RegressionCourse/AnalyticsReportShell.rmd)) |
 | 3 | TBD |  |  | 
+
 <br/>
 <br/>
 
