@@ -22,15 +22,14 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each 
 class meeting.
 
-| Class Meeting | Before Class | During Class | After Class |
-|---------------|--------------|--------------|-------------|
-| 1 | TBD | TBD | TBD |
-| 2 | TBD | TBD | TBD |
-
-<br/>
-<br/>
-
-***
+| Week Number(s) | Topic | Assignments and Due Dates |
+|---------------|--------------|--------------|
+| 1 | Course Overview <br/> Introduction to the modeling process <br/> **Application I:** *Plan a trip...* | TBD |
+| 2 - 3 | **Application II:** *Going to get gas...* | TBD |
+| 4 |  | Week 4 Exam |
+| 5 - 8| **Application III:** [*Deploying a recycling program*](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | TBD |
+| 9 - 12 | **Application IV:**<br/> > [*Redicing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) <br/> > [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) <br/> > [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem) | TBD | 
+|13 - 16 | Final Projects |  |
 
 <br/>
 <br/>
