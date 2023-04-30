@@ -10,7 +10,7 @@ Links will be added to the list below, with information about each course.
 + [BIO4ST1 - Bioinformatics (with K. Duryea)](BioStatAndInformatics.md)
 + MAT140 - Precalculus (no longer offered on campus)
 + [MAT215 - Introduction to Math Modeling](IntroModeling.md)
-+ [MAT225 (Calculus I](CalculusI.md)
++ [MAT225 - Calculus I](CalculusI.md)
 + MAT230 - Introduction to Discrete Mathematics (No longer offered on campus)
 + MAT235 - Discrete Mathematics II (No longer offered on campus)
 + [MAT239 - Discrete Mathematics for Computing](DiscreteForComputing.md)
