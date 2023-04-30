@@ -16,10 +16,10 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://mcduryea.github.io/Intro-to-Bioinformatics/SoftwareSetup.html) (*Update file for MAT434*) | Introduction and What to Expect <br/> Ethics and Data Models | Homework -- Complete Software Setup |
+| 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://mcduryea.github.io/Intro-to-Bioinformatics/SoftwareSetup.html) (*Update file for MAT434*) | Introduction and What to Expect <br/> Ethics and Data Models | **Homework** -- Complete Software Setup |
 | 2 | Setup a GitHub Account <br/> Enroll in Class Kaggle Competition | R Projects and Version Control <br/> Tidy Analyses in R (review) | **Homework** -- Commit to Your Repository |
 | 3 | TBD | R Markdown, inline commands, and semi-automated reporting |  |
-| 4 | EDA and `ggplot` (review) | **Homework** -- Add at least one interesting plot (and description) to your Tidy Analysis notebook, and commit the updates to your repository. | 
+| 4 |  | EDA and `ggplot` (review) | **Homework** -- Add at least one interesting plot (and description) to your Tidy Analysis notebook, and commit the updates to your repository. | 
 | 5 | Setup a `github.io` Repository | GitHub Pages and a public-facing portfolio | **Homework** -- Add a short bio to your page, include subsections on projects you've worked on, and include links to any work-products you'd like to share.
 | 6 | TBD | `tidymodels` Framework (Review) |  |
 | 7 |  | Regression Versus Classification <br/> Performance Metrics for Classifiers |  |
@@ -34,13 +34,13 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 | 16 |  | Text Features, Part I: Tokenization |  |
 | 17 |  | Text Features, Part II: Regex |  |
 | 18 |  | Text Features, Part III: Embeddings |  |
-| 19 |  | *Halloween Classification Challenge* </br> (InClass Kaggle Competition) |  |
+| 19 |  | *Halloween Classification Challenge* <br/> (InClass Kaggle Competition) |  |
 | 20 |  | Deep Learning, Part I: Architecture |  |
 | 21 |  | Deep Learning, Part II: Activation Functions |  |
 | 22 |  | Deep Learning, Part III: Training and Assessment |  |
 | 23 |  | Final Project Topic Discussion |  |
 | 24 |  | Final Project Group Selection |  |
-| 25 |  | *Thanksgiving Classification Challenge* </br> (InClass Kaggle Competition) |  |
+| 25 |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
 | 26+ |  | Final Projects |  |
 
 <br/>
