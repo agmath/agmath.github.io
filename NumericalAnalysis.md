@@ -9,6 +9,8 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 <br/>
 ***Course Description:*** This course introduces basic techniques for the efficient numerical solution of problems in engineering, mathematics, and science. Topics covered may include: root finding methods, interpolation, numerical differentiation and integration, numerical solutions of differential equations, and matrix theory concepts such as QR factorization and singular value decompositions. Students will utilize industry-standard software for simulations.<br/>
 <br/>
+<br/>
+<br/>
 
 ### Course Timeline and Notebooks
 
@@ -16,7 +18,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | Review Syllabus <br/> Setup Google Colab | Introduction and What to Expect <br/> Intro to Python and Jupyter Notebooks <br/> `0.1 + 0.2 == 0.3` |  |
+| 1 | Review Syllabus <br/> Setup Google Colab | Introduction and What to Expect <br/> Intro to Python and Jupyter Notebooks <br/> `0.1 + 0.2 != 0.3` |  |
 | 2 |  | Binary representations and motivating examples |  |
 | 3 |  | Floating point representations of real numbers |  |
 | 4 |  | Crash course in numerical Python |  |
