@@ -11,6 +11,8 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### Course Timeline and Notebooks
 
