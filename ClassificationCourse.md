@@ -16,12 +16,12 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://mcduryea.github.io/Intro-to-Bioinformatics/SoftwareSetup.html) (*Update file for MAT434*) | Introduction and What to Expect <br/> Ethics and Data Models | **Homework** -- Complete Software Setup |
-| 2 | Setup a GitHub Account <br/> Enroll in Class Kaggle Competition | R Projects and Version Control <br/> Tidy Analyses in R (review) | **Homework** -- Commit to Your Repository |
+| 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://agmath.github.io/ClassificationCourse/SoftwareSetup.html) (*Update file for MAT434*) | Introduction and What to Expect <br/> Ethics and Data Models | **Homework** -- Complete Software Setup |
+| 2 | Setup a GitHub Account <br/> Enroll in Class Kaggle Competition | R Projects and Version Control <br/> [Tidy Analyses in R (review)](https://agmath.github.io/ClassificationCourse/x_CrashCourse_TidyR.html) | **Homework** -- Commit to Your Repository |
 | 3 | TBD | R Markdown, inline commands, and semi-automated reporting |  |
-| 4 |  | EDA and `ggplot` (review) | **Homework** -- Add at least one interesting plot (and description) to your Tidy Analysis notebook, and commit the updates to your repository. | 
+| 4 |  | [EDA and `ggplot` (review)](https://agmath.github.io/ClassificationCourse/x_DataViz_Primer.html) | **Homework** -- Add at least one interesting plot (and description) to your Tidy Analysis notebook, and commit the updates to your repository. | 
 | 5 | Setup a `github.io` Repository | GitHub Pages and a public-facing portfolio | **Homework** -- Add a short bio to your page, include subsections on projects you've worked on, and include links to any work-products you'd like to share.
-| 6 | TBD | `tidymodels` Framework (Review) |  |
+| 6 | [`tidymodels` Framework (Review)](https://agmath.github.io/ClassificationCourse/x_ModelingFrameworkAndTidymodelsReview.html) | [`tidymodels` Framework Example](https://agmath.github.io/ClassificationCourse/x_TidymodelsExample.html) |  |
 | 7 |  | Regression Versus Classification <br/> Performance Metrics for Classifiers |  |
 | 8 |  | Binary Classifiers, Part I: Logistic Regression |  |
 | 9 |  | Binary Classifiers, Part II: Discriminant Analysis |  |
