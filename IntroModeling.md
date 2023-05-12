@@ -28,7 +28,7 @@ class meeting.
 | 2 - 3 | **Application II:** *Going to get gas...* | TBD |
 | 4 |  | Week 4 Exam |
 | 5 - 8| **Application III:** [*Deploying a recycling program*](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | TBD |
-| 9 - 12 | **Application IV:**<br/> > [*Redicing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) <br/> > [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) <br/> > [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem) | TBD | 
+| 9 - 12 | **Application IV:** (Choice) <br/> > [*Reducing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) <br/> > [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) <br/> > [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem) | TBD | 
 |13 - 16 | Final Projects |  |
 
 <br/>
