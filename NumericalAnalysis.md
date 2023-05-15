@@ -18,16 +18,16 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | Review Syllabus <br/> Setup Google Colab | Introduction and What to Expect <br/> Intro to Python and Jupyter Notebooks <br/> `0.1 + 0.2 != 0.3` |  |
-| 2 |  | Binary and Floating Point Numbers |  |
-| 3 |  | Crash course in numerical Python |  |
-| 4 |  | Gaussian Elimination |  |
-| 5 |  | LU Decomposition |  |
-| 6 |  | Symmetric and Banded Coefficient Matrices |  |
-| 7 |  | Pivoting |  |
+| 1 | Review Syllabus <br/> [Setup Google Colab](https://youtu.be/y_yRHa0nF1w) | Introduction and What to Expect <br/> [Intro to Python and Jupyter Notebooks](https://colab.research.google.com/drive/1HI1jjQwaNEvCqhO0oB6G0poNf8U0xhAR?usp=share_link) <br/> `0.1 + 0.2 != 0.3` |  |
+| 2 |  | [Binary and Floating Point Numbers](https://colab.research.google.com/drive/1EkX8eT_xd_FWY5xT_cDdleOtGDXnhc5c?usp=sharing) |  |
+| 3 |  | [Crash course in numerical Python](https://colab.research.google.com/drive/1MaA4oI_XMVzbItClewib7JC5yg6HExT2?usp=share_link) |  |
+| 4 | [A Reminder on Linear Systems](https://colab.research.google.com/drive/1F52HxFUyLrDGVihejng_GGBj4Z5qkKTy?usp=share_link) | [Gaussian Elimination](https://colab.research.google.com/drive/1vkPJJtYTqlMljTIMkbNgaArY5gCRhf_M?usp=share_link) |  |
+| 5 |  | [LU Decomposition](https://colab.research.google.com/drive/1KzEdYJ2_g5M-z5EPo1xbJBfMmG9IeKdu?usp=share_link) |  |
+| 6 |  | [Symmetric and Banded Coefficient Matrices](https://colab.research.google.com/drive/1KzZTk4XlEZeIIZ9kkjEf7D7N-NHPpFAQ?usp=share_link) |  |
+| 7 |  | [Pivoting](https://colab.research.google.com/drive/1J280pKDfqORfCTilFEZ5sNq7RV-NXFct?usp=share_link) |  |
 | 8 |  | Review |  |
 | 9 |  | Exam I |  |
-| 10 |  | Polynomial Interpolation |  |
+| 10 | [A Reminder on Interpolation and Curve Fitting](https://colab.research.google.com/drive/1d4O2oYnmTaohrYTol0lRlBgL-dUam--4?usp=share_link) | Polynomial Interpolation |  |
 | 11 |  | Cubic Splines |  |
 | 12 |  | Least Squares |  |
 | 13 |  | Root Finding: Incremental Search |  |
