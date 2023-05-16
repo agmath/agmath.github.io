@@ -27,9 +27,9 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 7 |  | [Pivoting](https://colab.research.google.com/drive/1J280pKDfqORfCTilFEZ5sNq7RV-NXFct?usp=share_link) |  |
 | 8 |  | Review |  |
 | 9 |  | Exam I |  |
-| 10 | [A Reminder on Interpolation and Curve Fitting](https://colab.research.google.com/drive/1d4O2oYnmTaohrYTol0lRlBgL-dUam--4?usp=share_link) | Polynomial Interpolation |  |
-| 11 |  | Cubic Splines |  |
-| 12 |  | Least Squares |  |
+| 10 | [A Reminder on Interpolation and Curve Fitting](https://colab.research.google.com/drive/1d4O2oYnmTaohrYTol0lRlBgL-dUam--4?usp=share_link) | [Polynomial Interpolation](https://colab.research.google.com/drive/1b3tsjx216S9tquclHCw8wVACbo-sEVUK?usp=share_link) |  |
+| 11 |  | [Cubic Splines](https://colab.research.google.com/drive/1lHM4cLSnqGaSC0Emtk8dUlGS_Y78vtGE?usp=share_link) |  |
+| 12 |  | [Least Squares](https://colab.research.google.com/drive/1nuIxSYIymLH70FVZDHUstt5pOrG3i66a?usp=share_link) |  |
 | 13 |  | Root Finding: Incremental Search |  |
 | 14 |  | Root Finding: Bisection |  |
 | 15 |  | Root Finding: Linear Interpolation Methods |  |
