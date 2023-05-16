@@ -5,7 +5,7 @@ description: This is a homepage for MAT434, Statistical Learning and Classificat
 
 ## MAT 434 - Statistical Learning and Classification
 
-<img src="/SiteFiles/ISLR.png" align="left" width=200>[**Syllabus (Fall 2019)**](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link)<br/>
+<img src="/SiteFiles/ISLR.png" align="left" width=200>[**Syllabus (Fall 2019)**](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) -- (updated version in development)<br/>
 <br/>
 ***Course Description:*** Using the foundational knowledge built in MAT 241 and MAT 300, we continue our study of statistical models. This course moves beyond regression and into classification models, mixed models, and unsupervised learning. Like MAT300, this course also emphasizes cross-validation as an important method for  hyperparameter tuning, identifying appropriate levels of model flexibility, approximating future model performance, and analyzing the utility of a model. This course covers discriminant analysis, k nearest neighbors, tree-based methods (bagging, boosting, and random forests), support vector machines, and neural networks.<br/>
 <br/>
