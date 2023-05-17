@@ -16,21 +16,21 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://agmath.github.io/ClassificationCourse/SoftwareSetup.html) (*Update file for MAT434*) | Introduction and What to Expect <br/> Ethics and Data Models | **Homework** -- Complete Software Setup |
+| 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://agmath.github.io/ClassificationCourse/SoftwareSetup.html) | Introduction and What to Expect <br/> Ethics and Data Models | **Homework** -- Complete Software Setup |
 | 2 | Enroll in Class Kaggle Competition | R Projects and Version Control <br/> [Tidy Analyses in R (new students)](https://agmath.github.io/ClassificationCourse/x_CrashCourse_TidyR.html) <br/> Tidy Analyses in R (returning students) | **Homework** -- Commit to Your Repository |
-| 3 |  | R Markdown, inline commands, and semi-automated reporting |  |
+| 3 |  | R Markdown, inline commands, and semi-automated reporting | **Homework** -- Update your Tidy Analysis notebook with inline R code to enhance your discussions. |
 | 4 |  | [EDA and `ggplot` (new students)](https://agmath.github.io/ClassificationCourse/x_DataViz_Primer.html) <br/> EDA and Data Viz (returning students) | **Homework** -- Add at least one interesting plot (and description) to your Tidy Analysis notebook, and commit the updates to your repository. | 
 | 5 | Setup a `github.io` Repository | GitHub Pages and a public-facing portfolio | **Homework** -- Add a short bio to your page, include subsections on projects you've worked on, and include links to any work-products you'd like to share.
 | 6 | [`tidymodels` Framework (Review)](https://agmath.github.io/ClassificationCourse/x_ModelingFrameworkAndTidymodelsReview.html) | [`tidymodels` Framework Example](https://agmath.github.io/ClassificationCourse/x_TidymodelsExample.html) |  |
 | 7 |  | Regression Versus Classification <br/> Performance Metrics for Classifiers |  |
 | 8 |  | Binary Classifiers, Part I: Logistic Regression |  |
-| 9 |  | Binary Classifiers, Part II: Discriminant Analysis |  |
-| 10 |  | Binary Classifiers, Part III: Support Vector Machines |  |
+| 9 |  | Binary Classifiers, Part II: Support Vector Machines |  |
+| 10 |  | Aside: High-Dimensional Data and Dimension Reduction |  |
 | 11 |  | Multiclass Classifiers, Part I: Nearest Neighbors |  |
 | 12 |  | Multiclass Classifiers, Part II: Decision Tree Classifiers |  |
-| 13 |  | Ensembles, Part I: Bagging |  |
-| 14 |  | Ensembles, Part II: Random Forests |  |
-| 15 |  | Ensembles, Part III: Boosting |  |
+| 13 |  | Ensembles, Part I: Bagging and Random Forests |  |
+| 14 |  | Ensembles, Part II: Boosting |  |
+| 15 |  | Ensembles, Part III: Stacking Models |  |
 | 16 |  | Text Features, Part I: Tokenization |  |
 | 17 |  | Text Features, Part II: Regex |  |
 | 18 |  | Text Features, Part III: Embeddings |  |
