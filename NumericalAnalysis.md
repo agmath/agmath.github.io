@@ -31,8 +31,8 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 11 |  | [Cubic Splines](https://colab.research.google.com/drive/1lHM4cLSnqGaSC0Emtk8dUlGS_Y78vtGE?usp=share_link) |  |
 | 12 |  | [Least Squares](https://colab.research.google.com/drive/1nuIxSYIymLH70FVZDHUstt5pOrG3i66a?usp=share_link) |  |
 | 13 | [A Reminder on Root-Finding](https://colab.research.google.com/drive/13INH6NOkf4-TWlgVMWqN78NqUv4BAQLg?usp=share_link) | [Root Finding: Incremental Search and the Bisection Method](https://colab.research.google.com/drive/1ERp1VyGwatckBBIh7EyQlh1k7-mRTGI0?usp=share_link) |  |
-| 14 |  | Root Finding: Linear Interpolation Methods |  |
-| 15 |  | Root Finding: Simultaneous Systems |  |
+| 14 |  | [Root Finding: Linear Interpolation Methods](https://colab.research.google.com/drive/1VXdLruu7fOtEa3S24Wszp_5s2bfSBx1l?usp=share_link) |  |
+| 15 |  | [Root Finding: Simultaneous Systems](https://colab.research.google.com/drive/1-WrhpjVh4JMPQAOKmZ_HkjhlLSJSqFXM?usp=share_link) |  |
 | 16 |  | Review |  |
 | 17 |  | Exam II |  |
 | 18 |  | Differentiation: Finite Difference Approximation |  |
