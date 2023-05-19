@@ -20,6 +20,7 @@ Links will be added to the list below, with information about each course.
 + [MAT299 - Introduction to Proof and Problem Solving](ProofsCourse.md)
 + [MAT300 - Statistics II: Regression Analysis](RegressionCourse.md)
 + MAT310 - Number Theory
++ [MAT350 - Applied Linear Algebra](LinearAlgebra.md)
 + [MAT370 - Numerical Analysis](NumericalAnalysis.md)
 + MAT415 - Abstract Algebra
 + MAT431 - Discrete Mathematical Modeling
