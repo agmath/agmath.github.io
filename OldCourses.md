@@ -8,11 +8,11 @@ description: Find basic information about courses I've taught during previous se
 Links will be added to the list below, with information about each course.  
 + SCI1ST1 - STEMming the Zombie Apocalypse (with A. Collins)
 + [BIO4ST1 - Bioinformatics (with K. Duryea)](BioStatAndInformatics.md)
-+ MAT140 - Precalculus (no longer offered on campus)
++ MAT140 - Precalculus
 + [MAT215 - Introduction to Math Modeling](IntroModeling.md)
 + [MAT225 - Calculus I](CalculusI.md)
-+ MAT230 - Introduction to Discrete Mathematics (No longer offered on campus)
-+ MAT235 - Discrete Mathematics II (No longer offered on campus)
++ MAT230 - Introduction to Discrete Mathematics
++ MAT235 - Discrete Mathematics II
 + [MAT239 - Discrete Mathematics for Computing](DiscreteForComputing.md)
 + MAT240 - Applied Statistics
 + MAT241 - Modern Statistics with Software
