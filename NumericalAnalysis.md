@@ -35,7 +35,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 15 |  | [Root Finding: Simultaneous Systems](https://colab.research.google.com/drive/1-WrhpjVh4JMPQAOKmZ_HkjhlLSJSqFXM?usp=share_link) |  |
 | 16 |  | Review |  |
 | 17 |  | Exam II |  |
-| 18 |  | Differentiation: Finite Difference Approximation |  |
+| 18 | [A Reminder on Differentiation and Function Approximation](https://colab.research.google.com/drive/10t4JdYJPu2nOGHRNNaKLICUxW0_IM62o?usp=share_link) | Differentiation: Finite Difference Approximation |  |
 | 19 |  | Differentiation: Richardson Extrapolation |  |
 | 20 |  | Integration: Netwon-Cotes Formulae |  |
 | 21 |  | Integration: Romberg Integration |  |
