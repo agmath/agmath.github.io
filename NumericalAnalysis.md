@@ -37,7 +37,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 17 |  | Exam II |  |
 | 18 | [A Reminder on Differentiation and Function Approximation](https://colab.research.google.com/drive/10t4JdYJPu2nOGHRNNaKLICUxW0_IM62o?usp=share_link) | [Differentiation: Finite Difference Approximation](https://colab.research.google.com/drive/1Q8TD1NQd9Tvnc2Eiq-LMOBfwiD7RbfWq?usp=share_link) |  |
 | 19 |  | [Differentiation: Improving Estimates via Richardson Extrapolation and Derivatives via Interpolation for non-Equispaced or Noisy Observations](https://colab.research.google.com/drive/1CcZdPBFnqav-yng9vauQEElw2hqS8PRK?usp=share_link) |  |
-| 20 | [A Reminder on Numerical Integration Techniques](https://colab.research.google.com/drive/12HqDz8lvGRevG9Z0293yUcpYElLP-0Xp?usp=share_link) | Integration: Newton-Cotes Formulae |  |
+| 20 | [A Reminder on Numerical Integration Techniques](https://colab.research.google.com/drive/12HqDz8lvGRevG9Z0293yUcpYElLP-0Xp?usp=share_link) | [Integration: Newton-Cotes Formulae](https://colab.research.google.com/drive/1QmuqtCSgBLrXUd3s0DgawAuFnBbtfp-m?usp=share_link) |  |
 | 21 |  | Integration: Romberg Integration |  |
 | 22 |  | Review |  |
 | 23 |  | Exam III |  |
