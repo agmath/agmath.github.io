@@ -41,8 +41,8 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 21 |  | Integration: Romberg Integration |  |
 | 22 |  | Review |  |
 | 23 |  | Exam III |  |
-| 24 |  | IVPs: Euler's Method |  |
-| 25 |  | IVPs: Runge-Kutta Methods |  |
+| 24 | [A Reminder on Initial Value Problems](https://colab.research.google.com/drive/1dC8E_IwIvn8Tsz2ZtJZGfrE8BZ5h8OQG?usp=share_link) | [IVPs: Euler's Method](https://colab.research.google.com/drive/1TxU9gQLYSNr8SeEJ0B3dHCs1egxmd4Nv?usp=share_link) |  |
+| 25 |  | [IVPs: Runge-Kutta Methods](https://colab.research.google.com/drive/1DQxMKrM7N5aoDHfgb8nlx5O215iJpe1i?usp=share_link) |  |
 | 26 |  | Review/Catch-Up |  |
 | 27 |  | Review/Catch-Up |  |
 | 28 |  | Final Exam, Part I |  |
