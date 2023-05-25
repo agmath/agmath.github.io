@@ -3,6 +3,20 @@ title: Applied Linear Algebra
 description: This is a homepage for MAT350, Linear Algebra, with Dr. Gilbert at Southern New Hampshire University. This course covers linear systems, matrix algebra, determinants, vector spaces, and also eigenvalues and eigenvectors. Applications including, but not limited to, economics, electrical engineering, computer graphics, difference equations, and markov chains will be highlighted.
 ---
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
 ## MAT 350 -- Applied Linear Algebra
 
 <img src="/SiteFiles/Linear.jpg" align="left" width=200> **Syllabus (Fall 2023)** - in development<br/>
