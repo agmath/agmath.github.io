@@ -6,6 +6,20 @@ use_math: true
 
 ## MAT 350 -- Applied Linear Algebra
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
 <img src="/SiteFiles/Linear.jpg" align="left" width=200> **Syllabus (Fall 2023)** - in development<br/>
 <br/>
 ***Course Description:*** This is a first course in linear algebra and matrices. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues and eigenvectors. After mastering the basic concepts and skills, students will use their knowledge of linear algebra to model a selection of applied mathematics problems in business, economics, science, computer science, and engineering.<br/>
