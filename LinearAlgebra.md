@@ -16,10 +16,37 @@ description: This is a homepage for MAT350, Linear Algebra, with Dr. Gilbert at 
 
 Below will eventually be a tentative timeline for our course. It includes preparatory work that should be done prior to each class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each class meeting. 
 
-| Class Meeting | Before Class | During Class | After Class |
-|---------------|--------------|--------------|-------------|
-| 1 | Review Syllabus <br/> [Setup Google Colab](https://youtu.be/y_yRHa0nF1w) | Introduction and What to Expect <br/> [Intro to Python and Jupyter Notebooks](https://colab.research.google.com/drive/1HI1jjQwaNEvCqhO0oB6G0poNf8U0xhAR?usp=share_link) |  |
-
+| Class Meeting | During Class | After Class |
+|---------------|--------------|-------------|
+| 1 | Introduction and What to Expect <br/> $\S$ 1.1 - Linear Systems |  |
+| 2 | $\S$ 1.2 - Row Reduction and Echelon Forms |  |
+| 3 | $\S$ 1.3 - Vector Equations |  |
+| 4 | $\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$ |  |
+| 5 | $\S$ 1.5 - Solution Sets of Linear Systems |  |
+| 6 | $\S$ 1.7 - Linear Independence |  |
+| 7 | $\S$ 1.8 - Introduction to Linear Transformations |  |
+| 8 | $\S$ 1.9 - The Matrix of a Linear Transformation |  |
+| 9 | Review |  |
+| 10 | Exam I |  |
+| 11 | $\S$ 2.1 - Matrix Operations |  |
+| 12 | $\S$ 2.2 - The Inverse of a Matrix |  |
+| 13 | $\S$ 2.3 - Characterizations of Invertible Matrices |  |
+| 14 | $\S$ 2.7 - Applications to Computer Graphics |  |
+| 15 | $\S$ 2.8 - Subspaces of $\mathbb{R}^n$ |  |
+| 16 | $\S$ 2.9 - Dimension and Rank |  |
+| 17 | $\S$ 3.1 - Introduction to Determinants |  |
+| 18 | $\S$ 3.2 - Properties of Determinants |  |
+| 19 | Review |  |
+| 20 | Exam II |  |
+| 21 | $\S$ 5.1 - Eigenvectors and Eigenvalues |  |
+| 22 | $\S$ 5.2 - The Characteristic Equation |  |
+| 23 | $\S$ 5.3 - Diagonalization |  |
+| 24 | $\S$ 6.1 - Inner Product, Length, and Orthogonality |  |
+| 25 | $\S$ 6.2 - Orthogonal Sets |  |
+| 26 | $\S$ 7.4 - Singular Value Decomposition
+| 27 | Review |  |
+| 28 | Final, Part I |  |
+| 29 | Final, Part II (Optional) |  |
 
 <br/>
 <br/>
