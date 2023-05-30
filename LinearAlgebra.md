@@ -41,7 +41,7 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 6 | $\S$ 1.7 - Linear Independence |  |
 | 7 | $\S$ 1.8 - Introduction to Linear Transformations |  |
 | 8 | $\S$ 1.9 - The Matrix of a Linear Transformation |  |
-| 9 | Review |  |
+| 9 | Group Exam and Review |  |
 | 10 | Exam I |  |
 | 11 | $\S$ 2.1 - Matrix Operations |  |
 | 12 | $\S$ 2.2 - The Inverse of a Matrix |  |
@@ -51,7 +51,7 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 16 | $\S$ 2.9 - Dimension and Rank |  |
 | 17 | $\S$ 3.1 - Introduction to Determinants |  |
 | 18 | $\S$ 3.2 - Properties of Determinants |  |
-| 19 | Review |  |
+| 19 | Group Exam and Review |  |
 | 20 | Exam II |  |
 | 21 | $\S$ 5.1 - Eigenvectors and Eigenvalues |  |
 | 22 | $\S$ 5.2 - The Characteristic Equation |  |
