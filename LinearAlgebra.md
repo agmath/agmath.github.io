@@ -33,20 +33,20 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 
 | Class Meeting | During Class | After Class |
 |---------------|--------------|-------------|
-| 1 | Introduction and What to Expect <br/> $\S$ 1.1 - Linear Systems |  |
-| 2 | $\S$ 1.2 - Row Reduction and Echelon Forms |  |
-| 3 | $\S$ 1.3 - Vector Equations |  |
-| 4 | $\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$ |  |
-| 5 | $\S$ 1.5 - Solution Sets of Linear Systems |  |
-| 6 | $\S$ 1.7 - Linear Independence |  |
-| 7 | $\S$ 1.8 - Introduction to Linear Transformations |  |
-| 8 | $\S$ 1.9 - The Matrix of a Linear Transformation |  |
+| 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - Linear Systems](https://colab.research.google.com/drive/1xD-njG52AZgfnSLu7I6cnRjzlyYJ6Y9G?usp=share_link) |  |
+| 2 | [$\S$ 1.2 - Row Reduction and Echelon Forms](https://colab.research.google.com/drive/1Cg--TrAfXoaRuhcNG3y2A78e_tqlRuUo?usp=share_link) |  |
+| 3 | [$\S$ 1.3 - Vector Equations](https://colab.research.google.com/drive/1T-Ot_E9QZ8fP9vekgx5LFwz6kHCJPHdg?usp=share_link) |  |
+| 4 | [$\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$](https://colab.research.google.com/drive/1MciBBrjUYpf5S4x-4UcmZIBjcCo2PcvF?usp=share_link) |  |
+| 5 | [$\S$ 1.5 - Solution Sets of Linear Systems](https://colab.research.google.com/drive/1Bw9a0hmPcD_eGipHacQtqmNcTCf7PwW7?usp=share_link) |  |
+| 6 | [$\S$ 1.7 - Linear Independence](https://colab.research.google.com/drive/1oKUWTXLKvEGqBz4DSWXDWCJRF6XnxmtI?usp=share_link) |  |
+| 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://colab.research.google.com/drive/1G53aayAX6wd1R_Y_4L3WqO29OfnRubti?usp=share_link) |  |
+| 8 | [$\S$ 1.9 - The Matrix of a Linear Transformation](https://colab.research.google.com/drive/11zdBBDCfkvFoowYHTGpaHHQaSy-epMmU?usp=share_link) |  |
 | 9 | Group Exam and Review |  |
 | 10 | Exam I |  |
-| 11 | $\S$ 2.1 - Matrix Operations |  |
-| 12 | $\S$ 2.2 - The Inverse of a Matrix |  |
-| 13 | $\S$ 2.3 - Characterizations of Invertible Matrices |  |
-| 14 | $\S$ 2.7 - Applications to Computer Graphics |  |
+| 11 | [$\S$ 2.1 - Matrix Operations](https://colab.research.google.com/drive/1WQr6sASvTKZlP4E7tlYfzt3ZgOzRu4EF?usp=share_link) |  |
+| 12 | [$\S$ 2.2 - The Inverse of a Matrix](https://colab.research.google.com/drive/1oszpyInLJsFwpR7JFuBKa4SuJt2yByGR?usp=share_link) |  |
+| 13 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://colab.research.google.com/drive/1kclvVFuV6FJc3fPNjJuFRcXFC2ztEmMc?usp=share_link) |  |
+| 14 | [$\S$ 2.7 - Applications to Computer Graphics](https://colab.research.google.com/drive/1T3mWZrH9Q0vsXemUi5Xg2Nl7IwLCFICP?usp=share_link) |  |
 | 15 | $\S$ 2.8 - Subspaces of $\mathbb{R}^n$ |  |
 | 16 | $\S$ 2.9 - Dimension and Rank |  |
 | 17 | $\S$ 3.1 - Introduction to Determinants |  |
