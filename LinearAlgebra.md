@@ -50,7 +50,7 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 15 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://colab.research.google.com/drive/1gFrr79KunliiqDlkPOKGB9rq2JZBZF2z?usp=sharing) |  |
 | 16 | [$\S$ 2.9 - Dimension and Rank](https://colab.research.google.com/drive/1ibXNOcw1SDYZ3pTqe2c8hYNcLtOmOMSm?usp=sharing) |  |
 | 17 | [$\S$ 3.1 - Introduction to Determinants](https://colab.research.google.com/drive/1pxx5tCD_OtS_7PFk-0zLHqk73dZaIXI8?usp=sharing) |  |
-| 18 | $\S$ 3.2 - Properties of Determinants |  |
+| 18 | [$\S$ 3.2 - Properties of Determinants](https://colab.research.google.com/drive/1J6fvyB_avQ-YuUvepjdqjy_88-DPH42W?usp=sharing) |  |
 | 19 | Group Exam and Review |  |
 | 20 | Exam II |  |
 | 21 | $\S$ 5.1 - Eigenvectors and Eigenvalues |  |
