@@ -47,9 +47,9 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 12 | [$\S$ 2.2 - The Inverse of a Matrix](https://colab.research.google.com/drive/1oszpyInLJsFwpR7JFuBKa4SuJt2yByGR?usp=share_link) |  |
 | 13 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://colab.research.google.com/drive/1kclvVFuV6FJc3fPNjJuFRcXFC2ztEmMc?usp=share_link) |  |
 | 14 | [$\S$ 2.7 - Applications to Computer Graphics](https://colab.research.google.com/drive/1T3mWZrH9Q0vsXemUi5Xg2Nl7IwLCFICP?usp=share_link) |  |
-| 15 | $\S$ 2.8 - Subspaces of $\mathbb{R}^n$ |  |
-| 16 | $\S$ 2.9 - Dimension and Rank |  |
-| 17 | $\S$ 3.1 - Introduction to Determinants |  |
+| 15 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://colab.research.google.com/drive/1gFrr79KunliiqDlkPOKGB9rq2JZBZF2z?usp=sharing) |  |
+| 16 | [$\S$ 2.9 - Dimension and Rank](https://colab.research.google.com/drive/1ibXNOcw1SDYZ3pTqe2c8hYNcLtOmOMSm?usp=sharing) |  |
+| 17 | [$\S$ 3.1 - Introduction to Determinants](https://colab.research.google.com/drive/1pxx5tCD_OtS_7PFk-0zLHqk73dZaIXI8?usp=sharing) |  |
 | 18 | $\S$ 3.2 - Properties of Determinants |  |
 | 19 | Group Exam and Review |  |
 | 20 | Exam II |  |
