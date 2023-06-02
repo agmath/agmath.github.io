@@ -53,7 +53,7 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 18 | [$\S$ 3.2 - Properties of Determinants](https://colab.research.google.com/drive/1J6fvyB_avQ-YuUvepjdqjy_88-DPH42W?usp=sharing) |  |
 | 19 | Group Exam and Review |  |
 | 20 | Exam II |  |
-| 21 | $\S$ 5.1 - Eigenvectors and Eigenvalues |  |
+| 21 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://colab.research.google.com/drive/1uv-f57RDBRZ6casr6-3FUqiJCvwshV3v?usp=sharing) |  |
 | 22 | $\S$ 5.2 - The Characteristic Equation |  |
 | 23 | $\S$ 5.3 - Diagonalization |  |
 | 24 | $\S$ 6.1 - Inner Product, Length, and Orthogonality |  |
