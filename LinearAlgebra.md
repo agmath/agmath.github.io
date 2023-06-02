@@ -54,8 +54,8 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 19 | Group Exam and Review |  |
 | 20 | Exam II |  |
 | 21 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://colab.research.google.com/drive/1uv-f57RDBRZ6casr6-3FUqiJCvwshV3v?usp=sharing) |  |
-| 22 | $\S$ 5.2 - The Characteristic Equation |  |
-| 23 | $\S$ 5.3 - Diagonalization |  |
+| 22 | [$\S$ 5.2 - The Characteristic Equation](https://colab.research.google.com/drive/1P51n-N9MLU8qLyyqbj1DSq46SsJogKG-?usp=sharing) |  |
+| 23 | [$\S$ 5.3 - Diagonalization](https://colab.research.google.com/drive/18a3y6FfdiuN1pEOp_ruUIoPZR9zg26VF?usp=sharing) |  |
 | 24 | $\S$ 6.1 - Inner Product, Length, and Orthogonality |  |
 | 25 | $\S$ 6.2 - Orthogonal Sets |  |
 | 26 | $\S$ 7.4 - Singular Value Decomposition
