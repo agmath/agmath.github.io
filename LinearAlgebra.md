@@ -55,10 +55,10 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 20 | Exam II |  |
 | 21 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://colab.research.google.com/drive/1uv-f57RDBRZ6casr6-3FUqiJCvwshV3v?usp=sharing) |  |
 | 22 | [$\S$ 5.2 - The Characteristic Equation](https://colab.research.google.com/drive/1P51n-N9MLU8qLyyqbj1DSq46SsJogKG-?usp=sharing) |  |
-| 23 | [$\S$ 5.3 - Diagonalization](https://colab.research.google.com/drive/18a3y6FfdiuN1pEOp_ruUIoPZR9zg26VF?usp=sharing) |  |
-| 24 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://colab.research.google.com/drive/1vIW8r0FTL4-cYtjMZrGGBFqvyS5pBFvC?usp=sharing) |  |
-| 25 | [$\S$ 6.2 - Orthogonal Sets](https://colab.research.google.com/drive/16yi9dD8aNrPzd2BQYCU7owMETgTl_p6f?usp=sharing) |  |
-| 26 | $\S$ 7.4 - Singular Value Decomposition
+| 23 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://colab.research.google.com/drive/1vIW8r0FTL4-cYtjMZrGGBFqvyS5pBFvC?usp=sharing) |  |
+| 24 | [$\S$ 6.2 - Orthogonal Sets](https://colab.research.google.com/drive/16yi9dD8aNrPzd2BQYCU7owMETgTl_p6f?usp=sharing) |  |
+| 25 | $\S$ 4.8 Applications to Difference Equations |  |
+| 26 | $\S$ 4.9 - Applications to Markov Chains |  |
 | 27 | Review |  |
 | 28 | Final, Part I |  |
 | 29 | Final, Part II (Optional) |  |
