@@ -22,14 +22,36 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each 
 class meeting.
 
-| Week Number(s) | Topic | Assignments and Due Dates |
-|---------------|--------------|--------------|
-| 1 | Course Overview <br/> Introduction to the modeling process <br/> **Application I:** *Plan a trip...* | TBD |
-| 2 - 3 | **Application II:** *Going to get gas...* | TBD |
-| 4 |  | Week 4 Exam |
-| 5 - 8| **Application III:** [*Deploying a recycling program*](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | TBD |
-| 9 - 12 | **Application IV:** (Choice) <br/> > [*Reducing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) <br/> > [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) <br/> > [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem) | TBD | 
-|13 - 16 | Final Projects |  |
+| Meeting Number(s) | Before Class | Topic | Assignments and Due Dates |
+|---------------|-------------|--------------|--------------|
+| 1 | Review Syllabus | [Welcome and Overview](https://colab.research.google.com/drive/1QVz7Wk4KFJHvFIe1a2r0jpfpXkzOUZyp?usp=sharing) | TBD |
+| 2 |  | [Plan a Trip (Cont'd.)](https://colab.research.google.com/drive/1AcXeVGKZ9bdlyCS0nZUb84UpzwyPWmDb?usp=sharing) |  |
+| 3 |  |  No class, Labor Day |  |
+| 4 | [Review *Fuel Friend* Prompt](https://colab.research.google.com/drive/1EZ5hG3mKVeb6JCbbBBn6B2YkDzN0TX9Q?usp=sharing) | [*Fuel Friend*, Part I](https://colab.research.google.com/drive/1aAVq4eMEiGOSnn2aX1cgIX3nocvn1hjU?usp=sharing) | Quiz 1 |
+| 5 |  | [*Fuel Friend*, Part II](https://colab.research.google.com/drive/1dOQXGV7eIyB-gluMkG4eOr1b-zRJpF6z?usp=sharing) |  |
+| 6 | Review your group's progress | [*Fuel Friend*, Part III](https://colab.research.google.com/drive/14w1RLgR9sdI8TShryqQc3o4qA5M_ClAg?usp=sharing) | Quiz 2 |
+| 7 |  | *Fuel Friend* (Cont'd.) |  |
+| 8 | Read Chapter 7 | [Technical Report Writing](https://colab.research.google.com/drive/1ej9O5J6amH7BTgh4b580QWdea_iVfQhb?usp=sharing) | Quiz 3 |
+| 9 |  | Review | *Fuel Friend* Technical Report Due, 9/26 |
+| 10 | Week Five Exam |  |
+| 11 | [Read Recycling Program Prompt](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | **Application III:** [*Deploying a recycling program*](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | Quiz 4 |
+| 12 |  | Recycling Program (Cont'd.) |  | 
+| 13 |  | No class, Columbus Day |  |
+| 14 | Review your group's progress | Recycling Program (Cont'd.) | Quiz 5 |
+| 15 |  | Recycling Program (Cont'd.) |  |
+| 16 |  | Complete Recycling Program Application |  |
+| 17 |  |  Debrief and Transition | Recycling Program Technical Report Due, 10/24 |
+| 18 | Read and choose prompt: <br/> [*Reducing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) <br/> > [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) <br/> > [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem) | Group assignment and working day | Quiz 6 | 
+| 19 |  | Continue Working |  |
+| 20 |  | Continue Working |  |
+| 21 | Review your group's progress | Continue Working | Quiz 7 |
+| 22 |  | Continue Working |  |
+| 23 |  | Finish Technical Report | Technical Report Due, 11/14 | 
+| 24 | Final Project Overview |  |
+| 25 | Final Projects | Topic Selection Due, 11/20 |
+| 26 | No class, Thanksgiving Break |  |
+| 27 - 31 | Final Projects | Final Projects Due, 12/12 |
+| 32 | Optional Meeting and Debrief |  |
 
 <br/>
 <br/>
