@@ -47,11 +47,11 @@ class meeting.
 | 21 | Review your group's progress | Continue Working | Quiz 7 |
 | 22 |  | Continue Working |  |
 | 23 |  | Finish Technical Report | Technical Report Due, 11/14 | 
-| 24 | Final Project Overview |  |
-| 25 | Final Projects | Topic Selection Due, 11/20 |
-| 26 | No class, Thanksgiving Break |  |
-| 27 - 31 | Final Projects | Final Projects Due, 12/12 |
-| 32 | Optional Meeting and Debrief |  |
+| 24 |  | Final Project Overview |  |
+| 25 |  | Final Projects | Topic Selection Due, 11/20 |
+| 26 |  | No class, Thanksgiving Break |  |
+| 27 - 31 |  | Final Projects | Final Projects Due, 12/12 |
+| 32 |  | Optional Meeting and Debrief |  |
 
 <br/>
 <br/>
