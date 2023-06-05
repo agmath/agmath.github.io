@@ -30,8 +30,8 @@ class meeting.
 | 4 | [Review *Fuel Friend* Prompt](https://colab.research.google.com/drive/1EZ5hG3mKVeb6JCbbBBn6B2YkDzN0TX9Q?usp=sharing) | [*Fuel Friend*, Part I](https://colab.research.google.com/drive/1aAVq4eMEiGOSnn2aX1cgIX3nocvn1hjU?usp=sharing) | Quiz 1 |
 | 5 |  | [*Fuel Friend*, Part II](https://colab.research.google.com/drive/1dOQXGV7eIyB-gluMkG4eOr1b-zRJpF6z?usp=sharing) |  |
 | 6 | Review your group's progress | [*Fuel Friend*, Part III](https://colab.research.google.com/drive/14w1RLgR9sdI8TShryqQc3o4qA5M_ClAg?usp=sharing) | Quiz 2 |
-| 7 |  | *Fuel Friend* (Cont'd.) |  |
-| 8 | Read Chapter 7 | [Technical Report Writing](https://colab.research.google.com/drive/1ej9O5J6amH7BTgh4b580QWdea_iVfQhb?usp=sharing) | Quiz 3 |
+| 7 | Read Chapter 7 | [Technical Report Writing](https://colab.research.google.com/drive/1ej9O5J6amH7BTgh4b580QWdea_iVfQhb?usp=sharing) | Quiz 3 |
+| 8 |  | *Fuel Friend* (Cont'd.) |  |
 | 9 |  | Review | *Fuel Friend* Technical Report Due, 9/26 |
 | 10 | Week Five Exam |  |
 | 11 | [Read Recycling Program Prompt](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | **Application III:** [*Deploying a recycling program*](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | Quiz 4 |
