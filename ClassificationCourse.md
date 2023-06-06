@@ -14,34 +14,34 @@ description: This is a homepage for MAT434, Statistical Learning and Classificat
 
 Below is a tentative timeline for our course. The schedule and topics are a draft, and this is subject to significant change. The table includes (or will include) preparatory work that should be done prior to each class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each class meeting. The prepared notebooks use IDENTIFY DATASET TO USE and are provided so that you have a detailed account of each topic we discuss. We'll learn this content better by *doing* it than we will by simply *reading* and *running* pre-existing code, so we'll plan to utilize different data in class. For now, I'm planning to start with IDENTIFY SECONDARY DATASET that I hope you'll use to follow along during our in-class discussions. 
 
-| Class Meeting | Before Class | During Class | After Class |
-|---------------|--------------|--------------|-------------|
-| 1 | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://agmath.github.io/ClassificationCourse/SoftwareSetup.html) | Introduction and What to Expect <br/> Ethics and Data Models | **Homework** -- Complete Software Setup |
-| 2 | Enroll in Class Kaggle Competition | R Projects and Version Control <br/> [Tidy Analyses in R (new students)](https://agmath.github.io/ClassificationCourse/x_CrashCourse_TidyR.html) <br/> Tidy Analyses in R (returning students) | **Homework** -- Commit to Your Repository |
-| 3 |  | R Markdown, inline commands, and semi-automated reporting | **Homework** -- Update your Tidy Analysis notebook with inline R code to enhance your discussions. |
-| 4 |  | [EDA and `ggplot` (new students)](https://agmath.github.io/ClassificationCourse/x_DataViz_Primer.html) <br/> EDA and Data Viz (returning students) | **Homework** -- Add at least one interesting plot (and description) to your Tidy Analysis notebook, and commit the updates to your repository. | 
-| 5 | Setup a `github.io` Repository | GitHub Pages and a public-facing portfolio | **Homework** -- Add a short bio to your page, include subsections on projects you've worked on, and include links to any work-products you'd like to share.
-| 6 | [`tidymodels` Framework (Review)](https://agmath.github.io/ClassificationCourse/x_ModelingFrameworkAndTidymodelsReview.html) | [`tidymodels` Framework Example](https://agmath.github.io/ClassificationCourse/x_TidymodelsExample.html) |  |
-| 7 |  | Regression Versus Classification <br/> Performance Metrics for Classifiers |  |
-| 8 |  | Binary Classifiers, Part I: Logistic Regression |  |
-| 9 |  | Binary Classifiers, Part II: Support Vector Machines |  |
-| 10 |  | Aside: High-Dimensional Data and Dimension Reduction |  |
-| 11 |  | Multiclass Classifiers, Part I: Nearest Neighbors |  |
-| 12 |  | Multiclass Classifiers, Part II: Decision Tree Classifiers |  |
-| 13 |  | Ensembles, Part I: Bagging and Random Forests |  |
-| 14 |  | Ensembles, Part II: Boosting |  |
-| 15 |  | Ensembles, Part III: Stacking Models |  |
-| 16 |  | Text Features, Part I: Tokenization |  |
-| 17 |  | Text Features, Part II: Regex |  |
-| 18 |  | Text Features, Part III: Embeddings |  |
-| 19 |  | *Halloween Classification Challenge* <br/> (InClass Kaggle Competition) |  |
-| 20 |  | Deep Learning, Part I: Architecture |  |
-| 21 |  | Deep Learning, Part II: Activation Functions |  |
-| 22 |  | Deep Learning, Part III: Training and Assessment |  |
-| 23 |  | Final Project Topic Discussion |  |
-| 24 |  | Final Project Group Selection |  |
-| 25 |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
-| 26+ |  | Final Projects |  |
+| Class Meeting | Dataset | Before Class | During Class | After Class |
+|---------------|--------------|--------------|--------------|-------------|
+| 1 |  | [Review Syllabus](https://drive.google.com/file/d/1V6PKm13JjhWp4BjsRyCOQjK2ZtQioRe1/view?usp=share_link) <br/> [Software Setup](https://agmath.github.io/ClassificationCourse/SoftwareSetup.html) | Introduction and What to Expect <br/> Ethics and Data Models | **Homework** -- Complete Software Setup |
+| 2 | [Austin, TX Zillow](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/zillow.csv) | Enroll in Class Kaggle Competition | R Projects and Version Control <br/> [Tidy Analyses in R (new students)](https://agmath.github.io/ClassificationCourse/x_CrashCourse_TidyR.html) <br/> Tidy Analyses in R (returning students) | **Homework** -- Commit to Your Repository |
+| 3 |  |  | R Markdown, inline commands, and semi-automated reporting | **Homework** -- Update your Tidy Analysis notebook with inline R code to enhance your discussions. |
+| 4 |  |  | [EDA and `ggplot` (new students)](https://agmath.github.io/ClassificationCourse/x_DataViz_Primer.html) <br/> EDA and Data Viz (returning students) | **Homework** -- Add at least one interesting plot (and description) to your Tidy Analysis notebook, and commit the updates to your repository. | 
+| 5 |  |  | Setup a `github.io` Repository | GitHub Pages and a public-facing portfolio | **Homework** -- Add a short bio to your page, include subsections on projects you've worked on, and include links to any work-products you'd like to share.
+| 6 |  |  | [`tidymodels` Framework (Review)](https://agmath.github.io/ClassificationCourse/x_ModelingFrameworkAndTidymodelsReview.html) | [`tidymodels` Framework Example](https://agmath.github.io/ClassificationCourse/x_TidymodelsExample.html) |  |
+| 7 |  |  | Regression Versus Classification <br/> Performance Metrics for Classifiers |  |
+| 8 | [Spaceship Titanic](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/spaceship_titanic.csv) |  | Binary Classifiers, Part I: Logistic Regression |  |
+| 9 |  |  | Binary Classifiers, Part II: Support Vector Machines |  |
+| 10 | [Gene Expression and Cancerous Tumors](https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq) |  | Aside: High-Dimensional Data and Dimension Reduction |  |
+| 11 | [Healthcare Analytics: Length of Stay](https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii) |  | Multiclass Classifiers, Part I: Nearest Neighbors |  |
+| 12 |  |  | Multiclass Classifiers, Part II: Decision Tree Classifiers |  |
+| 13 |  |  | Ensembles, Part I: Bagging and Random Forests |  |
+| 14 |  |  | Ensembles, Part II: Boosting |  |
+| 15 |  |  | Ensembles, Part III: Stacking Models |  |
+| 16 | [Tweet Emotion](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/tweet_emotions.csv) |  | Text Features, Part I: Tokenization |  |
+| 17 |  |  | Text Features, Part II: Regex |  |
+| 18 |  |  | Text Features, Part III: Embeddings |  |
+| 19 | Monster Classification |  | *Halloween Classification Challenge* <br/> (InClass Kaggle Competition) |  |
+| 20 | TBD |  | Deep Learning, Part I: Architecture |  |
+| 21 |  |  | Deep Learning, Part II: Activation Functions |  |
+| 22 |  |  | Deep Learning, Part III: Training and Assessment |  |
+| 23 |  |  | Final Project Topic Discussion |  |
+| 24 |  |  | Final Project Group Selection |  |
+| 25 | TBD |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
+| 26+ |  |  | Final Projects |  |
 
 <br/>
 <br/>
