@@ -24,10 +24,10 @@ class meeting.
 
 | Meeting Number(s) | Before Class | Topic | Assignments and Due Dates |
 |---------------|-------------|--------------|--------------|
-| 1 | Review Syllabus | [Welcome and Overview](https://colab.research.google.com/drive/1QVz7Wk4KFJHvFIe1a2r0jpfpXkzOUZyp?usp=sharing) | TBD |
+| 1 | Review Syllabus | **Application I:** *Plan a Campus Visit* <br/> [Welcome and Overview](https://colab.research.google.com/drive/1QVz7Wk4KFJHvFIe1a2r0jpfpXkzOUZyp?usp=sharing) | TBD |
 | 2 |  | [Plan a Trip (Cont'd.)](https://colab.research.google.com/drive/1AcXeVGKZ9bdlyCS0nZUb84UpzwyPWmDb?usp=sharing) |  |
 | 3 |  |  No class, Labor Day |  |
-| 4 | [Review *Fuel Friend* Prompt](https://colab.research.google.com/drive/1EZ5hG3mKVeb6JCbbBBn6B2YkDzN0TX9Q?usp=sharing) | [*Fuel Friend*, Part I](https://colab.research.google.com/drive/1aAVq4eMEiGOSnn2aX1cgIX3nocvn1hjU?usp=sharing) | Quiz 1, *Fuel Friend* Prompt |
+| 4 | **Application II:** *Fuel Friend* <br/> [Review *Fuel Friend* Prompt](https://colab.research.google.com/drive/1EZ5hG3mKVeb6JCbbBBn6B2YkDzN0TX9Q?usp=sharing) | [*Fuel Friend*, Part I](https://colab.research.google.com/drive/1aAVq4eMEiGOSnn2aX1cgIX3nocvn1hjU?usp=sharing) | Quiz 1, *Fuel Friend* Prompt |
 | 5 |  | [*Fuel Friend*, Part II](https://colab.research.google.com/drive/1dOQXGV7eIyB-gluMkG4eOr1b-zRJpF6z?usp=sharing) |  |
 | 6 | Review your group's progress | [*Fuel Friend*, Part III](https://colab.research.google.com/drive/14w1RLgR9sdI8TShryqQc3o4qA5M_ClAg?usp=sharing) | Quiz 2, Group Progress |
 | 7 | Read Chapter 7 | [Technical Report Writing](https://colab.research.google.com/drive/1ej9O5J6amH7BTgh4b580QWdea_iVfQhb?usp=sharing) | Quiz 3, Technical Writing |
@@ -41,7 +41,7 @@ class meeting.
 | 15 |  | Recycling Program (Cont'd.) |  |
 | 16 |  | Complete Recycling Program Application |  |
 | 17 |  |  Debrief and Transition | Recycling Program Technical Report Due, 10/24 |
-| 18 | Read and choose prompt: <br/> <ol> <li>[*Reducing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) </li> <li> [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) </li> <li> [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem)</li></ol> | Group assignment and working day | Quiz 6, Prompt Choice and Details | 
+| 18 | Read and choose prompt: <br/> i) [*Reducing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) <br/> ii) [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) <br/> iii) [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem) | **Application III:** Choice of Topics <br/> Group assignment and working day | Quiz 6, Prompt Choice and Details | 
 | 19 |  | Continue Working |  |
 | 20 |  | Continue Working |  |
 | 21 | Review your group's progress | Continue Working | Quiz 7, Group Progress |
