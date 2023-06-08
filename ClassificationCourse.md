@@ -22,7 +22,7 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 | 4 |  |  | [EDA and `ggplot` (new students)](https://agmath.github.io/ClassificationCourse/x_DataViz_Primer.html) <br/> EDA and Data Viz (returning students) | **Competition Assignment** -- Write a Statement of Purpose and conduct an Exploratory Data Analysis using our Zillow Price-Range Competition data. | 
 | 5 |  | Setup a `github.io` Repository | [GitHub Pages and a public-facing portfolio](https://agmath.github.io/ClassificationCourse/Day5_GitHubPages.html) | **Homework** -- Add a short bio to your page, include subsections on projects you've worked on, and include links to any work-products you'd like to share.
 | 6 |  | [`tidymodels` Framework (Review)](https://agmath.github.io/ClassificationCourse/x_ModelingFrameworkAndTidymodelsReview.html) | [`tidymodels` Framework Example](https://agmath.github.io/ClassificationCourse/x_TidymodelsExample.html) |  |
-| 7 |  |  | Regression Versus Classification and Performance Metrics for Classifiers |  |
+| 7 |  |  | Regression Versus Classification and Performance Metrics for Classifiers ([html](https://agmath.github.io/ClassificationCourse/Day7_RegressionVesusClassification.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day7_RegressionVesusClassification.Rmd)) |  |
 | 8 | [Spaceship Titanic](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/spaceship_titanic.csv) |  | Binary Classifiers, Part I: Logistic Regression |  |
 | 9 |  |  | Binary Classifiers, Part II: Support Vector Machines |  |
 | 10 | [Gene Expression and Cancerous Tumors](https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq) |  | Aside: High-Dimensional Data and Dimension Reduction |  |
