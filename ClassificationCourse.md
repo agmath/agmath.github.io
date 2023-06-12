@@ -28,9 +28,9 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 | 10 | [Gene Expression and Cancerous Tumors](https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq) | Intro to Principal Component Analysis ([html](https://agmath.github.io/ClassificationCourse/Day10b_PrincipalComponentAnalysis_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day10b_PrincipalComponentAnalysis_Intro.Rmd)) | Aside: High-Dimensional Data and Dimension Reduction |  |
 | 11 | [Healthcare Analytics: Length of Stay](https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii) | Intro to k Nearest Neighbors ([html](https://agmath.github.io/ClassificationCourse/Day11b_KNN_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day11b_KNN_Intro.Rmd)) | Multiclass Classifiers, Part I: Nearest Neighbors |  |
 | 12 |  |  | Multiclass Classifiers, Part II: Decision Tree Classifiers |  |
-| 13 |  | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.Rmd)) | Ensembles, Part I: Bagging and Random Forests |  |
-| 14 |  |  | Ensembles, Part II: Boosting |  |
-| 15 |  |  | Ensembles, Part III: Stacking Models |  |
+| 13 |  |  | Caching Results for Knitting |  |
+| 14 |  | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.Rmd)) | Ensembles, Part I: Bagging and Random Forests |  |
+| 15 | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.Rmd)) |  | Ensembles, Part II: Boosting |  |
 | 16 | [Tweet Emotion](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/tweet_emotions.csv) |  | Text Features, Part I: Tokenization |  |
 | 17 |  |  | Text Features, Part II: Regex |  |
 | 18 |  |  | Text Features, Part III: Embeddings |  |
