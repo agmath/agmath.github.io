@@ -30,7 +30,7 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 | 12 |  |  | Multiclass Classifiers, Part II: Decision Tree Classifiers |  |
 | 13 |  |  | Caching Results for Knitting |  |
 | 14 |  | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.Rmd)) | Ensembles, Part I: Bagging and Random Forests |  |
-| 15 | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.Rmd)) |  | Ensembles, Part II: Boosting |  |
+| 15 |  | Intro to Boosting ([html](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.Rmd)) | Ensembles, Part II: Boosting |  |
 | 16 | [Tweet Emotion](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/tweet_emotions.csv) |  | Text Features, Part I: Tokenization |  |
 | 17 |  |  | Text Features, Part II: Regex |  |
 | 18 |  |  | Text Features, Part III: Embeddings |  |
