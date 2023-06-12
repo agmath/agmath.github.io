@@ -31,7 +31,7 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 | 13 |  | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.Rmd)) | Ensembles, Part I: Bagging and Random Forests |  |
 | 14 |  | Intro to Boosting ([html](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.Rmd)) | Ensembles, Part II: Boosting |  |
 | 15 |  | Intro to Model Stacking ([html](https://agmath.github.io/ClassificationCourse/Day15b_Stacking_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day15b_Stacking_Intro.Rmd)) | Ensembles, Part III: Stacking Models |  |
-| 16 | [Tweet Emotion](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/tweet_emotions.csv) |  | Text Features, Part I: Tokenization |  |
+| 16 | [Tweet Emotion](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/tweet_emotions.csv) | Intro to Text and Tokenization ([html](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.Rmd)) | Text Features, Part I: Tokenization |  |
 | 17 |  |  | Text Features, Part II: Regex |  |
 | 18 |  |  | Text Features, Part III: Embeddings |  |
 | 19 | Monster Classification |  | *Halloween Classification Challenge* <br/> (InClass Kaggle Competition) |  |
