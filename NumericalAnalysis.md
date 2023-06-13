@@ -36,7 +36,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 16 | [A Reminder on Differentiation and Function Approximation](https://colab.research.google.com/drive/10t4JdYJPu2nOGHRNNaKLICUxW0_IM62o?usp=share_link) | [Differentiation: Finite Difference Approximation](https://colab.research.google.com/drive/1Q8TD1NQd9Tvnc2Eiq-LMOBfwiD7RbfWq?usp=share_link) |  |
 | 17 |  | [Differentiation: Improving Estimates via Richardson Extrapolation and Derivatives via Interpolation for non-Equispaced or Noisy Observations](https://colab.research.google.com/drive/1CcZdPBFnqav-yng9vauQEElw2hqS8PRK?usp=share_link) |  |
 | 18 | [A Reminder on Numerical Integration Techniques](https://colab.research.google.com/drive/12HqDz8lvGRevG9Z0293yUcpYElLP-0Xp?usp=share_link) | [Integration: Newton-Cotes Formulae](https://colab.research.google.com/drive/1QmuqtCSgBLrXUd3s0DgawAuFnBbtfp-m?usp=share_link) |  |
-| 19 |  | Integration: Romberg Integration |  |
+| 19 |  | [Integration: Romberg Integration](https://colab.research.google.com/drive/1AxUjmOifSbxwxcbhz3UkM8-SWH5_LVhg?usp=sharing) |  |
 | 20 | [A Reminder on Initial Value Problems](https://colab.research.google.com/drive/1dC8E_IwIvn8Tsz2ZtJZGfrE8BZ5h8OQG?usp=share_link) | [IVPs: Euler's Method](https://colab.research.google.com/drive/1TxU9gQLYSNr8SeEJ0B3dHCs1egxmd4Nv?usp=share_link) |  |
 | 21 |  | [IVPs: Runge-Kutta Methods](https://colab.research.google.com/drive/1DQxMKrM7N5aoDHfgb8nlx5O215iJpe1i?usp=share_link) |  |
 | 22 |  | Unit Problem Set II, Day 1 |  |
