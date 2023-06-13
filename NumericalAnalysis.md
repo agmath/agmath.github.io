@@ -5,7 +5,7 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 
 ## MAT 370 - Numerical Analysis
 
-<img src="/SiteFiles/Numerical.jpg" align="left" width=200> [**Syllabus (Fall 2023)**](https://drive.google.com/file/d/1xJerWGWBAfTl5oz9KDA75LooED0AQEY5/view?usp=sharing)<br/>
+<img src="/SiteFiles/Numerical.jpg" align="left" width=200> [**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1xJerWGWBAfTl5oz9KDA75LooED0AQEY5/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This course introduces basic techniques for the efficient numerical solution of problems in engineering, mathematics, and science. Topics covered may include: root finding methods, interpolation, numerical differentiation and integration, numerical solutions of differential equations, and matrix theory concepts such as QR factorization and singular value decompositions. Students will utilize industry-standard software for simulations.<br/>
 <br/>
