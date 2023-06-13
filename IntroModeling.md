@@ -5,7 +5,7 @@ description: This is a homepage for MAT215, Introduction to Math Modeling, with 
 
 ## MAT 215 - Introduction to Math Modeling
 
-<img src="/SiteFiles/MathModelingHandbook_SIAM.jpg" align="left" width=200> [**Syllabus (Fall 2023)**](https://drive.google.com/file/d/1VaD79ZLvhvf-UqYlBnwD0PSDABmWGiaP/view?usp=share_link)<br/>
+<img src="/SiteFiles/MathModelingHandbook_SIAM.jpg" align="left" width=200> [**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1VaD79ZLvhvf-UqYlBnwD0PSDABmWGiaP/view?usp=share_link)<br/>
 <br/>
 
 ***Course Description:*** Mathematical modeling is used for everything from tracking the spread of diseases 
