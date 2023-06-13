@@ -42,6 +42,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 22 |  | Unit Problem Set II, Day 1 |  |
 | 23 |  | Unit Problem Set II, Day 2 |  |
 | 24+ |  | Final Projects |  |
+
 <br/>
 <br/>
 
