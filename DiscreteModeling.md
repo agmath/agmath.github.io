@@ -3,6 +3,8 @@ title: Introduction to Discrete Mathematical Modeling
 description: This is a homepage for MAT431, an Introduction to Discrete Mathematical Modeling, at Southern New Hampshire University.
 ---
 
+{% include google-analytics.html %}
+
 ## MAT 431 - Introduction to Discrete Mathematical Modeling
 
 <img src="/SiteFiles/mathmodeling.jpg" align="left" width=225>[**Syllabus (Fall 2021)**](https://drive.google.com/file/d/1tmt5ftv-2BANoaaCRl0wkXNvS_NWaFyK/view?usp=sharing)<br/>
