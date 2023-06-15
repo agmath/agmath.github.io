@@ -3,6 +3,8 @@ title: Introduction to Math Modeling
 description: This is a homepage for MAT215, Introduction to Math Modeling, with Dr. Gilbert at Southern New Hampshire University. This general education course provides students with a first exposure to the construction and analysis of mathematical models. Mathematical models and modeling are for everyone!
 ---
 
+{% include google-analytics.html %}
+
 ## MAT 215 - Introduction to Math Modeling
 
 <img src="/SiteFiles/MathModelingHandbook_SIAM.jpg" align="left" width=200> [**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1VaD79ZLvhvf-UqYlBnwD0PSDABmWGiaP/view?usp=share_link)<br/>
