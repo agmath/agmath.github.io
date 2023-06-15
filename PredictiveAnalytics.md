@@ -3,6 +3,8 @@ title: Predictive Analytics
 description: This is a homepage for QSO370/570, Predictive Analytics, at Southern New Hampshire University. The course covers predictive modeling in both the regression and classification settings. Topics covered include linear and curvi-linear regression, tree-based models, logistic regression, cross-validation, hyperparameter tuning, model assessment, and more.
 ---
 
+{% include google-analytics.html %}
+
 ## QSO 370/570 - Predictive Analytics
 
 <img src="/SiteFiles/PredictiveAnalytics.jpg" align="left" width=150>[**Syllabus (Spring 2023)**](https://drive.google.com/file/d/16yODiy9IGApwMPQwDoIAyPxTqyJWXZsh/view?usp=share_link)<br/>
