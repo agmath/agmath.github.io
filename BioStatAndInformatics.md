@@ -3,6 +3,8 @@ title: Biostatistics and Informatics
 description: This is a homepage for BIO4ST1, Bioinformatics, with Dr. Duryea and Dr. Gilbert at Southern New Hampshire University. This is an upper-level course covering computing methods for biostatistics and bioinformatics with a focus on reproducible analyses and reporting. This course serves a variety of students, including students majoring in biology, minoring in bioinformatics, and those students interested in a culminating experience merging topics from mathematics, statistics, biology, computing, and technical reporting.
 ---
 
+{% include google-analytics.html %}
+
 ## BIO4ST1 - Bioinformatics
 
 <img src="/SiteFiles/BioinformaticsAlgorithms.jpg" align="left" width=200>[**Syllabus (Spring 2023)**](https://drive.google.com/file/d/1nDKZ1NF2TiZCX3hQ0yc6PCtVybeGGLUW/view?usp=share_link)<br/>
