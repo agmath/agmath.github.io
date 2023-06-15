@@ -2,6 +2,8 @@
 title: Welcome
 ---
 
+{% include google-analytics.html %}
+
 ## Adam Gilbert, PhD
 
 <img src="/SiteFiles/face.jpg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
