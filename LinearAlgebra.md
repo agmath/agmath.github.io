@@ -4,6 +4,8 @@ description: This is a homepage for MAT350, Linear Algebra, with Dr. Gilbert at 
 use_math: true
 ---
 
+{% include google-analytics.html %}
+
 ## MAT 350 -- Applied Linear Algebra
 
 <script>
