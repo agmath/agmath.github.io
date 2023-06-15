@@ -3,6 +3,8 @@ title: Statistical Learning and Classification
 description: This is a homepage for MAT434, Statistical Learning and Classification, with Dr. Gilbert at Southern New Hampshire University. This course introduces students to the construction, assessment, and interpretation of models in the classification setting. Depending on student interest, applications in computer vision, natural language processing, and/or deep learning are also explored.
 ---
 
+{% include google-analytics.html %}
+
 ## MAT 434 - Statistical Learning and Classification
 
 <img src="/SiteFiles/ISLR.png" align="left" width=200>[**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1W6sLmFZ0tkIPkqqo5nfSIusywC8R2zL-/view?usp=sharing)<br/>
