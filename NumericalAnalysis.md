@@ -3,6 +3,8 @@ title: Numerical Analysis
 description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert at Southern New Hampshire University. This course covers numerical methods for solving problems in engineering and physics. Students will use Python to implement algorithms and analyze their performance.
 ---
 
+{% include google-analytics.html %}
+
 ## MAT 370 - Numerical Analysis
 
 <img src="/SiteFiles/Numerical.jpg" align="left" width=200> [**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1xJerWGWBAfTl5oz9KDA75LooED0AQEY5/view?usp=sharing)<br/>
