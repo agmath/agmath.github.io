@@ -3,6 +3,8 @@ title: Modern Statistics With Software
 description: This is a homepage for MAT241, Modern Statistics with Software, at Southern New Hampshire University.
 ---
 
+{% include google-analytics.html %}
+
 ## MAT 241 - Modern Statistics with Software (R)
 
 <img src="/SiteFiles/OIstats.jpg" align="left" width=200>[**Syllabus (Fall 2021)**](https://drive.google.com/file/d/1CqDPrAmPqWUxgGt8_Wiyes-ZovPjOfB-/view?usp=sharing)<br/>
