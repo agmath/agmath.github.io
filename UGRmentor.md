@@ -3,6 +3,8 @@ title: Undergraduate Research
 description: My favorite part of my academic job is working with undergraduates (and graduate students, too) on research projects. Here you'll find information about my past projects and current interests. Please send me an e-mail if you are interested in working together.
 ---
 
+{% include google-analytics.html %}
+
 ## General Areas of Interest
 
 I'm typically interested in research projects in the following categories. If you've got an idea 
