@@ -3,6 +3,8 @@ title: Courses Previously Taught
 description: Find basic information about courses I've taught during previous semesters, including course syllabi and notes.
 ---
 
+{% include google-analytics.html %}
+
 ### My Previously Taught Courses
 
 Links will be added to the list below, with information about each course.  
