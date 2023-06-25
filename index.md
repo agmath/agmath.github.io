@@ -1,8 +1,9 @@
 ---
 title: Welcome
 ---
-
+<head><meta name="google-site-verification" content="lr62Arr9Q6oTjiKORylSFmyiwVnPL9PsQFJ3af-l7MY" />
 {% include google-analytics.html %}
+</head>
 
 ## Adam Gilbert, PhD
 
