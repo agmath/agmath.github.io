@@ -43,24 +43,24 @@ Below will eventually be a tentative timeline for our course. It includes prepar
 | 6 | [$\S$ 1.7 - Linear Independence](https://colab.research.google.com/drive/1oKUWTXLKvEGqBz4DSWXDWCJRF6XnxmtI?usp=share_link) |  |
 | 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://colab.research.google.com/drive/1G53aayAX6wd1R_Y_4L3WqO29OfnRubti?usp=share_link) |  |
 | 8 | [$\S$ 1.9 - The Matrix of a Linear Transformation](https://colab.research.google.com/drive/11zdBBDCfkvFoowYHTGpaHHQaSy-epMmU?usp=share_link) |  |
-| 9 | Group Exam and Review |  |
-| 10 | Exam I |  |
-| 11 | [$\S$ 2.1 - Matrix Operations](https://colab.research.google.com/drive/1WQr6sASvTKZlP4E7tlYfzt3ZgOzRu4EF?usp=share_link) |  |
-| 12 | [$\S$ 2.2 - The Inverse of a Matrix](https://colab.research.google.com/drive/1oszpyInLJsFwpR7JFuBKa4SuJt2yByGR?usp=share_link) |  |
-| 13 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://colab.research.google.com/drive/1kclvVFuV6FJc3fPNjJuFRcXFC2ztEmMc?usp=share_link) |  |
-| 14 | [$\S$ 2.7 - Applications to Computer Graphics](https://colab.research.google.com/drive/1T3mWZrH9Q0vsXemUi5Xg2Nl7IwLCFICP?usp=share_link) |  |
-| 15 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://colab.research.google.com/drive/1gFrr79KunliiqDlkPOKGB9rq2JZBZF2z?usp=sharing) |  |
-| 16 | [$\S$ 2.9 - Dimension and Rank](https://colab.research.google.com/drive/1ibXNOcw1SDYZ3pTqe2c8hYNcLtOmOMSm?usp=sharing) |  |
-| 17 | [$\S$ 3.1 - Introduction to Determinants](https://colab.research.google.com/drive/1pxx5tCD_OtS_7PFk-0zLHqk73dZaIXI8?usp=sharing) |  |
-| 18 | [$\S$ 3.2 - Properties of Determinants](https://colab.research.google.com/drive/1J6fvyB_avQ-YuUvepjdqjy_88-DPH42W?usp=sharing) |  |
-| 19 | Group Exam and Review |  |
-| 20 | Exam II |  |
-| 21 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://colab.research.google.com/drive/1uv-f57RDBRZ6casr6-3FUqiJCvwshV3v?usp=sharing) |  |
-| 22 | [$\S$ 5.2 - The Characteristic Equation](https://colab.research.google.com/drive/1P51n-N9MLU8qLyyqbj1DSq46SsJogKG-?usp=sharing) |  |
-| 23 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://colab.research.google.com/drive/1vIW8r0FTL4-cYtjMZrGGBFqvyS5pBFvC?usp=sharing) |  |
-| 24 | [$\S$ 6.2 - Orthogonal Sets](https://colab.research.google.com/drive/16yi9dD8aNrPzd2BQYCU7owMETgTl_p6f?usp=sharing) |  |
-| 25 | $\S$ 4.8 Applications to Difference Equations |  |
-| 26 | $\S$ 4.9 - Applications to Markov Chains |  |
+| 9 | Additional Problems and Review |  |
+| 10 | Group Exam I |  |
+| 11 | Individual Exam I |  |
+| 12 | [$\S$ 2.1 - Matrix Operations](https://colab.research.google.com/drive/1WQr6sASvTKZlP4E7tlYfzt3ZgOzRu4EF?usp=share_link) |  |
+| 13 | [$\S$ 2.2 - The Inverse of a Matrix](https://colab.research.google.com/drive/1oszpyInLJsFwpR7JFuBKa4SuJt2yByGR?usp=share_link) |  |
+| 14 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://colab.research.google.com/drive/1kclvVFuV6FJc3fPNjJuFRcXFC2ztEmMc?usp=share_link) |  |
+| 15 | [$\S$ 2.7 - Applications to Computer Graphics](https://colab.research.google.com/drive/1T3mWZrH9Q0vsXemUi5Xg2Nl7IwLCFICP?usp=share_link) |  |
+| 16 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://colab.research.google.com/drive/1gFrr79KunliiqDlkPOKGB9rq2JZBZF2z?usp=sharing) |  |
+| 17 | [$\S$ 2.9 - Dimension and Rank](https://colab.research.google.com/drive/1ibXNOcw1SDYZ3pTqe2c8hYNcLtOmOMSm?usp=sharing) |  |
+| 18 | [$\S$ 3.1 - Introduction to Determinants](https://colab.research.google.com/drive/1pxx5tCD_OtS_7PFk-0zLHqk73dZaIXI8?usp=sharing) |  |
+| 19 | [$\S$ 3.2 - Properties of Determinants](https://colab.research.google.com/drive/1J6fvyB_avQ-YuUvepjdqjy_88-DPH42W?usp=sharing) |  |
+| 20 | Additional Problems and Review |  |
+| 21 | Group Exam II |  |
+| 22 | Individual Exam II |  |
+| 23 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://colab.research.google.com/drive/1uv-f57RDBRZ6casr6-3FUqiJCvwshV3v?usp=sharing) |  |
+| 24 | [$\S$ 5.2 - The Characteristic Equation](https://colab.research.google.com/drive/1P51n-N9MLU8qLyyqbj1DSq46SsJogKG-?usp=sharing) |  |
+| 25 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://colab.research.google.com/drive/1vIW8r0FTL4-cYtjMZrGGBFqvyS5pBFvC?usp=sharing) |  |
+| 26 | [$\S$ 6.2 - Orthogonal Sets](https://colab.research.google.com/drive/16yi9dD8aNrPzd2BQYCU7owMETgTl_p6f?usp=sharing) |  |
 | 27 | Review |  |
 | 28 | Final, Part I |  |
 | 29 | Final, Part II (Optional) |  |
