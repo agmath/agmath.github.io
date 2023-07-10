@@ -1,0 +1,31 @@
+park,NAME,Cover,LF_Dim,CF_Dim,RF_Dim,LF_W,CF_W,RF_W
+0,Chase Field,Roof,328,407,335,8,25,8
+1,SunTrust Park,Outdoor,335,400,325,6,8,16
+2,Oriole Park at Camden Yards,Outdoor,333,400,318,7,7,21
+3,Fenway Park,Outdoor,310,390,302,37,9,3
+4,Wrigley Field,Outdoor,355,400,353,16,11,16
+5,Great American Ballpark,Outdoor,328,404,325,12,8,8
+6,Progressive Field,Outdoor,325,405,325,19,9,14
+7,Coors Field,Outdoor,347,415,350,13,8,16
+8,Guarantee Rate Park,Outdoor,330,400,335,8,8,8
+9,Comerica Park,Outdoor,345,420,330,6,8,8
+10,Minute Maid Park,Roof,315,409,326,21,9,7
+11,Kauffman Stadium,Outdoor,330,410,330,8,8,8
+12,Angel Stadium of Anaheim,Outdoor,330,400,330,5,8,5
+13,Dodger Stadium,Outdoor,330,400,330,4,8,4
+14,Marlins Park,Roof,344,407,335,7,20,7
+15,Miller Park,Roof,344,400,345,8,8,6
+16,Target Field,Outdoor,339,404,328,8,8,23
+17,Citi Field,Outdoor,331,408,330,8,11,8
+18,New Yankee Stadium,Outdoor,318,408,314,8,8,8
+19,RingCentral Coliseum,Outdoor,330,400,330,8,8,8
+20,Citizens Bank Park,Outdoor,329,401,330,11,6,13
+21,PNC Park,Outdoor,325,399,320,6,10,21
+22,Petco Park,Outdoor,336,396,322,4,7,10
+23,T-Mobile Park,Roof,331,401,326,8,8,8
+24,Oracle Park,Outdoor,339,399,309,8,8,25
+25,Busch Stadium III,Outdoor,336,400,335,8,8,8
+26,Tropicana Field,Dome,315,404,322,11,9,11
+27,Globe Life Park,Outdoor,332,400,325,14,8,8
+28,Rogers Centre,Roof,328,400,328,10,10,10
+29,Nationals Park,Outdoor,336,402,335,8,12,12
