@@ -42,7 +42,7 @@ Below is a tentative timeline for our course. The schedule and topics are a draf
 | 22 |  |  | Deep Learning, Part III: Training and Assessment |  |
 | 23 |  |  | Final Project Topic Discussion |  |
 | 24 |  |  | Final Project Group Selection |  |
-| 25 | TBD |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
+| 25 | Turkey Pardoning |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
 | 26+ |  |  | Final Projects |  |
 
 <br/>
