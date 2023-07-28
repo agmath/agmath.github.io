@@ -37,9 +37,9 @@ Below is a tentative timeline for our course. The table includes preparatory wor
 | 17 |  | Intro to Regular Expressions ([html](https://agmath.github.io/ClassificationCourse/Day17b_RegularExpressions_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day17b_RegularExpressions_Intro.Rmd)) | Text Features, Part II: Regex |  |
 | 18 |  | Intro to Word Embeddings ([html](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.Rmd)) | Text Features, Part III: Embeddings | [**CA 5**](https://agmath.github.io/ClassificationCourse/CA5.html) |
 | 19 | Monster Classification |  | *Halloween Classification Challenge* <br/> (InClass Kaggle Competition) |  |
-| 20 | TBD |  | Deep Learning, Part I: Architecture |  |
+| 20 | Fashion MNIST |  | Deep Learning, Part I: Architecture |  |
 | 21 |  |  | Deep Learning, Part II: Activation Functions |  |
-| 22 |  |  | Deep Learning, Part III: Training and Assessment | [**CA 6**](https://agmath.github.io/ClassificationCourse/CA6.html) |
+| 22 |  |  | [Deep Learning, Part III: Training and Assessment](https://agmath.github.io/ClassificationCourse/Day22d_DeepLearningImplementation.html) | [**CA 6**](https://agmath.github.io/ClassificationCourse/CA6.html) |
 | 23 |  |  | Final Project Topic Discussion |  |
 | 24 |  |  | Final Project Group Selection |  |
 | 25 | Turkey Pardoning |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
