@@ -43,7 +43,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 21 |  | [IVPs: Runge-Kutta Methods](https://colab.research.google.com/drive/1DQxMKrM7N5aoDHfgb8nlx5O215iJpe1i?usp=share_link) |  |
 | 22 |  | Unit Problem Set II, Day 1 |  |
 | 23 |  | Unit Problem Set II, Day 2 |  |
-| 24+ |  | Final Projects |  |
+| 24+ |  | [Final Projects](https://colab.research.google.com/drive/1oxkRJkCHbr9usX-q055b5XS_hxA6XXuV?usp=sharing) |  |
 
 <br/>
 <br/>
