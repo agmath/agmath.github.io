@@ -11,18 +11,42 @@ description: This is a homepage for MAT241, Modern Statistics with Software, at 
 <br/>
 ***Course Description:*** This is a fundamental course in modern-day data, data visualization, and the application of statistical techniques to analyze and make inferences from sample data. In a world where data is being constantly collected, it is necessary for individuals to be data literate, to have exposure to the power of data, and to understand as well as practice proper and ethical analyses with data. In a world where data has become abundant, rather than scarce, statistical tools are evolving. This course looks at modern statistical techniques in the age of "Big-Data".<br/>
 <br/>
-*Students in this course should expect to use R via RStudio either via a local installation (preferred) or [RStudio.cloud](https://rstudio.cloud/). Students will work through scripted workbooks outside of class meetings (more on this below) and then will get their hands dirty, working with real data during class time. Applications will vary according to student and instructor interests.*<br/>
+*Students in this course should expect to use R via RStudio either using [Posit.cloud](https://posit.cloud/) or a local installation of R and RStudio if you wish. The notebooks and all required packages are pre-loaded at [this Posit.cloud workspace](https://posit.cloud/content/6230957), which can be copied once you are logged in with your own free account. Students will work through scripted workbooks outside of class meetings (more on this below) and then will get their hands dirty, working with real data during class time. Applications will vary according to student and instructor interests.*<br/>
 
-### Unique Aspects of MAT241
+### Course Timeline and Notebooks
 
-There are some unique and exciting aspects of this course. Some information is provided below.
+Below is a tentative timeline for our course. It includes preparatory work that should be done prior to each class meeting, a description of what to expect during our class meeting, and assignments following each class meeting. The preparatory work consists of interactive R notebooks and is accessed via the tutorials tab of the rop-right pane in RStudio on Posit.cloud.
 
-#### About Class Notes as Homework
-
-I firmly believe that students learn statistics best by engaging with data and *doing* statistics. Working with real data poses unique challenges though (in particular, no two data sets can be approached in exactly the same way). Since this is the case, class time in Modern Statistics with Software will be largely spent applying statistical techniques to real data sets and the content delivery and instruction aspects will be flipped outside of class. I've developed and deployed a series of interactive notebooks which will walk students through the statistics content, providing an integrated introduction to the R computing language along the way, and including embedded questions and coding exercises with real-time feedback. Instructions for accessing course notes are available <a href="https://agmath.github.io/SiteFiles/AccessingInteractiveNotes.html" title="Install Instructions">here</a> and information about the package is available [here](https://github.com/agmath/AppliedStatsInteractive) (check the README file at the bottom of the page). Students will submit their work, encoded as a hash, through a Google Form which allows the instructor to reproduce the student notebook and assign a grade reflecting the student's work.
-
-#### About Class Time
-
-Students engaging with course notes outside of class allows class time to be spent more meaningfully in Modern Statistics with Software. A typical class period will begin with student questions on the notebook assigned prior to the class meeting, the class will then transition to some traditional problem-solving, and the last half of a typical class meeting will be devoted to applying learned statistical techniques to real data sets. I make every effort to choose relevant and interesting data sets in class -- students are invited to suggest topics and datasets for class use.
+| Class Meeting | Before Class | During Class | After Class |
+|---------------|--------------|--------------|-------------|
+| 1 | [Review Syllabus](https://drive.google.com/file/d/1CqDPrAmPqWUxgGt8_Wiyes-ZovPjOfB-/view?usp=sharing) <br/> Create [Posit.cloud](posit.cloud) account and [access materials](https://posit.cloud/content/6230957) | Introduction and What to Expect <br/> Troubleshooting |  |
+| 2 | `01_IntroToData` | Exploring `tidytuesday` and other data sets | MyOpenMath HW 1 |
+| 3 | `02_IntroToR` | Getting Familiar with R |  |
+| 4 | `03_DescriptiveNumCat` | Reading, exploring, and describing data in R | MyOpenMath HW 2 |
+| 5 | `04_DataViz` | Data Visualization |  |
+| 6 | `05_DiscreteDistributions` | Probabilities and Simulation |  |
+| 7 | `06_NormalDistributions` | Probabilities and Normal Distributions | MyOpenMath HW 4 |
+| 8 |  | Discrete Distributions Lab |  |
+| 9 |  | Normal Distributions Lab |  |
+| 10 |  | Exam I, Part I (Group) |  |
+| 11 |  | Exam I, Part II (Individual) |  |
+| 12 | `09_FoundationsForInference` | More on the Sampling Distribution | MyOpenMath HW 5 |
+| 13 | `11_HTandCIprop` | Hypothesis Tests and Confidence Intervals for Proportions |  |
+| 14 | `12_InferencePractice` | More Practice with Inference | MyOpenMath HW 6 |
+| 15 |  | Inference for Categorical Data Lab |  |
+| 16 | `14_ChiSquare` | Inference for more than two proportions | MyOpenMath HW 7 | 
+| 17 | `15_HTandCInum` | Hypothesis Tests and Confidence Intervals for One Mean |  |
+| 18 |  | Additional Inference Practice, Day I |  |
+| 19 |  | Additional Inference Practice, Day II | MyOpenMath HW 8 |
+| 20 |  | Additional Inference Practice, Day III |  |
+| 21 |  | Inference for Numerical Data Lab | MyOpenMath HW 9 |
+| 22 | `18_ANOVA` | Inference for more than two means |  |
+| 23 |  | Exam II, Part I (Group) |  |
+| 24 |  | Exam II, Part II (Individual) |  |
+| 25 |  | Linear Regression Lab | MyOpenMath HW 10 |
+| 26 |  | Discussion on Statistical Modeling and Machine Learning |  |
+| 27 |  | Review |  |
+| 28 |  | Final Exam, Part I |  |
+| 29 |  | Final Exam, Part II (Optional) |  |
 
 [Back to Homepage](https://agmath.github.io/)

@@ -31,7 +31,7 @@ MathJax = {
 
 ### Course Timeline and Notebooks
 
-Below will eventually be a tentative timeline for our course. It includes preparatory work that should be done prior to each class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each class meeting. 
+Below will eventually be a tentative timeline for our course. It includes a detailed set of notes corresponding to each class meeting and assignments following each class meeting. Note that assignments are all available on [MyOpenMath](https://www.myopenmath.com/).
 
 | Class Meeting | During Class | After Class |
 |---------------|--------------|-------------|
