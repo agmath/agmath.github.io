@@ -7,7 +7,7 @@ description: This is a homepage for MAT434, Statistical Learning and Classificat
 
 ## MAT 434 - Statistical Learning and Classification (Alpha Python Version)
 
-<img src="/SiteFiles/ISLR.png" align="left" width=200>[**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1W6sLmFZ0tkIPkqqo5nfSIusywC8R2zL-/view?usp=sharing)<br/>
+<img src="/SiteFiles/ISLpython.jpg" align="left" width=200>[**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1W6sLmFZ0tkIPkqqo5nfSIusywC8R2zL-/view?usp=sharing)<br/>
 <br/>
 ***Note:*** This is an initial draft of a Python version of MAT434. Please note that these materials have been created quickly, and in some cases may contain typos. Additionally, the flow of these materials is not as polished as the flow of the materials for the R version of this course. <br/>
 <br/>
