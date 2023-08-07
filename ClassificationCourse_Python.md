@@ -41,7 +41,7 @@ Below is a tentative timeline for our course. The table includes preparatory wor
 | 19 | Monster Classification |  | *Halloween Classification Challenge* <br/> (InClass Kaggle Competition) |  |
 | 20 | Fashion MNIST | [Install TensorFlow](https://agmath.github.io/ClassificationCourse/Day20b_InstallingTensorFlow.html) | [Deep Learning, Part I: Architecture](https://agmath.github.io/ClassificationCourse/Day20d_DeepLearningArchitectures.html) |  |
 | 21 |  |  | [Deep Learning, Part II: Activation Functions](https://agmath.github.io/ClassificationCourse/Day21d_DeepLearningActivationFunctions.html) |  |
-| 22 |  |  | [Deep Learning, Part III: Training and Assessment](https://agmath.github.io/ClassificationCourse/Day22d_DeepLearningImplementation.html) | [**CA 6**](https://agmath.github.io/ClassificationCourse/CA6.html) |
+| 22 |  |  | Deep Learning, Part III: Training and Assessment([html](https://agmath.github.io/ClassificationCourse/Day22d_DeepLearningImplementation_Python.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day22d_DeepLearningImplementation_Python.Rmd) | [**CA 6**](https://agmath.github.io/ClassificationCourse/CA6.html) |
 | 23 |  |  | Final Project Topic Discussion |  |
 | 24 |  |  | Final Project Group Selection |  |
 | 25 | Turkey Pardoning |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
