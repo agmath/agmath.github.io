@@ -5,7 +5,7 @@ description: This is a homepage for MAT434, Statistical Learning and Classificat
 
 {% include google-analytics.html %}
 
-## MAT 434 - Statistical Learning and Classification
+## MAT 434 - Statistical Learning and Classification (with R)
 
 <img src="/SiteFiles/ISLR.png" align="left" width=200>[**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1W6sLmFZ0tkIPkqqo5nfSIusywC8R2zL-/view?usp=sharing)<br/>
 <br/>
