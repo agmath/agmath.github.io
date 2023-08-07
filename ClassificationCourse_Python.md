@@ -5,13 +5,14 @@ description: This is a homepage for MAT434, Statistical Learning and Classificat
 
 {% include google-analytics.html %}
 
-## MAT 434 - Statistical Learning and Classification (Alpha Python Version)
+## MAT 434 - Statistical Learning and Classification (Python Version)
 
 <img src="/SiteFiles/ISLpython.jpg" align="left" width=200>[**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1W6sLmFZ0tkIPkqqo5nfSIusywC8R2zL-/view?usp=sharing)<br/>
 <br/>
-***Note:*** This is an initial draft of a Python version of MAT434. Please note that these materials have been created quickly, and in some cases may contain typos. Additionally, the flow of these materials is not as polished as the flow of the materials for the R version of this course. <br/>
-<br/>
 ***Course Description:*** Using the foundational knowledge built in MAT 240/241 and MAT 300, we continue our study of statistical models. This course moves beyond regression and into classification models, mixed models, and unsupervised learning. Like MAT300, this course also emphasizes cross-validation as an important method for  hyperparameter tuning, identifying appropriate levels of model flexibility, approximating future model performance, and analyzing the utility of a model. This course covers logistic regression, support vector machines, k nearest neighbors, tree-based methods (bagging, boosting, and random forests), and neural networks. We also cover techniques for dimension reduction and working with text-based features. In addition to the statistical modeling coursework, students will be exposed to GitHub for collaboration and version control and will use GitHub pages to build and populate a professional profile for sharing their work on the web.<br/>
+<br/>
+***Note:*** Looking for a version of this course usin R? I've got one! [Head over here](ClassificationCourse.md) to see it.
+<br/>
 <br/>
 
 ### Course Timeline and Notebooks
