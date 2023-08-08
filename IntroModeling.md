@@ -22,11 +22,11 @@ Earth sciences, social sciences, engineering, and/or business.<br/>
 
 Below is a tentative timeline for our course. It includes preparatory work that should be done prior to each 
 class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each 
-class meeting.
+class meeting. Application and project topics may change due to students interests and/or developments in current events.
 
 | Meeting Number(s) | Before Class | Topic | Assignments and Due Dates |
 |---------------|-------------|--------------|--------------|
-| 1 | Review Syllabus | **Application I:** *Plan a Campus Visit* <br/> [Welcome and Overview](https://colab.research.google.com/drive/1QVz7Wk4KFJHvFIe1a2r0jpfpXkzOUZyp?usp=sharing) | TBD |
+| 1 | Review Syllabus | **Application I:** *Plan a Campus Visit* <br/> [Welcome and Overview](https://colab.research.google.com/drive/1QVz7Wk4KFJHvFIe1a2r0jpfpXkzOUZyp?usp=sharing) |  |
 | 2 |  | [Plan a Trip (Cont'd.)](https://colab.research.google.com/drive/1AcXeVGKZ9bdlyCS0nZUb84UpzwyPWmDb?usp=sharing) |  |
 | 3 |  |  No class, Labor Day |  |
 | 4 | **Application II:** *Fuel Friend* <br/> [Review *Fuel Friend* Prompt](https://colab.research.google.com/drive/1EZ5hG3mKVeb6JCbbBBn6B2YkDzN0TX9Q?usp=sharing) | [*Fuel Friend*, Part I](https://colab.research.google.com/drive/1aAVq4eMEiGOSnn2aX1cgIX3nocvn1hjU?usp=sharing) | Quiz 1, *Fuel Friend* Prompt |
