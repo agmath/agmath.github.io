@@ -1,6 +1,6 @@
 ---
 title: Modern Statistics With Software
-description: This is a homepage for MAT241, Modern Statistics with Software, at Southern New Hampshire University.
+description: This is a homepage for MAT241, Modern Statistics with Software, with Dr. Gilbert at Southern New Hampshire University. This course covers an introduction to data, exploratory data analyses and data visualization, one- and two-sample inference via confidence intervals and hypothesis testing for both proportions and means, chi-squared tests for goodness of fit and independence, ANOVA for comparisons of multiple group means, and introduces linear regression. The course also provides and introduction to R, the use of which is embedded throughout the semester.
 ---
 
 {% include google-analytics.html %}
