@@ -26,7 +26,7 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 + [MAT215 (Introduction to Mathematical Modeling)](IntroModeling.md)
 + [MAT350 (Linear Algebra)](LinearAlgebra.md)
 + [MAT370 (Numerical Analysis)](NumericalAnalysis.md)
-+ [MAT434 (Statistical Learning and Classification)](ClassificationCourse.md)
++ MAT434 (Statistical Learning and Classification), [version using R](ClassificationCourse.md) or [version using Python](ClassificationCourse_Python.md)
 
 ### Course Information from Previous Semesters
 
