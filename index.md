@@ -19,14 +19,14 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 
 ### Currently Teaching (Summer 2023)
 
-+ [QSO570 (Predictive Analytics, Remote-Asynchronous)](PredictiveAnalytics_Asynch.md)
++ [QSO570  - Predictive Analytics, Remote-Asynchronous](PredictiveAnalytics_Asynch.md)
 
 ### Teaching (Fall 2023)
 
-+ [MAT215 (Introduction to Mathematical Modeling)](IntroModeling.md)
-+ [MAT350 (Linear Algebra)](LinearAlgebra.md)
-+ [MAT370 (Numerical Analysis)](NumericalAnalysis.md)
-+ MAT434 (Statistical Learning and Classification), [version using R](ClassificationCourse.md) or [version using Python](ClassificationCourse_Python.md)
++ [MAT215 - Introduction to Mathematical Modeling](IntroModeling.md)
++ [MAT350 - Linear Algebra](LinearAlgebra.md)
++ [MAT370 - Numerical Analysis](NumericalAnalysis.md)
++ MAT434 - Statistical Learning and Classification, ([with R](ClassificationCourse.md) or [with Python](ClassificationCourse_Python.md))
 
 ### Course Information from Previous Semesters
 
