@@ -26,24 +26,24 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 5 | `04_DataViz` | Data Visualization |  |
 | 6 | `05_DiscreteDistributions` | Probabilities and Simulation |  |
 | 7 | `06_NormalDistributions` | Probabilities and Normal Distributions | MyOpenMath HW 4 |
-| 8 |  | Discrete Distributions Lab |  |
-| 9 |  | Normal Distributions Lab |  |
+| 8 |  | Discrete Distributions Lab `07_DiscreteDistributionsLab` |  |
+| 9 |  | Normal Distributions Lab `08_NormalDistributionLab` |  |
 | 10 |  | Exam I, Part I (Group) |  |
 | 11 |  | Exam I, Part II (Individual) |  |
 | 12 | `09_FoundationsForInference` | More on the Sampling Distribution | MyOpenMath HW 5 |
 | 13 | `11_HTandCIprop` | Hypothesis Tests and Confidence Intervals for Proportions |  |
 | 14 | `12_InferencePractice` | More Practice with Inference | MyOpenMath HW 6 |
-| 15 |  | Inference for Categorical Data Lab |  |
+| 15 |  | Inference for Categorical Data Lab `13_InferenceCategoricalLab` |  |
 | 16 | `14_ChiSquare` | Inference for more than two proportions | MyOpenMath HW 7 | 
 | 17 | `15_HTandCInum` | Hypothesis Tests and Confidence Intervals for One Mean |  |
-| 18 |  | Additional Inference Practice, Day I |  |
-| 19 |  | Additional Inference Practice, Day II | MyOpenMath HW 8 |
-| 20 |  | Additional Inference Practice, Day III |  |
-| 21 |  | Inference for Numerical Data Lab | MyOpenMath HW 9 |
+| 18 |  | Additional Inference Practice, Day I `16_InferencePractice`|  |
+| 19 |  | Additional Inference Practice, Day II `16_InferencePractice` (Cont'd) | MyOpenMath HW 8 |
+| 20 |  | Additional Inference Practice, Day III `16_InferencePractice` (Cont'd) |  |
+| 21 |  | Inference for Numerical Data Lab `17_InferenceNumericalLab` | MyOpenMath HW 9 |
 | 22 | `18_ANOVA` | Inference for more than two means |  |
 | 23 |  | Exam II, Part I (Group) |  |
 | 24 |  | Exam II, Part II (Individual) |  |
-| 25 |  | Linear Regression Lab | MyOpenMath HW 10 |
+| 25 |  | Linear Regression Lab `19_LinearRegression` | MyOpenMath HW 10 |
 | 26 |  | Discussion on Statistical Modeling and Machine Learning |  |
 | 27 |  | Review |  |
 | 28 |  | Final Exam, Part I |  |
