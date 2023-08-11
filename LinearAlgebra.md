@@ -22,7 +22,7 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-<img src="/SiteFiles/Linear.jpg" align="left" width=200> [**Tentative Syllabus (Fall 2023)**](https://drive.google.com/file/d/1xLmPDSgPbrfvPNNKb6BMo_y2j31qUFNR/view?usp=sharing)<br/>
+<img src="/SiteFiles/Linear.jpg" align="left" width=200> [**Fall 2023 Syllabus**](https://drive.google.com/file/d/1xLmPDSgPbrfvPNNKb6BMo_y2j31qUFNR/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This is a first course in linear algebra and matrices. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues and eigenvectors. After mastering the basic concepts and skills, students will use their knowledge of linear algebra to model a selection of applied mathematics problems in business, economics, science, computer science, and engineering.<br/>
 <br/>
