@@ -36,13 +36,13 @@ class meeting. Application and project topics may change due to students interes
 | 8 |  | *Fuel Friend* (Cont'd.) |  |
 | 9 |  | Review | *Fuel Friend* Technical Report Due, 9/26 |
 | 10 | Week Five Exam |  |
-| 11 | [Read Recycling Program Prompt](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | **Application III:** [*Deploying a recycling program*](https://m3challenge.siam.org/sites/default/files/uploads/m3challenge_problem_13_1.pdf) | Quiz 4, Recycling Program Prompt |
-| 12 |  | Recycling Program (Cont'd.) |  | 
+| 11 | [Read *Shop and Ship* Prompt](https://colab.research.google.com/drive/1mPYVgi55je1Mk4Is6a0B_Ki4V-hIGdea?usp=sharing) | **Application III:** [*Shop and Ship*](https://colab.research.google.com/drive/1mPYVgi55je1Mk4Is6a0B_Ki4V-hIGdea?usp=sharing) | Quiz 4, *Shop and Ship* Prompt |
+| 12 |  | *Shop and Ship* (Cont'd.) |  | 
 | 13 |  | No class, Columbus Day |  |
-| 14 | Review your group's progress | Recycling Program (Cont'd.) | Quiz 5, Group Progress |
-| 15 |  | Recycling Program (Cont'd.) |  |
-| 16 |  | Complete Recycling Program Application |  |
-| 17 |  |  Debrief and Transition | Recycling Program Technical Report Due, 10/24 |
+| 14 | Review your group's progress | *Shop and Ship* (Cont'd.) | Quiz 5, Group Progress |
+| 15 |  | *Shop and Ship* (Cont'd.) |  |
+| 16 |  | Complete *Shop and Ship* Application |  |
+| 17 |  |  Debrief and Transition | *Shop and Ship* Technical Report Due, 10/24 |
 | 18 | Read and choose prompt: <br/> i) [*Reducing Food Waste*](https://m3challenge.siam.org/archives/2018/problem) <br/> ii) [*The True Cost of Substance Abuse*](https://m3challenge.siam.org/archives/2019/problem) <br/> iii) [*Electric Trucking Adoption*](https://m3challenge.siam.org/archives/2020/problem) | **Application III:** Choice of Topics <br/> Group assignment and working day | Quiz 6, Prompt Choice and Details | 
 | 19 |  | Continue Working |  |
 | 20 |  | Continue Working |  |
