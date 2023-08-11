@@ -29,14 +29,14 @@ class meeting. Application and project topics may change due to students interes
 | 1 | Review Syllabus | **Application I:** *Plan a Campus Visit* <br/> [Welcome and Overview](https://colab.research.google.com/drive/1QVz7Wk4KFJHvFIe1a2r0jpfpXkzOUZyp?usp=sharing) |  |
 | 2 |  | [Plan a Trip (Cont'd.)](https://colab.research.google.com/drive/1AcXeVGKZ9bdlyCS0nZUb84UpzwyPWmDb?usp=sharing) |  |
 | 3 |  |  No class, Labor Day |  |
-| 4 | **Application II:** *Fuel Friend* <br/> [Review *Fuel Friend* Prompt](https://colab.research.google.com/drive/1EZ5hG3mKVeb6JCbbBBn6B2YkDzN0TX9Q?usp=sharing) | [*Fuel Friend*, Part I](https://colab.research.google.com/drive/1aAVq4eMEiGOSnn2aX1cgIX3nocvn1hjU?usp=sharing) | Quiz 1, *Fuel Friend* Prompt |
+| 4 | **Application II:** *Fuel Friend* <br/> Read [*Fuel Friend* Prompt](https://colab.research.google.com/drive/1EZ5hG3mKVeb6JCbbBBn6B2YkDzN0TX9Q?usp=sharing) | [*Fuel Friend*, Part I](https://colab.research.google.com/drive/1aAVq4eMEiGOSnn2aX1cgIX3nocvn1hjU?usp=sharing) | Quiz 1, *Fuel Friend* Prompt |
 | 5 |  | [*Fuel Friend*, Part II](https://colab.research.google.com/drive/1dOQXGV7eIyB-gluMkG4eOr1b-zRJpF6z?usp=sharing) |  |
 | 6 | Review your group's progress | [*Fuel Friend*, Part III](https://colab.research.google.com/drive/14w1RLgR9sdI8TShryqQc3o4qA5M_ClAg?usp=sharing) | Quiz 2, Group Progress |
 | 7 | Read Chapter 7 | [Technical Report Writing](https://colab.research.google.com/drive/1ej9O5J6amH7BTgh4b580QWdea_iVfQhb?usp=sharing) | Quiz 3, Technical Writing |
 | 8 |  | *Fuel Friend* (Cont'd.) |  |
-| 9 |  | Review | *Fuel Friend* Technical Report Due, 9/26 |
+| 9 |  | Review of Modeling Process | *Fuel Friend* Technical Report Due, 9/26 |
 | 10 | Week Five Exam |  |
-| 11 | [Read *Shop and Ship* Prompt](https://colab.research.google.com/drive/1mPYVgi55je1Mk4Is6a0B_Ki4V-hIGdea?usp=sharing) | **Application III:** [*Shop and Ship*](https://colab.research.google.com/drive/1mPYVgi55je1Mk4Is6a0B_Ki4V-hIGdea?usp=sharing) | Quiz 4, *Shop and Ship* Prompt |
+| 11 | Read [*Shop and Ship* Prompt](https://colab.research.google.com/drive/1mPYVgi55je1Mk4Is6a0B_Ki4V-hIGdea?usp=sharing) | **Application III:** [*Shop and Ship*](https://colab.research.google.com/drive/1mPYVgi55je1Mk4Is6a0B_Ki4V-hIGdea?usp=sharing) | Quiz 4, *Shop and Ship* Prompt |
 | 12 |  | *Shop and Ship* (Cont'd.) |  | 
 | 13 |  | No class, Columbus Day |  |
 | 14 | Review your group's progress | *Shop and Ship* (Cont'd.) | Quiz 5, Group Progress |
