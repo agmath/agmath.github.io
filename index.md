@@ -17,10 +17,6 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
-### Currently Teaching (Summer 2023)
-
-+ [QSO570  - Predictive Analytics, Remote-Asynchronous](PredictiveAnalytics_Asynch.md)
-
 ### Teaching (Fall 2023)
 
 + [MAT215 - Introduction to Mathematical Modeling](IntroModeling.md)
