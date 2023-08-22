@@ -1,5 +1,5 @@
 ---
-title: Predictive Analytics (Remote, Asynchronous)
+title: Predictive Analytics
 description: This is a homepage for QSO370/570, Predictive Analytics, at Southern New Hampshire University. The course covers predictive modeling in both the regression and classification settings. Topics covered include linear and curvi-linear regression, tree-based models, logistic regression, cross-validation, hyperparameter tuning, model assessment, and more.
 ---
 
