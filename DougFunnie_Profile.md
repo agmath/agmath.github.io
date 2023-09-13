@@ -1,6 +1,7 @@
 ---
 title: Hi There!
-theme: jekyll-theme-leap-day
+description: This is a sample shell page for students using GitHub pages to develop a professional, public-facing, portfolio of their work.
+remote_theme: pages-themes/leap-day
 ---
 <head><meta name="google-site-verification" content="lr62Arr9Q6oTjiKORylSFmyiwVnPL9PsQFJ3af-l7MY" />
 {% include google-analytics.html %}
