@@ -8,8 +8,8 @@ theme: jekyll-theme-leap-day
 
 ## Douglas Yancey Funnie
 
-<img src="https://static.wikia.nocookie.net/doug/images/a/a5/Doug_Funnie2.png/revision/latest?cb=20180531191407" align="left" width=150>&nbsp; &nbsp;Neema Toad Biologist<br/>
-&nbsp; &nbsp;email: Douglas_Y_Funnie [at] Honkerburger [dot] com <br/>
+<img src="/SiteFiles/Doug.png" align="left" width=200>&nbsp; &nbsp;Neema Toad Biologist<br/>
+&nbsp; &nbsp;email: Douglas_Y_Funnie [at] Honkerburger [dot] net <br/>
 &nbsp; &nbsp;View My Resume
 
 <br/><br/>
