@@ -17,12 +17,12 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
-### Teaching (Fall 2023)
+### Teaching (Spring 2024)
 
-+ [MAT215 - Introduction to Mathematical Modeling](IntroModeling.md)
++ [MAT241 - Modern Statistics with Software](StatsWithR.md)
 + [MAT350 - Linear Algebra](LinearAlgebra.md)
 + [MAT370 - Numerical Analysis](NumericalAnalysis.md)
-+ MAT434 - Statistical Learning and Classification, ([with R](ClassificationCourse.md) or [with Python](ClassificationCourse_Python.md))
++ MAT480 - Independent Study on Generative Adversarial Networks
 
 ### Course Information from Previous Semesters
 
