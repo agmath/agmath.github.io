@@ -35,32 +35,32 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 
 | Class Meeting | During Class | After Class |
 |---------------|--------------|-------------|
-| 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - Linear Systems](https://colab.research.google.com/drive/1xD-njG52AZgfnSLu7I6cnRjzlyYJ6Y9G?usp=share_link) | Week 1 Assignment |
-| 2 | [$\S$ 1.2 - Row Reduction and Echelon Forms](https://colab.research.google.com/drive/1Cg--TrAfXoaRuhcNG3y2A78e_tqlRuUo?usp=share_link) | HW 1 |
-| 3 | [$\S$ 1.3 - Vector Equations](https://colab.research.google.com/drive/1T-Ot_E9QZ8fP9vekgx5LFwz6kHCJPHdg?usp=share_link) | HW 2 |
-| 4 | [$\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$](https://colab.research.google.com/drive/1MciBBrjUYpf5S4x-4UcmZIBjcCo2PcvF?usp=share_link) | HW 3 |
-| 5 | [$\S$ 1.5 - Solution Sets of Linear Systems](https://colab.research.google.com/drive/1Bw9a0hmPcD_eGipHacQtqmNcTCf7PwW7?usp=share_link) | HW 4 |
-| 6 | [$\S$ 1.7 - Linear Independence](https://colab.research.google.com/drive/1oKUWTXLKvEGqBz4DSWXDWCJRF6XnxmtI?usp=share_link) | HW 5 |
-| 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://colab.research.google.com/drive/1G53aayAX6wd1R_Y_4L3WqO29OfnRubti?usp=share_link) |  |
-| 8 | [$\S$ 1.9 - The Matrix of a Linear Transformation](https://colab.research.google.com/drive/11zdBBDCfkvFoowYHTGpaHHQaSy-epMmU?usp=share_link) | HW 6 |
+| 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - Linear Systems](https://drive.google.com/file/d/1ysC7cNZ0Vp5Rgbt2jVu7JZIKCg-GiaZf/view?usp=sharing) | Week 1 Assignment |
+| 2 | [$\S$ 1.2 - Row Reduction and Echelon Forms](https://drive.google.com/file/d/1yg1lfKU_dMjdPZl7fkJTc4RB2_6krTfP/view?usp=sharing) | HW 1 |
+| 3 | [$\S$ 1.3 - Vector Equations](https://drive.google.com/file/d/1z9T8hjAlRmCe2eOLkDrdMs1ZQ_iQUGgb/view?usp=sharing) | HW 2 |
+| 4 | [$\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$](https://drive.google.com/file/d/1z98C4WnB9f7bTR4pSWR-o1sVilDzwe1y/view?usp=sharing) | HW 3 |
+| 5 | [$\S$ 1.5 - Solution Sets of Linear Systems](https://drive.google.com/file/d/1z512tnDbLx8HPg2qCywrOIZwDEtqtvo7/view?usp=sharing) | HW 4 |
+| 6 | [$\S$ 1.7 - Linear Independence](https://drive.google.com/file/d/1z3PUkcycaDDYOnTRXewPnvzpi03DU1TX/view?usp=sharing) | HW 5 |
+| 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://drive.google.com/file/d/1yxdC70ORff10KPcjyDN40ysJA_2WWvKc/view?usp=sharing) |  |
+| 8 | [$\S$ 1.9 - The Matrix of a Linear Transformation](https://drive.google.com/file/d/1zYT9FTbsOIS5wKIVjZT_iPskSuDjGVjm/view?usp=sharing) | HW 6 |
 | 9 | Additional Problems and Review |  |
 | 10 | Group Exam I |  |
 | 11 | Individual Exam I |  |
-| 12 | [$\S$ 2.1 - Matrix Operations](https://colab.research.google.com/drive/1WQr6sASvTKZlP4E7tlYfzt3ZgOzRu4EF?usp=share_link) | HW 7 |
-| 13 | [$\S$ 2.2 - The Inverse of a Matrix](https://colab.research.google.com/drive/1oszpyInLJsFwpR7JFuBKa4SuJt2yByGR?usp=share_link) |  |
-| 14 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://colab.research.google.com/drive/1kclvVFuV6FJc3fPNjJuFRcXFC2ztEmMc?usp=share_link) | HW 8 |
-| 15 | [$\S$ 2.7 - Applications to Computer Graphics](https://colab.research.google.com/drive/1T3mWZrH9Q0vsXemUi5Xg2Nl7IwLCFICP?usp=share_link) |  |
-| 16 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://colab.research.google.com/drive/1gFrr79KunliiqDlkPOKGB9rq2JZBZF2z?usp=sharing) | HW 9 |
-| 17 | [$\S$ 2.9 - Dimension and Rank](https://colab.research.google.com/drive/1ibXNOcw1SDYZ3pTqe2c8hYNcLtOmOMSm?usp=sharing) | HW 10 |
-| 18 | [$\S$ 3.1 - Introduction to Determinants](https://colab.research.google.com/drive/1pxx5tCD_OtS_7PFk-0zLHqk73dZaIXI8?usp=sharing) |  |
-| 19 | [$\S$ 3.2 - Properties of Determinants](https://colab.research.google.com/drive/1J6fvyB_avQ-YuUvepjdqjy_88-DPH42W?usp=sharing) | HW 11 |
+| 12 | [$\S$ 2.1 - Matrix Operations](https://drive.google.com/file/d/1zW848G239f2EZj-paB7dYz2JOhY-6caw/view?usp=sharing) | HW 7 |
+| 13 | [$\S$ 2.2 - The Inverse of a Matrix](https://drive.google.com/file/d/1zVfvYcfQ-g9TDhPAgmvSG90q7OekFB5R/view?usp=sharing) |  |
+| 14 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://drive.google.com/file/d/1zRrd8fi8CpW0EgDCFs3p3Y3gTMjm_JG-/view?usp=sharing) | HW 8 |
+| 15 | [$\S$ 2.7 - Applications to Computer Graphics](https://drive.google.com/file/d/1zFVxFikpxJqA1_EDoihl2VJXMCboJolZ/view?usp=sharing) |  |
+| 16 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://drive.google.com/file/d/1zA58vKDdrbnXzA7SPC8LljFbnoJTXlse/view?usp=sharing) | HW 9 |
+| 17 | [$\S$ 2.9 - Dimension and Rank](https://drive.google.com/file/d/1z_V4P-oMw9Hfhu9myS3Gw9UHDcCkrgm4/view?usp=sharing) | HW 10 |
+| 18 | [$\S$ 3.1 - Introduction to Determinants](https://drive.google.com/file/d/1z_G6eE7nNgH6QUVem7VLazcw9-qchotL/view?usp=sharing) |  |
+| 19 | [$\S$ 3.2 - Properties of Determinants](https://drive.google.com/file/d/1zzR7IXa_yipUM5Q5RsAiC0qBvqSOlQDc/view?usp=sharing) | HW 11 |
 | 20 | Additional Problems and Review |  |
 | 21 | Group Exam II |  |
 | 22 | Individual Exam II |  |
-| 23 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://colab.research.google.com/drive/1uv-f57RDBRZ6casr6-3FUqiJCvwshV3v?usp=sharing) |  |
-| 24 | [$\S$ 5.2 - The Characteristic Equation](https://colab.research.google.com/drive/1P51n-N9MLU8qLyyqbj1DSq46SsJogKG-?usp=sharing) | HW 12 |
-| 25 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://colab.research.google.com/drive/1vIW8r0FTL4-cYtjMZrGGBFqvyS5pBFvC?usp=sharing) |  |
-| 26 | [$\S$ 6.2 - Orthogonal Sets](https://colab.research.google.com/drive/16yi9dD8aNrPzd2BQYCU7owMETgTl_p6f?usp=sharing) | HW 13 |
+| 23 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://drive.google.com/file/d/1zud8NUGbUYAi0bOIMt1QY_-icIVBNM72/view?usp=sharing) |  |
+| 24 | [$\S$ 5.2 - The Characteristic Equation](https://drive.google.com/file/d/1zrpIXpQwYGKo8OOrrDxgZnYaSe33I85b/view?usp=sharing) | HW 12 |
+| 25 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://drive.google.com/file/d/1zmvcCg19eBm5Ea_6H1LDrocqHLz49EuP/view?usp=sharing) |  |
+| 26 | [$\S$ 6.2 - Orthogonal Sets](https://drive.google.com/file/d/1z_l4FWOXsbHJe9Sldh7A7LdaQJvLneMC/view?usp=sharing) | HW 13 |
 | 27 | Review |  |
 | 28 | Final, Part I |  |
 | 29 | Final, Part II (Optional) |  |
