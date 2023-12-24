@@ -35,7 +35,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 14 | `12_InferencePractice` | More Practice with Inference | MyOpenMath HW 6 |
 | 15 |  | Inference for Categorical Data Lab `13_InferenceCategoricalLab` |  |
 | 16 | `14_ChiSquare` | Inference for more than two proportions | MyOpenMath HW 7 | 
-| 17 | `15_HTandCInum` | Hypothesis Tests and Confidence Intervals for One Mean |  |
+| 17 | `15_HTandCInum` | Hypothesis Tests and Confidence Intervals for One or Two Means |  |
 | 18 |  | Additional Inference Practice, Day I `16_InferencePractice`|  |
 | 19 |  | Additional Inference Practice, Day II `16_InferencePractice` (Cont'd) | MyOpenMath HW 8 |
 | 20 |  | Additional Inference Practice, Day III `16_InferencePractice` (Cont'd) |  |
