@@ -1,1 +1,1 @@
-A collection of data sets to use in introductory statistics.
+A collection of data sets to use in introductory statistics. All data files are from [this page at OpenIntro.org](https://www.openintro.org/data/), but have been added here to facilitate easy reading for students.
