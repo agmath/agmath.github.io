@@ -19,28 +19,28 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | [Review Syllabus](https://drive.google.com/file/d/1CqDPrAmPqWUxgGt8_Wiyes-ZovPjOfB-/view?usp=sharing) <br/> Create [Posit.cloud](posit.cloud) account and [access materials](https://posit.cloud/content/6230957) | Introduction and What to Expect <br/> Troubleshooting |  |
-| 2 | `01_IntroToData` | Exploring `tidytuesday` and other data sets | MyOpenMath HW 1 |
-| 3 | `02_IntroToR` | Getting Familiar with R |  |
-| 4 | `03_DescriptiveNumCat` | Reading, exploring, and describing data in R | MyOpenMath HW 2 |
-| 5 | `04_DataViz` | Data Visualization |  |
-| 6 | `05_DiscreteDistributions` | Probabilities and Simulation |  |
-| 7 | `06_NormalDistributions` | Probabilities and Normal Distributions | MyOpenMath HW 4 |
+| 1 | [Review Syllabus](https://drive.google.com/file/d/1CqDPrAmPqWUxgGt8_Wiyes-ZovPjOfB-/view?usp=sharing) <br/> Create [Posit.cloud](posit.cloud) account and [access materials](https://posit.cloud/content/6230957) | Introduction and What to Expect <br/> Troubleshooting <br/> Data Exploration ([html](https://agmath.github.io/IntroductoryStatistics/Day1_DataExploration.html), or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day1_DataExploration.qmd)) |  |
+| 2 | `01_IntroToData` | Exploring Austin Housing Dataset ([html](https://agmath.github.io/IntroductoryStatistics/Days2to5_AustinHousingData.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Days2to5_AustinHousingData.qmd)) | MyOpenMath HW 1 |
+| 3 | `02_IntroToR` | Getting Familiar with R <br/> Austin Housing (Cont'd) |  |
+| 4 | `03_DescriptiveNumCat` | Reading, exploring, and describing data in R <br/> Austin Housin (Cont'd) | MyOpenMath HW 2 |
+| 5 | `04_DataViz` | Data Visualization <br/> Austin Housing (Cont'd) |  |
+| 6 | `05_DiscreteDistributions` | Probabilities and Simulation <br/> Doris and Buzz ([html](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.qmd) |  |
+| 7 | `06_NormalDistributions` | Probabilities and Normal Distributions <br/> MyOpenMath Problems ([html](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.qmd) | MyOpenMath HW 4 |
 | 8 |  | Discrete Distributions Lab `07_DiscreteDistributionsLab` |  |
 | 9 |  | Normal Distributions Lab `08_NormalDistributionLab` |  |
 | 10 |  | Exam I, Part I (Group) |  |
 | 11 |  | Exam I, Part II (Individual) |  |
 | 12 | `09_FoundationsForInference` | More on the Sampling Distribution `10_IntroInferenceLab` | MyOpenMath HW 5 |
 | 13 | `11_HTandCIprop` | Hypothesis Tests and Confidence Intervals for Proportions |  |
-| 14 | `12_InferencePractice` | More Practice with Inference | MyOpenMath HW 6 |
+| 14 | `12_InferencePractice` | Inference for Categorical Data ([html](https://agmath.github.io/IntroductoryStatistics/Day13and14_InferenceForCategoricalData.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day13and14_InferenceForCategoricalData.qmd)) | MyOpenMath HW 6 |
 | 15 |  | Inference for Categorical Data Lab `13_InferenceCategoricalLab` |  |
-| 16 | `14_ChiSquare` | Inference for more than two proportions | MyOpenMath HW 7 | 
-| 17 | `15_HTandCInum` | Hypothesis Tests and Confidence Intervals for One or Two Means |  |
+| 16 | `14_ChiSquare` | Inference for more than two proportions ([html](https://agmath.github.io/IntroductoryStatistics/Day16_YouthBehaviorAndRisk.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day16_YouthBehaviorAndRisk.qmd)) | MyOpenMath HW 7 | 
+| 17 | `15_HTandCInum` | Hypothesis Tests and Confidence Intervals for One or Two Means ([html](https://agmath.github.io/IntroductoryStatistics/Day17_InferenceForNumericalData.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day17_InferenceForNumericalData.qmd)) |  |
 | 18 |  | Additional Inference Practice, Day I `16_InferencePractice`|  |
 | 19 |  | Additional Inference Practice, Day II `16_InferencePractice` (Cont'd) | MyOpenMath HW 8 |
 | 20 |  | Additional Inference Practice, Day III `16_InferencePractice` (Cont'd) |  |
 | 21 |  | Inference for Numerical Data Lab `17_InferenceNumericalLab` | MyOpenMath HW 9 |
-| 22 | `18_ANOVA` | Inference for more than two means |  |
+| 22 | `18_ANOVA` | Inference for more than two means ([html](https://agmath.github.io/IntroductoryStatistics/Day22_PalmerPenguins.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day22_PalmerPenguins.qmd)) |  |
 | 23 |  | Exam II, Part I (Group) |  |
 | 24 |  | Exam II, Part II (Individual) |  |
 | 25 |  | Linear Regression Lab `19_LinearRegression` | MyOpenMath HW 10 |
