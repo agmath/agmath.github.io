@@ -43,27 +43,26 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 6 | [$\S$ 1.7 - Linear Independence](https://drive.google.com/file/d/1z3PUkcycaDDYOnTRXewPnvzpi03DU1TX/view?usp=drive_link) | HW 5 |
 | 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://drive.google.com/file/d/1yxdC70ORff10KPcjyDN40ysJA_2WWvKc/view?usp=drive_link) |  |
 | 8 | [$\S$ 1.9 - The Matrix of a Linear Transformation](https://drive.google.com/file/d/1zYT9FTbsOIS5wKIVjZT_iPskSuDjGVjm/view?usp=drive_link) | HW 6 |
-| 9 | Additional Problems and Review |  |
-| 10 | Group Exam I |  |
-| 11 | Individual Exam I |  |
-| 12 | [$\S$ 2.1 - Matrix Operations](https://drive.google.com/file/d/1zW848G239f2EZj-paB7dYz2JOhY-6caw/view?usp=drive_link) | HW 7 |
-| 13 | [$\S$ 2.2 - The Inverse of a Matrix](https://drive.google.com/file/d/1zVfvYcfQ-g9TDhPAgmvSG90q7OekFB5R/view?usp=drive_link) |  |
-| 14 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://drive.google.com/file/d/1zRrd8fi8CpW0EgDCFs3p3Y3gTMjm_JG-/view?usp=drive_link) | HW 8 |
-| 15 | [$\S$ 2.7 - Applications to Computer Graphics](https://drive.google.com/file/d/1zFVxFikpxJqA1_EDoihl2VJXMCboJolZ/view?usp=drive_link) |  |
-| 16 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://drive.google.com/file/d/1zA58vKDdrbnXzA7SPC8LljFbnoJTXlse/view?usp=drive_link) | HW 9 |
-| 17 | [$\S$ 2.9 - Dimension and Rank](https://drive.google.com/file/d/1z_V4P-oMw9Hfhu9myS3Gw9UHDcCkrgm4/view?usp=drive_link) | HW 10 |
-| 18 | [$\S$ 3.1 - Introduction to Determinants](https://drive.google.com/file/d/1z_G6eE7nNgH6QUVem7VLazcw9-qchotL/view?usp=drive_link) |  |
-| 19 | [$\S$ 3.2 - Properties of Determinants](https://drive.google.com/file/d/1zzR7IXa_yipUM5Q5RsAiC0qBvqSOlQDc/view?usp=drive_link) | HW 11 |
-| 20 | Additional Problems and Review |  |
-| 21 | Group Exam II |  |
-| 22 | Individual Exam II |  |
-| 23 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://drive.google.com/file/d/1zud8NUGbUYAi0bOIMt1QY_-icIVBNM72/view?usp=drive_link) |  |
-| 24 | [$\S$ 5.2 - The Characteristic Equation](https://drive.google.com/file/d/1zrpIXpQwYGKo8OOrrDxgZnYaSe33I85b/view?usp=drive_link) | HW 12 |
-| 25 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://drive.google.com/file/d/1zmvcCg19eBm5Ea_6H1LDrocqHLz49EuP/view?usp=drive_link) |  |
-| 26 | [$\S$ 6.2 - Orthogonal Sets](https://drive.google.com/file/d/1z_l4FWOXsbHJe9Sldh7A7LdaQJvLneMC/view?usp=drive_link) | HW 13 |
-| 27 | Review |  |
-| 28 | Final, Part I |  |
-| 29 | Final, Part II (Optional) |  |
+| 9 | Group Exam I |  |
+| 10 | Individual Exam I |  |
+| 11 | [$\S$ 2.1 - Matrix Operations](https://drive.google.com/file/d/1zW848G239f2EZj-paB7dYz2JOhY-6caw/view?usp=drive_link) | HW 7 |
+| 12 | [$\S$ 2.2 - The Inverse of a Matrix](https://drive.google.com/file/d/1zVfvYcfQ-g9TDhPAgmvSG90q7OekFB5R/view?usp=drive_link) |  |
+| 13 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://drive.google.com/file/d/1zRrd8fi8CpW0EgDCFs3p3Y3gTMjm_JG-/view?usp=drive_link) | HW 8 |
+| 14 | [$\S$ 2.7 - Applications to Computer Graphics](https://drive.google.com/file/d/1zFVxFikpxJqA1_EDoihl2VJXMCboJolZ/view?usp=drive_link) |  |
+| 15 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://drive.google.com/file/d/1zA58vKDdrbnXzA7SPC8LljFbnoJTXlse/view?usp=drive_link) | HW 9 |
+| 16 | [$\S$ 2.9 - Dimension and Rank](https://drive.google.com/file/d/1z_V4P-oMw9Hfhu9myS3Gw9UHDcCkrgm4/view?usp=drive_link) | HW 10 |
+| 17 | [$\S$ 3.1 - Introduction to Determinants](https://drive.google.com/file/d/1z_G6eE7nNgH6QUVem7VLazcw9-qchotL/view?usp=drive_link) |  |
+| 18 | [$\S$ 3.2 - Properties of Determinants](https://drive.google.com/file/d/1zzR7IXa_yipUM5Q5RsAiC0qBvqSOlQDc/view?usp=drive_link) | HW 11 |
+| 19 | Additional Problems and Review |  |
+| 20 | Group Exam II |  |
+| 21 | Individual Exam II |  |
+| 22 | [$\S$ 5.1 - Eigenvectors and Eigenvalues](https://drive.google.com/file/d/1zud8NUGbUYAi0bOIMt1QY_-icIVBNM72/view?usp=drive_link) |  |
+| 23 | [$\S$ 5.2 - The Characteristic Equation](https://drive.google.com/file/d/1zrpIXpQwYGKo8OOrrDxgZnYaSe33I85b/view?usp=drive_link) | HW 12 |
+| 24 | [$\S$ 6.1 - Inner Product, Length, and Orthogonality](https://drive.google.com/file/d/1zmvcCg19eBm5Ea_6H1LDrocqHLz49EuP/view?usp=drive_link) |  |
+| 25 | [$\S$ 6.2 - Orthogonal Sets](https://drive.google.com/file/d/1z_l4FWOXsbHJe9Sldh7A7LdaQJvLneMC/view?usp=drive_link) | HW 13 |
+| 26 | Review |  |
+| 27 | Final, Part I |  |
+| 28 | Final, Part II (Optional) |  |
 
 <br/>
 <br/>
