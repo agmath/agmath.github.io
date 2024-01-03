@@ -1,18 +1,15 @@
 ---
 title: Precalculus with Limits
-description: This is a homepage for MAT142, Precalculus with Limits, with Dr. Gilbert at Southern New Hampshire University.
-This is a first-year course, designed to prepare students for future coursework in calculus. Themes running throughout the 
-course include building a strong foundation in algebra, developing and executing strategies for solving equations, building 
-confidence in evaluation and graphing functions, understanding equations geometrically as questions about intersections of 
-functions or roots of functions, developing and using the notion of the limit as an extension of function evaluation.
+description: This is a homepage for MAT142, Precalculus with Limits, with Dr. Gilbert at Southern New Hampshire University. This is a first-year course, designed to prepare students for future coursework in calculus. Themes running throughout the course include functions, graphs, landmarks of functions (roots, intercepts, discontinuities, etc.), and solutions of equations. A variety of function classes are considered, including linear, quadratic, general polynomial, rational, radical, exponential, logarithmic, and trigonometric. 
 ---
 
 {% include google-analytics.html %}
 
 ## MAT 142 - Precalculus with Limits
 
-<img src="/SiteFiles/OpenStaxPrecalc.jpg" align="left" width=200>**Syllabus (Spring 2024, Being Built)**<br/>
+<img src="/SiteFiles/OpenStaxPrecalc.jpg" align="left" width=200>[**Syllabus (Spring 2024)**](https://drive.google.com/file/d/1lXuFnwU7dSHKgeT0fy8Z80oagu9GuOFU/view?usp=sharing)<br/>
 <br/>
+
 ***Course Description:*** This course emphasizes the numerical, symbolic, and graphical representation of functions needed in 
 more advanced mathematics. Students will solve problems and explore the properties of polynomial, rational, trigonometric, 
 exponential, and logarithmic functions. Students will also learn to solve a variety of real-world problems using different 
@@ -29,31 +26,31 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 1 | Introduction and What to Expect <br/> Algebra Review, Part I |  |
 | 2 | Algebra Review, Part II |  |
 | 3 | Describing Intervals of Real Numbers <br/> Functions: Notation and Evaluation |  |
-| 4 | Functions: Domain, Range, and Limits |  |
-| 5 | Functions: Rates of Change |  |
-| 6 | Exam I, Part I |  |
-| 7 | Exam I, Part II |  |
-| 8 | Functions: Composition <br/> Functions: Book Functions for Graphing |  |
-| 9 | Functions: Transformations and Graphing |  |
-| 10 | Functions: Inverses |  |
-| 11 | Linear Functions: Transformations, Roots, and Graphing |  |
-| 12 | Complex Numbers |  |
-| 13 | Quadratic Functions: Transformations, Roots, and Graphing |  |
-| 14 | Exam II, Part I |  |
-| 15 | Exam II, Part II |  |
-| 16 | Polynomial Functions: Roots, Limits, and Graphing |  |
-| 17 | Polynomial Long Division |  |
-| 18 | Rational Functions: Roots, Asymptotes, Limits, and Graphing |  |
-| 19 | Radical Functions: Transformations, Domain, Roots, Range, and Graphing|  |
-| 20 | Review of Exponentiation and Logarithms <br/> Solving Exponential and Logarithmic Equations |  |
-| 21 | Exponential and Logarithmic Functions |  |
-| 22 | Exam III, Part I |  |
-| 23 | Exam III, Part II |  |
-| 24 | Right-Triangle Trigonometry |  |
-| 25 | Trigonometric Functions |  |
+| 4 | Functions: Domain and Range |  |
+| 5 | Functions: Limits Rates of Change |  |
+| 6 | Functions: Composition |  |
+| 7 | Exam I |  |
+| 8 | Functions: Book Functions and Transformations <br/> Functions: Graphs and Landmarks |  |
+| 9 | Functions: Inverses |  |
+| 10 | Linear Functions and Linear Equations |  |
+| 11 | Complex Numbers |  |
+| 12 | Quadratic Functions and Equations, Part I |  |
+| 13 | Quadratic Functions and Equations, Part II |  |
+| 14 | Exam II |  |
+| 15 | Polynomial Functions and Equations |  |
+| 16 | Polynomial Long Division and Factoring |  |
+| 17 | Rational Functions and Equations |  |
+| 18 | Radical Functions and Equations |  |
+| 19 | Review of Exponentials and Logarithms |  |
+| 20 | Exponential Functions and Equations |  |
+| 21 | Logarithmic Functions and Equations |  |
+| 22 | Exam III |  |
+| 23 | Angles, Unit Circle, and Right-Triangle Trigonometry |  |
+| 24 | Trigonometric Functions and Inverses |  |
+| 25 | Trigonometric Equations |  |
 | 26 | Review |  |
-| 27 | Final, Part I |  |
-| 28 | Final, Part II (Optional) |  |
+| 27 | Final Exam, Part I |  |
+| 28 | Final Exam, Part II (Optional) |  |
 
 <br/>
 <br/>
