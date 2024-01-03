@@ -19,6 +19,7 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 
 ### Teaching (Spring 2024)
 
++ [MAT142 - Precalculus with Limits](Precalculus.md)
 + [MAT241 - Modern Statistics with Software](StatsWithR.md)
 + [MAT350 - Linear Algebra](LinearAlgebra.md)
 + [MAT370 - Numerical Analysis](NumericalAnalysis.md)
