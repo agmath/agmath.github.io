@@ -1,5 +1,6 @@
 ---
 title: Precalculus with Limits
+
 description: This is a homepage for MAT142, Precalculus with Limits, with Dr. Gilbert at Southern New Hampshire University. 
 This is a first-year course designed to prepare students for future coursework in calculus. Themes running throughout the 
 course are (i) building a strong foundation in algebra, (ii) developing and executing strategies for solving equations, 
