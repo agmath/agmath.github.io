@@ -33,8 +33,8 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 8 | [Functions: Book Functions and Transformations <br/> Functions: Graphs and Landmarks](https://colab.research.google.com/drive/1XCXTnTQNmcP144rvddBAMBeMZIiCa2Wl?usp=sharing) |  |
 | 9 | [Functions: Inverses](https://colab.research.google.com/drive/12ua2GIwJZBfdeC8ij8KRKOpUTXZRIZ7x?usp=sharing) |  |
 | 10 | [Linear Functions and Linear Equations](https://colab.research.google.com/drive/1MHByP0lVp8AFJhi3Wn0OPggHXO_RZORu?usp=sharing) |  |
-| 11 | Complex Numbers |  |
-| 12 | Quadratic Functions and Equations, Part I |  |
+| 11 | [Complex Numbers](https://colab.research.google.com/drive/1HAfy8BJK7oS8YblnyT3ibgUDbgk4w1-m?usp=sharing) |  |
+| 12 | [Quadratic Functions and Equations, Part I](https://colab.research.google.com/drive/1OpV7SZhRFOjiEMWYS4ANZgbnDbnR7ULW?usp=sharing) |  |
 | 13 | Quadratic Functions and Equations, Part II |  |
 | 14 | Exam II |  |
 | 15 | Polynomial Functions and Equations |  |
