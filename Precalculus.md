@@ -23,16 +23,16 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 
 | Class Meeting | During Class | After Class |
 |---------------|--------------|-------------|
-| 1 | Introduction and What to Expect <br/> Algebra Review, Part I |  |
-| 2 | Algebra Review, Part II |  |
-| 3 | Describing Intervals of Real Numbers <br/> Functions: Notation and Evaluation |  |
-| 4 | Functions: Domain and Range |  |
-| 5 | Functions: Limits Rates of Change |  |
-| 6 | Functions: Composition |  |
+| 1 | Introduction and What to Expect <br/> [Algebra Review, Part I](https://colab.research.google.com/drive/1Nvgi5nWn7jdNs-kuWfXwP4WdSn_2wL6F?usp=sharing) |  |
+| 2 | [Algebra Review, Part II](https://colab.research.google.com/drive/1wT-N3BgiEAXPzxwZmRiFpRJVzSO8kR1q?usp=sharing) |  |
+| 3 | [Describing Intervals of Real Numbers <br/> Functions: Notation and Evaluation](https://colab.research.google.com/drive/1zAN56MDKnV6wna9oJJDhO6R3s-ziDj6W?usp=sharing) |  |
+| 4 | [Functions: Domain and Range](https://colab.research.google.com/drive/11mTjdTFrDA6cfWeBB7twqhuZLp1vlS25?usp=sharing) |  |
+| 5 | [Functions: Limits Rates of Change](https://colab.research.google.com/drive/1Mkds65rjErHLpQap9dKxlJLun75Gy86H?usp=sharing) |  |
+| 6 | [Functions: Composition](https://colab.research.google.com/drive/13NRmELgisLsmU4gQ_04HovLvImWIi7Fi?usp=share_link) |  |
 | 7 | Exam I |  |
-| 8 | Functions: Book Functions and Transformations <br/> Functions: Graphs and Landmarks |  |
-| 9 | Functions: Inverses |  |
-| 10 | Linear Functions and Linear Equations |  |
+| 8 | [Functions: Book Functions and Transformations <br/> Functions: Graphs and Landmarks](https://colab.research.google.com/drive/1XCXTnTQNmcP144rvddBAMBeMZIiCa2Wl?usp=sharing) |  |
+| 9 | [Functions: Inverses](https://colab.research.google.com/drive/12ua2GIwJZBfdeC8ij8KRKOpUTXZRIZ7x?usp=sharing) |  |
+| 10 | [Linear Functions and Linear Equations](https://colab.research.google.com/drive/1MHByP0lVp8AFJhi3Wn0OPggHXO_RZORu?usp=sharing) |  |
 | 11 | Complex Numbers |  |
 | 12 | Quadratic Functions and Equations, Part I |  |
 | 13 | Quadratic Functions and Equations, Part II |  |
