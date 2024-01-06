@@ -37,7 +37,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 12 | [Quadratic Functions and Equations, Part I](https://colab.research.google.com/drive/1OpV7SZhRFOjiEMWYS4ANZgbnDbnR7ULW?usp=sharing) |  |
 | 13 | [Quadratic Functions and Equations, Part II](https://colab.research.google.com/drive/1gkstJljMAkmJrpy8d3taw1adN9mzTb1C?usp=sharing) |  |
 | 14 | Exam II |  |
-| 15 | Polynomial Functions and Equations |  |
+| 15 | [Polynomial Functions and Equations](https://colab.research.google.com/drive/16WXe4JW_9mOXaypsjjFOQLXiyCwo670S?usp=sharing) |  |
 | 16 | Polynomial Long Division and Factoring |  |
 | 17 | Rational Functions and Equations |  |
 | 18 | Radical Functions and Equations |  |
