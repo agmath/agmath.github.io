@@ -39,7 +39,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 14 | Exam II |  |
 | 15 | [Polynomial Functions and Equations](https://colab.research.google.com/drive/16WXe4JW_9mOXaypsjjFOQLXiyCwo670S?usp=sharing) | HW 8 |
 | 16 | [Polynomial Long Division and Factoring](https://colab.research.google.com/drive/1x6ekxUxivcJkl-wE5vy_1N_qEOqNw7e6?usp=sharing) |  |
-| 17 | Rational Functions and Equations | HW 9 |
+| 17 | [Rational Functions and Equations](https://colab.research.google.com/drive/1c38qQflCZUOnxLoZ1VKGIcrLyb5Cj19a?usp=sharing) | HW 9 |
 | 18 | Radical Functions and Equations |  |
 | 19 | Review of Exponentials and Logarithms | HW 10 |
 | 20 | Exponential Functions and Equations |  |
