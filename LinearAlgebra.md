@@ -35,22 +35,22 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 
 | Class Meeting | During Class | After Class |
 |---------------|--------------|-------------|
-| 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - Linear Systems](https://drive.google.com/file/d/1ysC7cNZ0Vp5Rgbt2jVu7JZIKCg-GiaZf/view?usp=sharing) | Week 1 Assignment |
-| 2 | [$\S$ 1.2 - Row Reduction and Echelon Forms](https://drive.google.com/file/d/1yg1lfKU_dMjdPZl7fkJTc4RB2_6krTfP/view?usp=sharing) | HW 1 |
-| 3 | [$\S$ 1.3 - Vector Equations](https://drive.google.com/file/d/1z9T8hjAlRmCe2eOLkDrdMs1ZQ_iQUGgb/view?usp=sharing) | HW 2 |
-| 4 | [$\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$](https://drive.google.com/file/d/1z98C4WnB9f7bTR4pSWR-o1sVilDzwe1y/view?usp=sharing) | HW 3 |
-| 5 | [$\S$ 1.5 - Solution Sets of Linear Systems](https://drive.google.com/file/d/1z512tnDbLx8HPg2qCywrOIZwDEtqtvo7/view?usp=sharing) | HW 4 |
-| 6 | [$\S$ 1.7 - Linear Independence](https://drive.google.com/file/d/1z3PUkcycaDDYOnTRXewPnvzpi03DU1TX/view?usp=sharing) | HW 5 |
-| 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://drive.google.com/file/d/1yxdC70ORff10KPcjyDN40ysJA_2WWvKc/view?usp=sharing) |  |
-| 8 | [$\S$ 1.9 - The Matrix of a Linear Transformation](https://drive.google.com/file/d/1zYT9FTbsOIS5wKIVjZT_iPskSuDjGVjm/view?usp=sharing) | HW 6 |
+| 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - Linear Systems](https://colab.research.google.com/drive/1ysC7cNZ0Vp5Rgbt2jVu7JZIKCg-GiaZf?usp=sharing) | Week 1 Assignment |
+| 2 | [$\S$ 1.2 - Row Reduction and Echelon Forms](https://colab.research.google.com/drive/1yg1lfKU_dMjdPZl7fkJTc4RB2_6krTfP?usp=sharing) | HW 1 |
+| 3 | [$\S$ 1.3 - Vector Equations](https://colab.research.google.com/drive/1z9T8hjAlRmCe2eOLkDrdMs1ZQ_iQUGgb?usp=sharing) | HW 2 |
+| 4 | [$\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$](https://colab.reserch.google.com/drive/1z98C4WnB9f7bTR4pSWR-o1sVilDzwe1y?usp=sharing) | HW 3 |
+| 5 | [$\S$ 1.5 - Solution Sets of Linear Systems](https://colab.research.google.com/drive/1z512tnDbLx8HPg2qCywrOIZwDEtqtvo7?usp=sharing) | HW 4 |
+| 6 | [$\S$ 1.7 - Linear Independence](https://colab.research.google.com/drive/1z3PUkcycaDDYOnTRXewPnvzpi03DU1TX?usp=sharing) | HW 5 |
+| 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://colab.research.google.com/drive/1yxdC70ORff10KPcjyDN40ysJA_2WWvKc?usp=sharing) |  |
+| 8 | [$\S$ 1.9 - The Matrix of a Linear Transformation](https://colab.research.google.com/drive/1zYT9FTbsOIS5wKIVjZT_iPskSuDjGVjm?usp=sharing) | HW 6 |
 | 9 | Group Exam I |  |
 | 10 | Individual Exam I |  |
-| 11 | [$\S$ 2.1 - Matrix Operations](https://drive.google.com/file/d/1zW848G239f2EZj-paB7dYz2JOhY-6caw/view?usp=sharing) | HW 7 |
-| 12 | [$\S$ 2.2 - The Inverse of a Matrix](https://drive.google.com/file/d/1zVfvYcfQ-g9TDhPAgmvSG90q7OekFB5R/view?usp=sharing) |  |
-| 13 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://drive.google.com/file/d/1zRrd8fi8CpW0EgDCFs3p3Y3gTMjm_JG-/view?usp=sharing) | HW 8 |
-| 14 | [$\S$ 2.7 - Applications to Computer Graphics](https://drive.google.com/file/d/1zFVxFikpxJqA1_EDoihl2VJXMCboJolZ/view?usp=sharing) |  |
-| 15 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://drive.google.com/file/d/1zA58vKDdrbnXzA7SPC8LljFbnoJTXlse/view?usp=sharing) | HW 9 |
-| 16 | [$\S$ 2.9 - Dimension and Rank](https://drive.google.com/file/d/1z_V4P-oMw9Hfhu9myS3Gw9UHDcCkrgm4/view?usp=sharing) | HW 10 |
+| 11 | [$\S$ 2.1 - Matrix Operations](https://colab.research.google.com/drive/1zW848G239f2EZj-paB7dYz2JOhY-6caw?usp=sharing) | HW 7 |
+| 12 | [$\S$ 2.2 - The Inverse of a Matrix](https://colab.research.google.com/drive/1zVfvYcfQ-g9TDhPAgmvSG90q7OekFB5R?usp=sharing) |  |
+| 13 | [$\S$ 2.3 - Characterizations of Invertible Matrices](https://colab.research.google.com/drive/1zRrd8fi8CpW0EgDCFs3p3Y3gTMjm_JG-?usp=sharing) | HW 8 |
+| 14 | [$\S$ 2.7 - Applications to Computer Graphics](https://colab.research.google.com/drive/1zFVxFikpxJqA1_EDoihl2VJXMCboJolZ?usp=sharing) |  |
+| 15 | [$\S$ 2.8 - Subspaces of $\mathbb{R}^n$](https://colab.research.google.com/drive/1zA58vKDdrbnXzA7SPC8LljFbnoJTXlse?usp=sharing) | HW 9 |
+| 16 | [$\S$ 2.9 - Dimension and Rank](https://colab.research.google.com/drive/1z_V4P-oMw9Hfhu9myS3Gw9UHDcCkrgm4?usp=sharing) | HW 10 |
 | 17 | [$\S$ 3.1 - Introduction to Determinants](https://colab.research.google.com/drive/1z_G6eE7nNgH6QUVem7VLazcw9-qchotL?usp=sharing) |  |
 | 18 | [$\S$ 3.2 - Properties of Determinants](https://colab.research.google.com/drive/1zzR7IXa_yipUM5Q5RsAiC0qBvqSOlQDc?usp=sharing) | HW 11 |
 | 19 | Additional Problems and Review |  |
