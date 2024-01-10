@@ -38,7 +38,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - Linear Systems](https://colab.research.google.com/drive/1ysC7cNZ0Vp5Rgbt2jVu7JZIKCg-GiaZf?usp=sharing) | Week 1 Assignment |
 | 2 | [$\S$ 1.2 - Row Reduction and Echelon Forms](https://colab.research.google.com/drive/1yg1lfKU_dMjdPZl7fkJTc4RB2_6krTfP?usp=sharing) | HW 1 |
 | 3 | [$\S$ 1.3 - Vector Equations](https://colab.research.google.com/drive/1z9T8hjAlRmCe2eOLkDrdMs1ZQ_iQUGgb?usp=sharing) | HW 2 |
-| 4 | [$\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$](https://colab.reserch.google.com/drive/1z98C4WnB9f7bTR4pSWR-o1sVilDzwe1y?usp=sharing) | HW 3 |
+| 4 | [$\S$ 1.4 - The Matrix Equation $A\vec{x} = \vec{b}$](https://colab.research.google.com/drive/1z98C4WnB9f7bTR4pSWR-o1sVilDzwe1y?usp=sharing) | HW 3 |
 | 5 | [$\S$ 1.5 - Solution Sets of Linear Systems](https://colab.research.google.com/drive/1z512tnDbLx8HPg2qCywrOIZwDEtqtvo7?usp=sharing) | HW 4 |
 | 6 | [$\S$ 1.7 - Linear Independence](https://colab.research.google.com/drive/1z3PUkcycaDDYOnTRXewPnvzpi03DU1TX?usp=sharing) | HW 5 |
 | 7 | [$\S$ 1.8 - Introduction to Linear Transformations](https://colab.research.google.com/drive/1yxdC70ORff10KPcjyDN40ysJA_2WWvKc?usp=sharing) |  |
