@@ -43,7 +43,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 18 | [Radical Functions and Equations](https://colab.research.google.com/drive/1gg6I0VoZTtwTWnsNfPoPwPy6MIsT8tC2?usp=sharing) |  |
 | 19 | [Review of Exponentials and Logarithms](https://colab.research.google.com/drive/1isACeA2-a3K-1EL3JzT2WSHphsA1YGJH?usp=sharing) | HW 10 |
 | 20 | [Exponential Functions and Equations](https://colab.research.google.com/drive/16tRvAbPBcMeZkpbe86OMoiT2p3LB-93i?usp=sharing) |  |
-| 21 | Logarithmic Functions and Equations |  |
+| 21 | [Logarithmic Functions and Equations](https://colab.research.google.com/drive/1Gs_OG9_qwtlmt-uJ3wUdZZ-UtaQKQ7am?usp=sharing) |  |
 | 22 | Exam III |  |
 | 23 | Angles, Unit Circle, and Right-Triangle Trigonometry | HW 11 |
 | 24 | Trigonometric Functions and Inverses | HW 12 |
