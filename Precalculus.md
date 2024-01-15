@@ -46,7 +46,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 21 | [Logarithmic Functions and Equations](https://colab.research.google.com/drive/1Gs_OG9_qwtlmt-uJ3wUdZZ-UtaQKQ7am?usp=sharing) |  |
 | 22 | Exam III |  |
 | 23 | [Angles, the Unit Circle, and Basic Trigonometric Functions](https://colab.research.google.com/drive/1xfKJZVPW2ffQlquuxJ7hHhcoPltA-t0W?usp=sharing) | HW 11 |
-| 24 | Trigonometric Functions, Inverses, and Trigonometric Equations | HW 12 |
+| 24 | [Trigonometric Functions, Inverses, and Trigonometric Equations](https://colab.research.google.com/drive/1ZSj7L6AN1qYEg9I7hW7NQP68MOycDup_?usp=sharing) | HW 12 |
 | 25 | Right Triangle Trigonometry |  |
 | 26 | Review |  |
 | 27 | Final Exam, Part I |  |
