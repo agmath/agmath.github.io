@@ -12,6 +12,8 @@ description: This is a homepage for MAT241, Modern Statistics with Software, wit
 ***Course Description:*** This is a fundamental course in modern-day data, data visualization, and the application of statistical techniques to analyze and make inferences from sample data. In a world where data is being constantly collected, it is necessary for individuals to be data literate, to have exposure to the power of data, and to understand as well as practice proper and ethical analyses with data. In a world where data has become abundant, rather than scarce, statistical tools are evolving. This course looks at modern statistical techniques in the age of "Big-Data".<br/>
 <br/>
 *Students in this course should expect to use R via RStudio either using [Posit.cloud](https://posit.cloud/) or a local installation of R and RStudio if you wish. The notebooks and all required packages are pre-loaded at [this Posit.cloud workspace](https://posit.cloud/content/7284986), which can be copied once you are logged in with your own free account. Students will work through scripted workbooks outside of class meetings (more on this below) and then will get their hands dirty, working with real data during class time. Applications will vary according to student and instructor interests.*<br/>
+<br/>
+Still not quite sure what to expect? Check out [this in-browser version of the Day 1 Material](https://agmath.github.io/WebRtutorials/MAT241_Intro.html)
 
 ### Course Timeline and Notebooks
 
