@@ -53,7 +53,7 @@ I am very passionate about high-quality open educational resources (OER). I have
 + I developed and maintain a course shell at [MyOpenMath](https://www.myopenmath.com/) which aligns with the OpenIntro Statistics (4Ed) textbook.
 + I developed and maintain a set of interactive notes for a course using the OpenIntro Statistics (4Ed) textbook and the R language. You can find those notebooks and installation instructions [here](https://github.com/agmath/AppliedStatsInteractive). If you'd like to simply use them in a pre-built cloud workspace, I've set one up [here on Posit.cloud](https://posit.cloud/content/6230957). Please let me know if you are using these!
 
-I've also begun collaborating with two of my other colleagues from SNHU on an open-source and interactive text to accompany our Discrete Mathematics for Computing course at SNHU. This is a course designed for first-semester students whose majors involve computing (Computer Science, Game Programming and Development, Information Technology, Computer and Information Systems, etc.). You can see the current status of the draft text [here](https://agmath.github.io/DiscreteMathForComputing/output/html/frontmatter.html).
+I've also begun collaborating with two of my other colleagues from SNHU on an open-source and interactive text to accompany our Discrete Mathematics for Computing course at SNHU. This is a course designed for first-semester students whose majors involve computing (Computer Science, Game Programming and Development, Information Technology, Computer and Information Systems, etc.). You can see the current status of the draft text [here](https://agmath.github.io/DiscreteMathForComputing/frontmatter.html).
 
 #### Data Science Consulting
 
