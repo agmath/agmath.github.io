@@ -35,7 +35,7 @@ Are you a current SNHU student who is interested in pursuing an undergraduate re
 
 ### Data Science and Machine Learning
 
-I became interested in data science in 2016 and have (slowly) been transitioning my professional focus in this direction ever since. While I'm not much of a blogger, you'll eventually be able to check in on what I'm up to [here](MyDSjourney.md).
+I became interested in data science in 2016 and have (slowly) been transitioning my professional focus in this direction ever since. I have completed several certificates and courses in these areas. You can see some of them on my CV. Currently, I am pursuing a 10 course masters-level certificate in Biostatistics and Epidemiology through the Institute for Statistics Education. 
 
 ### Other Initiatives
 
@@ -51,13 +51,15 @@ I have run several summer *Faculty Upskilling* workshops here at SNHU. These wor
 
 I am very passionate about high-quality open educational resources (OER). I have been working with [OpenIntro.org](https://www.openintro.org/) to develop and enhance freely-available and open-source applied statistics content since 2015. Additionally, I am an OER Evangelist at Southern New Hampshire University.
 + I developed and maintain a course shell at [MyOpenMath](https://www.myopenmath.com/) which aligns with the OpenIntro Statistics (4Ed) textbook.
-+ I developed and maintain a set of interactive notes for a course using the OpenIntro Statistics (4Ed) textbook and the R language. You can find those notebooks and installation instructions [here](https://github.com/agmath/AppliedStatsInteractive). If you'd like to simply use them in a pre-built cloud workspace, I've set one up [here on Posit.cloud](https://posit.cloud/content/6230957). Please let me know if you are using these!
++ I developed and maintain a set of interactive notes for a course using the OpenIntro Statistics (4Ed) textbook and the R language. You can find those notebooks and installation instructions [here](https://github.com/agmath/AppliedStatsInteractive). If you'd like to simply use them in a pre-built cloud workspace, I've set one up [here on Posit.cloud](https://posit.cloud/content/6328402). Please let me know if you are using these!
 
 I've also begun collaborating with two of my other colleagues from SNHU on an open-source and interactive text to accompany our Discrete Mathematics for Computing course at SNHU. This is a course designed for first-semester students whose majors involve computing (Computer Science, Game Programming and Development, Information Technology, Computer and Information Systems, etc.). You can see the current status of the draft text [here](https://agmath.github.io/DiscreteMathForComputing/frontmatter.html).
 
 #### Data Science Consulting
 
-I have worked with [Reaching Higher New Hampshire](https://reachinghighernh.org/) as a data science consultant since 2018 on a variety of projects related to the state of public education in New Hampshire as well as education funding in New Hampshire.
+In 2023, I became a mentor for [Posit Academy](https://posit.co/products/enterprise/academy/), certified to lead cohorts through data science curriculum in both R and Python.
+
+From 2018 - 2021, I worked with [Reaching Higher New Hampshire](https://reachinghighernh.org/) as a data science consultant on a variety of projects related to the state of public education in New Hampshire as well as education funding in New Hampshire.
 
 #### North Shore Undergraduate Mathematics Conference
 
