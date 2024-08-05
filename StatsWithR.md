@@ -46,9 +46,9 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 23 |  | Exam II, Part I (Group) |  |
 | 24 |  | Exam II, Part II (Individual) |  |
 | 25 |  | Linear Regression Lab `19_LinearRegression` | MyOpenMath HW 10 |
-| 26 |  | Discussion on Statistical Modeling and Machine Learning |  |
-| 27 |  | Review |  |
-| 28 |  | Final Exam, Part I |  |
-| 29 |  | Final Exam, Part II (Optional) |  |
+[comment]: <!-- | 26 |  | Discussion on Statistical Modeling and Machine Learning |  | -->
+| 26 |  | Review |  |
+| 27 |  | Final Exam, Part I |  |
+| 28 |  | Final Exam, Part II (Optional) |  |
 
 [Back to Homepage](https://agmath.github.io/)
