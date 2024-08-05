@@ -38,12 +38,15 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 15 | [Read ISLR S2.2](https://youtu.be/VaN1RUDuioQ) | Bias/Variance Trade-Off and Model Performance Concerns ([html](https://agmath.github.io/RegressionCourse/15d_BiasVarianceTradeOff_Overfitting.html), [Quarto](https://agmath.github.io/RegressionCourse/15d_BiasVarianceTradeOff_Overfitting.qmd)) |  |
 | 16 | Read ISLR S5.1 ([Part I](https://youtu.be/ngrOYWgJjb4), [Part II](https://youtu.be/rSGzUy13F_0), [Part III](https://youtu.be/r64tRyHFAJ8)) | Performance Concerns Continued: Different Test, Different Expectations <br/> Cross-Validation and Unbiased Model Performance ([html](https://agmath.github.io/RegressionCourse/16d_CrossValidation.html), [Quarto](https://agmath.github.io/RegressionCourse/16d_CrossValidation.qmd)) | Homework 3 |
 | 17 |  | Cross-Validation Workshop |  |
-| 18 | Read ISLR S6.1, 6.2 ([Part IV](https://youtu.be/f_hkP_We0JY), [Part V](https://youtu.be/I8bPQ272Pbs), [Part VI](https://youtu.be/FlSQgXv7Dvw), <br/> [Part VII](https://youtu.be/8oEZkHqf_Rk)) | Variable Selection Methods: <br/> Stepwise Regression, Ridge Regression, and the LASSO ([html](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.html), [Quarto](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.qmd)) |  |
-| 19 |  | Other Regressors ([html](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.html), [Quarto](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.qmd)) | [Competition Assignment 6](https://agmath.github.io/RegressionCourse/CA6_OtherRegressors_SubmitPredictions.html) | 
-| 20 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation ([html](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.html), [Quarto](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.qmd)) |  |
-| 21 |  | Hyperparameters, Tuning, and Other Regressors Workshop |  | 
-| 22 | [Read ISLR S4.3](https://youtu.be/RN_dweQpcpo) | Classification with Logistic Regression ([html](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.html), [Quarto](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.qmd)) |  |
-| 23+ | Projects | Projects | Projects |
+| 18 |  | Halloween Modeling Competition |  |
+| 19 | Read ISLR S6.1, 6.2 ([Part IV](https://youtu.be/f_hkP_We0JY), [Part V](https://youtu.be/I8bPQ272Pbs), [Part VI](https://youtu.be/FlSQgXv7Dvw), <br/> [Part VII](https://youtu.be/8oEZkHqf_Rk)) | Variable Selection Methods: <br/> Stepwise Regression, Ridge Regression, and the LASSO ([html](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.html), [Quarto](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.qmd)) |  |
+| 20 |  | Other Regressors ([html](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.html), [Quarto](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.qmd)) | [Competition Assignment 6](https://agmath.github.io/RegressionCourse/CA6_OtherRegressors_SubmitPredictions.html) | 
+| 21 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation ([html](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.html), [Quarto](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.qmd)) |  |
+| 22 |  | Hyperparameters, Tuning, and Other Regressors Workshop |  | 
+| 23 | [Read ISLR S4.3](https://youtu.be/RN_dweQpcpo) | Classification with Logistic Regression ([html](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.html), [Quarto](https://agmath.github.io/RegressionCourse/20d_ClassificationAndLogisticRegression.qmd)) |  |
+| 24 |  | Introduce Projects |  |
+| 25 |  | Thanksgiving Modeling Competition |  |
+| 26+ | Projects | Projects | Projects
 
 <br/>
 <br/>
