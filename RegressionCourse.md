@@ -46,7 +46,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 23 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation ([html](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.html), [Quarto](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.qmd)) |  |
 | 24 |  | Hyperparameters, Tuning, and Other Regressors Workshop |  | 
 | 25 |  | Thanksgiving Modeling Competition <br/> (In Class, 75-minutes) |  |
-| 26+ | Projects | Projects | Projects
+| 26+ | Projects | Projects | Projects |
 <br/>
 <br/>
 
