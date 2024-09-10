@@ -23,7 +23,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 |---------------|--------------|--------------|-------------|
 | 1 | [Review Syllabus](https://drive.google.com/file/d/1CqDPrAmPqWUxgGt8_Wiyes-ZovPjOfB-/view?usp=sharing) <br/> Create [Posit.cloud](posit.cloud) account and [access materials](https://posit.cloud/content/6230957) | Introduction and What to Expect <br/> Troubleshooting <br/> Data Exploration ([html](https://agmath.github.io/IntroductoryStatistics/Day1_DataExploration.html), or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day1_DataExploration.qmd)) |  |
 | 2 | `01_IntroToData` | Austin Housing Dataset ([html](https://agmath.github.io/IntroductoryStatistics/Days2to5_AustinHousingData.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Days2to5_AustinHousingData.qmd)) | MyOpenMath HW 1 |
-| 3 | `02_IntroToR` | Getting Familiar with R <br/> Austin Housing (Cont'd) |  |
+| 3 | `02_IntroToR` | Getting Familiar with R <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/IntroToR_Slides.html) |  |
 | 4 | `03_DescriptiveNumCat` | Exploring and Describing Data <br/> Austin Housing (Cont'd) | MyOpenMath HW 2 |
 | 5 | `04_DataViz` | Data Visualization <br/> Austin Housing (Cont'd) |  |
 | 6 | `05_DiscreteDistributions` | Probabilities and Simulation <br/> Doris and Buzz ([html](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.qmd) |  |
