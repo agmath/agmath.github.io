@@ -25,7 +25,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 2 | `01_IntroToData` | Austin Housing Dataset ([html](https://agmath.github.io/IntroductoryStatistics/Days2to5_AustinHousingData.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Days2to5_AustinHousingData.qmd)) | MyOpenMath HW 1 |
 | 3 | `02_IntroToR` | Getting Familiar with R <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/IntroToR_Slides.html) |  |
 | 4 | `03_DescriptiveNumCat` | Exploring and Describing Data <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DescriptiveStatistics_Slides.html) | MyOpenMath HW 2 |
-| 5 | `04_DataViz` | Data Visualization <br/> Austin Housing (Cont'd) |  |
+| 5 | `04_DataViz` | Data Visualization <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DataViz_Slides.html)|  |
 | 6 | `05_DiscreteDistributions` | Probabilities and Simulation <br/> Doris and Buzz ([html](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.qmd) |  |
 | 7 | `06_NormalDistributions` | Probabilities and Normal Distributions <br/> MyOpenMath Problems ([html](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.qmd) | MyOpenMath HW 4 |
 | 8 |  | Discrete Distributions Lab `07_DiscreteDistributionsLab` |  |
