@@ -27,12 +27,12 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 4 | `03_DescriptiveNumCat` | Exploring and Describing Data <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DescriptiveStatistics_Slides.html) | MyOpenMath HW 2 |
 | 5 | `04_DataViz` | Data Visualization <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DataViz_Slides.html) |  |
 | 6 | `05_DiscreteDistributions` | Probabilities and Simulation <br/> Doris and Buzz ([html](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.qmd)) <br/> or [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DiscreteProbability_Slides.html) |  |
-| 7 | `06_NormalDistributions` | Probabilities and Normal Distributions <br/> MyOpenMath Problems ([html](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.qmd)) <br/> or [Companion Slides](https://agmath.github.io/IntroductoryStatistics/NormalDistProbability_Slides.html)| MyOpenMath HW 4 |
+| 7 | `06_NormalDistributions` | Probabilities and Normal Distributions <br/> MyOpenMath Problems ([html](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.qmd)) <br/> or [Companion Slides](https://agmath.github.io/IntroductoryStatistics/NormalDistProbability_Slides.html) | MyOpenMath HW 4 |
 | 8 |  | Discrete Distributions Lab `07_DiscreteDistributionsLab` |  |
 | 9 |  | Normal Distributions Lab `08_NormalDistributionLab` |  |
 | 10 |  | Exam I, Part I (Group) |  |
 | 11 |  | Exam I, Part II (Individual) |  |
-| 12 | `09_FoundationsForInference` | More on the Sampling Distribution `10_IntroInferenceLab` | MyOpenMath HW 5 |
+| 12 | `09_FoundationsForInference` | More on the Sampling Distribution `10_IntroInferenceLab`, <br/> or [Companion Slides]((https://agmath.github.io/IntroductoryStatistics/IntroInference_Slides.html)) | MyOpenMath HW 5 |
 | 13 | `11_HTandCIprop` | Hypothesis Tests and Confidence Intervals for Proportions |  |
 | 14 | `12_InferencePractice` | Inference for Categorical Data ([html](https://agmath.github.io/IntroductoryStatistics/Day13and14_InferenceForCategoricalData.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day13and14_InferenceForCategoricalData.qmd)) | MyOpenMath HW 6 |
 | 15 |  | Inference for Categorical Data Lab `13_InferenceCategoricalLab` |  |
