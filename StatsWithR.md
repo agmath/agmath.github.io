@@ -33,7 +33,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 10 |  | Exam I, Part I (Group) |  |
 | 11 |  | Exam I, Part II (Individual) |  |
 | 12 | `09_FoundationsForInference` | More on the Sampling Distribution `10_IntroInferenceLab`, <br/> or [Companion Slides](https://agmath.github.io/IntroductoryStatistics/IntroInference_Slides.html) | MyOpenMath HW 5 |
-| 13 | `11_HTandCIprop` | Hypothesis Tests and Confidence Intervals for Proportions |  |
+| 13 | `11_HTandCIprop` | Hypothesis Tests and Confidence Intervals for Proportions <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/CategoricalInference_Slides.html) |  |
 | 14 | `12_InferencePractice` | Inference for Categorical Data ([html](https://agmath.github.io/IntroductoryStatistics/Day13and14_InferenceForCategoricalData.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day13and14_InferenceForCategoricalData.qmd)) | MyOpenMath HW 6 |
 | 15 |  | Inference for Categorical Data Lab `13_InferenceCategoricalLab` |  |
 | 16 | `14_ChiSquare` | Inference for More than Two Proportions ([html](https://agmath.github.io/IntroductoryStatistics/Day16_YouthBehaviorAndRisk.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day16_YouthBehaviorAndRisk.qmd)) | MyOpenMath HW 7 | 
