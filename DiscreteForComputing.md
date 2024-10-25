@@ -7,7 +7,7 @@ description: This is a homepage for MAT239, Discrete Mathematics for Computing, 
 
 ## MAT 239 - Discrete Mathematics for Computing
 
-<img src="/SiteFiles/Discrete-Math.jpg" align="left" width=200>[**Syllabus (Fall 2021)**](https://drive.google.com/file/d/15zuzfaHY032LZUPD6kQiDpJEptug_lIk/view?usp=sharing)<br/>
+<img src="/SiteFiles/Discrete-Math.jpg" align="left" width=200>[**Syllabus (Spring 2023)**](https://drive.google.com/file/d/16xxeGInN9OsEV1b4uxJvtlsI4tW34g2c/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This course explores concepts in discrete mathematics with direct applications to computer programming. Topics from discrete math are relevant for flow control, memory allocation, searching and sorting, analysis of run-time, parallelization, queueing and online execution, and more. Topics may include logic, number representations, counting, functions, probability distributions, and arrays.<br/>
 <br/>
