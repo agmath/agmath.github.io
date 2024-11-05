@@ -26,7 +26,8 @@ Links to pages with information about each course will be added to the list belo
 + [MAT350 - Applied Linear Algebra](LinearAlgebra.md)
 + [MAT370 - Numerical Analysis](NumericalAnalysis.md)
 + MAT415 - Abstract Algebra
-+ [MAT434 - Statistical Learning and Classification](ClassificationCourse.md)
++ [MAT434 - Statistical Learning and Classification (with R)](ClassificationCourse.md)
++ [MAT434 - Statistical Learning and Classification (with Python)](ClassificationCourse_Python.md)
 
 **Directed Studies and Honors Theses:**
 + Generative Adversarial Networks (with C. Stambaugh, 2024)
