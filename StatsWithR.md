@@ -45,7 +45,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 22 | `18_ANOVA` | Inference for More than Two Means ([html](https://agmath.github.io/IntroductoryStatistics/Day22_PalmerPenguins.html) or [Quarto](https://agmath.github.io/IntroductoryStatistics/Day22_PalmerPenguins.qmd)) |  |
 | 23 |  | Exam II, Part I (Group) |  |
 | 24 |  | Exam II, Part II (Individual) |  |
-| 25 |  | Linear Regression Lab `19_LinearRegression` | MyOpenMath HW 10 |
+| 25 |  | Linear Regression Lab `19_LinearRegression` or <br/> [ANOVA and Linear Regression Slides](https://agmath.github.io/IntroductoryStatistics/ANOVAandLinearRegressionSlides.html) | MyOpenMath HW 10 |
 | 26 |  | Review |  |
 | 27 |  | Final Exam, Part I |  |
 | 28 |  | Final Exam, Part II (Optional) |  |
