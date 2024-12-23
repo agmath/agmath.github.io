@@ -7,7 +7,7 @@ description: This is a homepage for MAT240, Applied Statistics, with Dr. Gilbert
 
 ## MAT 240 - Applied Statistics
 
-<img src="/SiteFiles/StatsWithExcelCover.png" align="left" width=200>**Syllabus (Spring 2025)** (coming soon)<br/>
+<a href="https://ecampusontario.pressbooks.pub/introstats/"><img src="/SiteFiles/StatsWithExcelCover.png" align="left" width=200></a>**Syllabus (Spring 2025)** (coming soon)<br/>
 <br/>
 ***Course Description:*** This is a fundamental course in the application of statistics.  In this course, students learn how to apply statistical techniques to a variety of applications in business and the social sciences.  Students learn how to solve statistical problems by hand and through the use of computer software.  Topics include probability distribution functions, sampling distributions, estimation, hypothesis testing, and linear regression.
 <br/>
