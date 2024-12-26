@@ -17,10 +17,11 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
-### Teaching (Fall 2024)
+### Teaching (Spring 2025)
 
++ [MAT240 - Applied Statisitcs](StatsWithExcel.md)
 + [MAT241 - Modern Statistics with Software](StatsWithR.md)
-+ [MAT300 - Regression Analysis](RegressionCourse.md)
++ [MAT434 - Statistical Learning and Classification](ClassificationCourse.md)
 
 ### Course Information from Previous Semesters
 
