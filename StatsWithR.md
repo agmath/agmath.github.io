@@ -7,7 +7,7 @@ description: This is a homepage for MAT241, Modern Statistics with Software, wit
 
 ## MAT 241 - Modern Statistics with Software (R)
 
-<img src="/SiteFiles/OIstats.jpg" align="left" width=200>[**Syllabus (Fall 2024)**](https://drive.google.com/file/d/1-KBPl-0iuB8ewVE0qd9LuWnyhzmxuIUc/view?usp=sharing)<br/>
+<img src="/SiteFiles/OIstats.jpg" align="left" width=200>[**Syllabus (Spring 2025)**](https://drive.google.com/file/d/11PBn-bwYvuEowiHy-eWwZE0yq_yPfZiV/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This is a fundamental course in modern-day data, data visualization, and the application of statistical techniques to analyze and make inferences from sample data. In a world where data is being constantly collected, it is necessary for individuals to be data literate, to have exposure to the power of data, and to understand as well as practice proper and ethical analyses with data. In a world where data has become abundant, rather than scarce, statistical tools are evolving. This course looks at modern statistical techniques in the age of "Big-Data".<br/>
 <br/>
