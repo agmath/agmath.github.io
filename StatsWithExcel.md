@@ -21,8 +21,8 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 
 | Class Meeting | Topic | Textbook Sections | Notes | Assignments |
 |---------------|--------------|--------------|-----------|-------------|
-| 1 | Introduction and What to Expect<br/> Excel Basics |  |  |  |
-| 2 | Excel Fundamentals for Data Analysis |  |  |  |
+| 1 | Introduction and What to Expect<br/> Excel Basics |  | [Day 1 Overview](https://docs.google.com/presentation/d/11L82gdD-nUlJQS5BvyNZWgQ96SpS02RX/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
+| 2 | Excel Fundamentals for Data Analysis |  | [Day 2, Unlocking Excel](https://docs.google.com/presentation/d/11MZQqfG2AElsBaBRSJtW0QUGfayo0KWq/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 3 | Probability and Statistics Terminology<br/> Experimental Design<br/> Ethics in Statistics and Data Analysis | $\S$1.1 - 1.3, 1.5 |  | HW 1 |
 | 4 | Organizing and Summarizing Data<br/> Summary Statistics with Excel<br/> Data Visualization with Excel | $\S$1.4, 2.1 - 2.6 |  | HW 2 |
 | 5 | Discrete Random Variables<br/> Discrete Probability<br/> Binomial Experiments and the Binomial Distribution | $\S$3.1 - 3.3, 4.1 - 4.4 |  | HW 3 |
