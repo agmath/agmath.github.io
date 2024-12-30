@@ -25,7 +25,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 2 | Excel Fundamentals for Data Analysis |  | [Day 2, Unlocking Excel](https://docs.google.com/presentation/d/11MZQqfG2AElsBaBRSJtW0QUGfayo0KWq/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 3 | Probability and Statistics Terminology<br/> Experimental Design<br/> Ethics in Statistics and Data Analysis | $\S$1.1 - 1.3, 1.5 | [Day 3, Terminology and Background](https://docs.google.com/presentation/d/11xBXW49UZ_ewOWr_d-NOPSrXtQRfgFd-/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 1 |
 | 4 | Organizing and Summarizing Data<br/> Summary Statistics with Excel<br/> Data Visualization with Excel | $\S$1.4, 2.1 - 2.6 | [Day 4, Summary Statistics and Data Viz](https://docs.google.com/presentation/d/11zzXUc3NQZTQDa22q-5IxhX2Ju3Az_yn/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 2 |
-| 5 | Discrete Random Variables<br/> Discrete Probability<br/> Binomial Experiments and the Binomial Distribution | $\S$3.1 - 3.3, 4.1 - 4.4 |  | HW 3 |
+| 5 | Discrete Random Variables<br/> Discrete Probability<br/> Binomial Experiments and the Binomial Distribution | $\S$3.1 - 3.3, 4.1 - 4.4 | [Day 5, Discrete Probability](https://docs.google.com/presentation/d/127cX6V_UayfambCTneywDZ8PpVbjOPRu/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 3 |
 | 6 | Continuous Random Variables<br/> The Normal Distribution | $\S$5.1 - 5.5 |  | HW 4 |
 | 7 | Probability Workshop |  |  |  |
 | 8 | Group Exam I |  |  |  |
