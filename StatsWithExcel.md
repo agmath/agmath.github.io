@@ -30,7 +30,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 7 | Probability Workshop |  | [Probability Workshop Problems](https://docs.google.com/presentation/d/12XMxhGw8vCOh7utBnKxST3r3KLrxFYPV/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 8 | Group Exam I |  |  |  |
 | 9 | Individual Exam I |  |  |  |
-| 10 | The Central Limit Theorem and the Sampling Distribution | $\S$6.1 - 6.3 |  | HW 5 |
+| 10 | The Central Limit Theorem and the Sampling Distribution | $\S$6.1 - 6.3 | [Day 10, CLT and Sampling Distributions](https://docs.google.com/presentation/d/12YAyXsiLDNtJIfOm2HAs9MzrNSgbifot/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 5 |
 | 11 | Confidence Intervals | $\S$7.1, 7.2 |  |  |
 | 12 | Confidence Intervals for a Single Population Mean | $\S$7.3 |  |  |
 | 13 | Confidence Intervals for a Single Population Proportion | $\S$7.4 |  | HW 6 |
