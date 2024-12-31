@@ -29,25 +29,26 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 6 | Continuous Random Variables<br/> The Normal Distribution | $\S$5.1 - 5.5 | [Day 6, Normal Distribution](https://docs.google.com/presentation/d/12G0UQoEwpFm-VB_3CI_YfjiU2_aEYJAB/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 4 |
 | 7 | The Central Limit Theorem and the Sampling Distribution | $\S$6.1 - 6.3 | [Day 7, CLT and Sampling Distributions](https://docs.google.com/presentation/d/12YAyXsiLDNtJIfOm2HAs9MzrNSgbifot/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 5 |
 | 8 | Probability Workshop |  | [Probability Workshop Problems](https://docs.google.com/presentation/d/12XMxhGw8vCOh7utBnKxST3r3KLrxFYPV/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 9 | Group Exam I |  |  |  |
-| 10 | Individual Exam I |  |  |  |
-| 11 | Confidence Intervals | $\S$7.1, 7.2 |  |  |
-| 12 | Confidence Intervals for a Single Population Mean | $\S$7.3 |  |  |
-| 13 | Confidence Intervals for a Single Population Proportion | $\S$7.4 |  | HW 6 |
-| 14 | The Hypothesis Testing Framework<br/> Errors in Hypothesis Testing | $\S$8.1 - 8.3 |  |  |
-| 15 | Hypothesis Tests for Claims About a Single Population Mean | $\S$8.6, 8.7 |  |  |
-| 16 | Hypothesis Tests for Claims About a Single Population Proportion | $\S$8.8 |  | HW 7 |
-| 17 | Inference for Comparisons of Two Populations Means | $\S$9.1 - 9.4 |  |  |
-| 18 | Inference for Comparisons of Two Population Proportions | $\S$9.5 |  | HW 8 |
-| 19 | Inference Workshop |  |  |  |
+| 9 | Project Workin day |  |  |
+| 10 | Group Exam I |  |  |  |
+| 11 | Individual Exam I |  |  |  |
+| 12 | Confidence Intervals | $\S$7.1, 7.2 |  |  |
+| 13 | Confidence Intervals for a Single Population Mean | $\S$7.3 |  |  |
+| 14 | Confidence Intervals for a Single Population Proportion | $\S$7.4 |  | HW 6 |
+| 15 | The Hypothesis Testing Framework<br/> Errors in Hypothesis Testing | $\S$8.1 - 8.3 |  |  |
+| 16 | Hypothesis Tests for Claims About a Single Population Mean | $\S$8.6, 8.7 |  |  |
+| 17 | Hypothesis Tests for Claims About a Single Population Proportion | $\S$8.8 |  | HW 7 |
+| 18 | Inference for Comparisons of Two Populations Means | $\S$9.1 - 9.4 |  |  |
+| 19 | Inference for Comparisons of Two Population Proportions | $\S$9.5 |  | HW 8 |
 | 20 | Inference Workshop |  |  |  |
-| 21 | Group Exam II |  |  |  |
-| 22 | Individual Exam II |  |  |  |
-| 23 | Inference for Categorical Variables with More than Two Levels (Chi-Squared Tests) | $\S$10.1, 10.2, 10.4, 10.5 |  | HW 9 |
-| 24 | Inference for Comparing Means Across Multiple Populations (ANOVA) | $\S$11.1, 11.2, 11.4 |  | HW 10 |
-| 25 | Linear Regression | $\S$12.1 - 12.7 |  | HW 11 |
-| 26 | Review |  |  |  |
-| 27 | Final Exam, Part A |  |  |  |
-| 28 | Final Exam, Part B (Optional) |  |  |  |
+| 21 | Inference Workshop |  |  |  |
+| 22 | Group Exam II |  |  |  |
+| 23 | Individual Exam II |  |  |  |
+| 24 | Inference for Categorical Variables with More than Two Levels (Chi-Squared Tests) | $\S$10.1, 10.2, 10.4, 10.5 |  | HW 9 |
+| 25 | Inference for Comparing Means Across Multiple Populations (ANOVA) | $\S$11.1, 11.2, 11.4 |  | HW 10 |
+| 26 | Linear Regression | $\S$12.1 - 12.7 |  | HW 11 |
+| 27 | Review |  |  |  |
+| 28 | Final Exam, Part A |  |  |  |
+| 29 | Final Exam, Part B (Optional) |  |  |  |
 
 [Back to Homepage](https://agmath.github.io/)
