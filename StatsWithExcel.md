@@ -29,7 +29,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 6 | Continuous Random Variables<br/> The Normal Distribution | $\S$5.1 - 5.5 | [Day 6, Normal Distribution](https://docs.google.com/presentation/d/12G0UQoEwpFm-VB_3CI_YfjiU2_aEYJAB/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 4 |
 | 7 | The Central Limit Theorem and the Sampling Distribution | $\S$6.1 - 6.3 | [Day 7, CLT and Sampling Distributions](https://docs.google.com/presentation/d/12YAyXsiLDNtJIfOm2HAs9MzrNSgbifot/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 5 |
 | 8 | Probability Workshop |  | [Probability Workshop Problems](https://docs.google.com/presentation/d/12XMxhGw8vCOh7utBnKxST3r3KLrxFYPV/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 9 | Project Workin day |  |  |
+| 9 | Project Working day |  |  |
 | 10 | Group Exam I |  |  |  |
 | 11 | Individual Exam I |  |  |  |
 | 12 | Confidence Intervals | $\S$7.1, 7.2 |  |  |
