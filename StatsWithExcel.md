@@ -32,7 +32,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 9 | Project Working day |  |  |
 | 10 | Group Exam I |  |  |  |
 | 11 | Individual Exam I |  |  |  |
-| 12 | Confidence Intervals | $\S$7.1, 7.2 | [Day 11, Introduction to Confidence Intervals](https://docs.google.com/presentation/d/12_h4EeFmj68j7CGW09OeHEOKpevNSeKZ/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
+| 12 | Confidence Intervals | $\S$7.1, 7.2 | [Day 12, Introduction to Confidence Intervals](https://docs.google.com/presentation/d/12_h4EeFmj68j7CGW09OeHEOKpevNSeKZ/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 13 | Confidence Intervals for a Single Population Mean | $\S$7.3 |  |  |
 | 14 | Confidence Intervals for a Single Population Proportion | $\S$7.4 |  | HW 6 |
 | 15 | The Hypothesis Testing Framework<br/> Errors in Hypothesis Testing | $\S$8.1 - 8.3 |  |  |
