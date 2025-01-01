@@ -21,7 +21,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 
 | Class Meeting | Topic | Textbook Sections | Notes | Assignments |
 |---------------|--------------|--------------|-----------|-------------|
-| 1 | Introduction and What to Expect<br/> Excel Basics |  | [Day 1 Overview](https://docs.google.com/presentation/d/11L82gdD-nUlJQS5BvyNZWgQ96SpS02RX/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
+| 1 | Introduction and What to Expect<br/> Excel Basics |  | [Day 1, Overview](https://docs.google.com/presentation/d/11L82gdD-nUlJQS5BvyNZWgQ96SpS02RX/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 2 | Probability and Statistics Terminology<br/> Experimental Design<br/> Ethics in Statistics and Data Analysis | $\S$1.1 - 1.3, 1.5 | [Day 2, Terminology and Background](https://docs.google.com/presentation/d/11xBXW49UZ_ewOWr_d-NOPSrXtQRfgFd-/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 1 |
 | 3 | Excel Fundamentals for Data Analysis |  | [Day 3, Unlocking Excel](https://docs.google.com/presentation/d/11MZQqfG2AElsBaBRSJtW0QUGfayo0KWq/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 4 | Organizing and Summarizing Data<br/> Summary Statistics with Excel<br/> Data Visualization with Excel | $\S$1.4, 2.1 - 2.6 | [Day 4, Summary Statistics and Data Viz](https://docs.google.com/presentation/d/11zzXUc3NQZTQDa22q-5IxhX2Ju3Az_yn/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 2 |
@@ -32,7 +32,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 9 | Project Working day |  |  |
 | 10 | Group Exam I |  |  |  |
 | 11 | Individual Exam I |  |  |  |
-| 12 | Confidence Intervals | $\S$7.1, 7.2 |  |  |
+| 12 | Confidence Intervals | $\S$7.1, 7.2 | [Day 11, Introduction to Confidence Intervals](https://docs.google.com/presentation/d/12_h4EeFmj68j7CGW09OeHEOKpevNSeKZ/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 13 | Confidence Intervals for a Single Population Mean | $\S$7.3 |  |  |
 | 14 | Confidence Intervals for a Single Population Proportion | $\S$7.4 |  | HW 6 |
 | 15 | The Hypothesis Testing Framework<br/> Errors in Hypothesis Testing | $\S$8.1 - 8.3 |  |  |
