@@ -31,18 +31,15 @@ Below is a tentative timeline for our course. The table includes preparatory wor
 | 12 |  | Intro to Decision Trees ([html](https://agmath.github.io/ClassificationCourse/Day12b_DecisionTreeClassifiers_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day12b_DecisionTreeClassifiers_Intro.rmd)) | Multiclass Classifiers, Part II: Decision Tree Classifiers |  |
 | 13 |  | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.rmd)) | Ensembles, Part I: Bagging and Random Forests |  |
 | 14 |  | Intro to Boosting ([html](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.rmd)) | Ensembles, Part II: Boosting | [**CA 4**](https://agmath.github.io/ClassificationCourse/CA4.html) |
-| 15 |  | Work on GitHub Page | Visit from Career Center |  |
+| 15 |  | Work on GitHub Page |  |  |
 | 16 | [Tweet Emotion](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/tweet_emotions.csv) | Intro to Text and Tokenization ([html](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.rmd)) | Text Features, Part I: Tokenization |  |
 | 17 |  | Intro to Regular Expressions ([html](https://agmath.github.io/ClassificationCourse/Day17b_RegularExpressions_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day17b_RegularExpressions_Intro.rmd)) | Text Features, Part II: Regex |  |
-| 18 |  | Intro to Word Embeddings ([html](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.rmd)) | Text Features, Part III: Embeddings | [**CA 5**](https://agmath.github.io/ClassificationCourse/CA5.html) |
-| 19 | Monster Classification |  | *Halloween Classification Challenge* <br/> (InClass Kaggle Competition) |  |
+| 18 | St. Patrick's Day Competition |  | *St. Patrick's Day Classification Challenge* <br/> (InClass Kaggle Competition) |  |
+| 19 |  | Intro to Word Embeddings ([html](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.rmd)) | Text Features, Part III: Embeddings | [**CA 5**](https://agmath.github.io/ClassificationCourse/CA5.html) |
 | 20 | Fashion MNIST | [Install TensorFlow](https://agmath.github.io/ClassificationCourse/Day20b_InstallingTensorFlow.html) | [Deep Learning, Part I: Architecture](https://agmath.github.io/ClassificationCourse/Day20d_DeepLearningArchitectures.html) |  |
 | 21 |  |  | [Deep Learning, Part II: Activation Functions](https://agmath.github.io/ClassificationCourse/Day21d_DeepLearningActivationFunctions.html) |  |
 | 22 |  |  | [Deep Learning, Part III: Training and Assessment](https://agmath.github.io/ClassificationCourse/Day22d_DeepLearningImplementation.html) | [**CA 6**](https://agmath.github.io/ClassificationCourse/CA6.html) |
-| 23 |  |  | Final Project Topic Discussion |  |
-| 24 |  |  | Final Project Group Selection |  |
-| 25 | Turkey Pardoning |  | *Thanksgiving Classification Challenge* <br/> (InClass Kaggle Competition) |  |
-| 26+ |  |  | Final Projects |  |
+| 23+ |  |  | Final Projects |  |
 
 <br/>
 <br/>
