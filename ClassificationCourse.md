@@ -32,7 +32,7 @@ Below is a tentative timeline for our course. The table includes preparatory wor
 | 13 |  | Intro to Ensembles, Bagging, and Random Forests ([html](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day13b_EnsemblesBaggingAndRandomForests_Intro.rmd)) | Ensembles, Part I: Bagging and Random Forests |  |
 | 14 |  | Intro to Boosting ([html](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day14b_Boosting_Intro.rmd)) | Ensembles, Part II: Boosting | [**CA 4**](https://agmath.github.io/ClassificationCourse/CA4.html) |
 | 15 |  | Work on GitHub Page |  |  |
-| 16 | [Tweet Emotion](https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/tweet_emotions.csv) | Intro to Text and Tokenization ([html](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.rmd)) | Text Features, Part I: Tokenization |  |
+| 16 | [Cyberbullying](https://raw.githubusercontent.com/agmath/agmath.github.io/refs/heads/master/data/classification/cyberbullying_tweets.csv),  | Intro to Text and Tokenization ([html](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day16b_TextAndTokenization_Intro.rmd)) | Text Features, Part I: Tokenization |  |
 | 17 |  | Intro to Regular Expressions ([html](https://agmath.github.io/ClassificationCourse/Day17b_RegularExpressions_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day17b_RegularExpressions_Intro.rmd)) | Text Features, Part II: Regex |  |
 | 18 | St. Patrick's Day Competition |  | *St. Patrick's Day Classification Challenge* <br/> (InClass Kaggle Competition) |  |
 | 19 |  | Intro to Word Embeddings ([html](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.html) or [rmd](https://agmath.github.io/ClassificationCourse/Day18b_Embeddings_Intro.rmd)) | Text Features, Part III: Embeddings | [**CA 5**](https://agmath.github.io/ClassificationCourse/CA5.html) |
@@ -43,6 +43,17 @@ Below is a tentative timeline for our course. The table includes preparatory wor
 
 <br/>
 <br/>
+
+***
+
+#### References
+
+[1] [Tibshirani et. al., *Introduction to Statistical Learning* (2021)](https://www.statlearning.com/)
+[2] [MLB Hits and Homeruns data set taken from Sliced Data Science Competition (Season 1, Episode 9)](https://www.kaggle.com/competitions/sliced-s01e09-playoffs-1/data)
+[3] [Airstrikes and Engine Damage data set posted to Kaggle by the FAA and Abigail Larion in 2016](https://www.kaggle.com/datasets/faa/wildlife-strikes)
+[4] [Spaceship Titanic data set taken from Kaggle *Getting Started* Competition](https://www.kaggle.com/competitions/spaceship-titanic/data)
+[5] [Gene Expression and Cancerous Tumors data set retrieved from Synapse.org and is maintained by the Cancer Genome Project](https://www.synapse.org/#!Synapse:syn4301332)
+[6] [Cyberbullying data set posted to Kaggle by user `LARXEL` in 2021](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)
 
 ***
 
