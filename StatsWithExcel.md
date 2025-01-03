@@ -34,7 +34,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 11 | Individual Exam I |  |  |  |
 | 12 | Confidence Intervals | $\S$7.1, 7.2 | [Day 12, Introduction to Confidence Intervals](https://docs.google.com/presentation/d/12_h4EeFmj68j7CGW09OeHEOKpevNSeKZ/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 13 | Confidence Intervals for a Single Population Mean | $\S$7.3 | [Day 13, Confidence Intervals for a Single Population Mean](https://docs.google.com/presentation/d/13ln6ET7GTYYtHeMEV-aIk4bb4a2O2-y-/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 14 | Confidence Intervals for a Single Population Proportion | $\S$7.4 |  | HW 6 |
+| 14 | Confidence Intervals for a Single Population Proportion | $\S$7.4 | [Day 14, Confidence Intervals for a Single Population Proportion](https://docs.google.com/presentation/d/13wjJXMizLOUQ49iNwRJHNc1RSv1uEfGd/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 6 |
 | 15 | The Hypothesis Testing Framework<br/> Errors in Hypothesis Testing | $\S$8.1 - 8.3 |  |  |
 | 16 | Hypothesis Tests for Claims About a Single Population Mean | $\S$8.6, 8.7 |  |  |
 | 17 | Hypothesis Tests for Claims About a Single Population Proportion | $\S$8.8 |  | HW 7 |
