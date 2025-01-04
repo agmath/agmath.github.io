@@ -38,7 +38,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 15 | The Hypothesis Testing Framework<br/> Errors in Hypothesis Testing | $\S$8.1 - 8.3 | [Day 15, Hypothesis Testing Framework and Statistical Errors](https://docs.google.com/presentation/d/143pE-LpoL9MdKMON2R1hP6XDt8IBiSh7/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 16 | Hypothesis Tests for Claims About a Single Population Mean | $\S$8.6, 8.7 | [Day 16, Hypothesis Testing for a Single Population Mean](https://docs.google.com/presentation/d/13x2et0pM3XHYvp2HH-dg0xModP1dR2zU/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 17 | Hypothesis Tests for Claims About a Single Population Proportion | $\S$8.8 | [Day 17, Hypothesis Testing for a Single Population Proportion](https://docs.google.com/presentation/d/14A0QK7CxTYldmv3DXf7Of1pggJ9sXfRK/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 7 |
-| 18 | Inference for Comparisons of Two Populations Means | $\S$9.1 - 9.4 |  |  |
+| 18 | Inference for Comparisons of Two Population Means | $\S$9.1 - 9.4 | [Day 18, Inference for Comparisons of Two Population Means](https://docs.google.com/presentation/d/14FeJFB80ZzXUJW7RVTTPnSoPbvSuRglS/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 19 | Inference for Comparisons of Two Population Proportions | $\S$9.5 |  | HW 8 |
 | 20 | Inference Workshop |  |  |  |
 | 21 | Inference Workshop |  |  |  |
