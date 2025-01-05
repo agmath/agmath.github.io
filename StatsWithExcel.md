@@ -9,7 +9,7 @@ description: This is a homepage for MAT240, Applied Statistics, with Dr. Gilbert
 
 <script> MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }, svg: { fontCache: 'global' } }; </script> <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"> </script>
 
-<a href="https://ecampusontario.pressbooks.pub/introstats/"><img src="/SiteFiles/StatsWithExcelCover.png" align="left" width=200></a>[**[Draft] Syllabus (Spring 2025)**](https://drive.google.com/file/d/11iC83hA0J3ahy8azDdn7l0UKvjNDwiTP/view?usp=sharing)<br/>
+<a href="https://ecampusontario.pressbooks.pub/introstats/"><img src="/SiteFiles/StatsWithExcelCover.png" align="left" width=200></a>[**Syllabus (Spring 2025)**](https://drive.google.com/file/d/11iC83hA0J3ahy8azDdn7l0UKvjNDwiTP/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This is a fundamental course in the application of statistics.  In this course, students learn how to apply statistical techniques to a variety of applications in business and the social sciences.  Students learn how to solve statistical problems by hand and through the use of computer software.  Topics include probability distribution functions, sampling distributions, estimation, hypothesis testing, and linear regression.
 <br/>
@@ -38,9 +38,9 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 15 | The Hypothesis Testing Framework<br/> Errors in Hypothesis Testing | $\S$8.1 - 8.3 | [Day 15, Hypothesis Testing Framework and Statistical Errors](https://docs.google.com/presentation/d/143pE-LpoL9MdKMON2R1hP6XDt8IBiSh7/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 16 | Hypothesis Tests for Claims About a Single Population Mean | $\S$8.6, 8.7 | [Day 16, Hypothesis Testing for a Single Population Mean](https://docs.google.com/presentation/d/13x2et0pM3XHYvp2HH-dg0xModP1dR2zU/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 17 | Hypothesis Tests for Claims About a Single Population Proportion | $\S$8.8 | [Day 17, Hypothesis Testing for a Single Population Proportion](https://docs.google.com/presentation/d/14A0QK7CxTYldmv3DXf7Of1pggJ9sXfRK/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 7 |
-| 18 | Inference for Comparisons of Two Population Means | $\S$9.1 - 9.4 | [Day 18, Inference for Comparisons of Two Population Means](https://docs.google.com/presentation/d/14FeJFB80ZzXUJW7RVTTPnSoPbvSuRglS/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 19 | Inference for Comparisons of Two Population Proportions | $\S$9.5 |  | HW 8 |
-| 20 | Inference Workshop |  |  |  |
+| 18 | Inference in Excel and Inference Workshop |  |  |  |
+| 19 | Inference for Comparisons of Two Population Means | $\S$9.1 - 9.4 | [Day 19, Inference for Comparisons of Two Population Means](https://docs.google.com/presentation/d/14FeJFB80ZzXUJW7RVTTPnSoPbvSuRglS/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
+| 20 | Inference for Comparisons of Two Population Proportions | $\S$9.5 | [Day 20, Inference for Comparisons of Two Population Proportions](https://docs.google.com/presentation/d/14JUUbwsMsF8V2JplJDfzX-gBgIUD2dm4/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 8 |
 | 21 | Inference Workshop |  |  |  |
 | 22 | Group Exam II |  |  |  |
 | 23 | Individual Exam II |  |  |  |
