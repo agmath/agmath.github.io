@@ -48,11 +48,11 @@ Below is a tentative timeline for our course. The table includes preparatory wor
 
 #### References
 
-[1] [Tibshirani et. al., *Introduction to Statistical Learning* (2021)](https://www.statlearning.com/)
-[2] [MLB Hits and Homeruns data set taken from Sliced Data Science Competition (Season 1, Episode 9)](https://www.kaggle.com/competitions/sliced-s01e09-playoffs-1/data)
-[3] [Airstrikes and Engine Damage data set posted to Kaggle by the FAA and Abigail Larion in 2016](https://www.kaggle.com/datasets/faa/wildlife-strikes)
-[4] [Spaceship Titanic data set taken from Kaggle *Getting Started* Competition](https://www.kaggle.com/competitions/spaceship-titanic/data)
-[5] [Gene Expression and Cancerous Tumors data set retrieved from Synapse.org and is maintained by the Cancer Genome Project](https://www.synapse.org/#!Synapse:syn4301332)
+[1] [Tibshirani et. al., *Introduction to Statistical Learning* (2021)](https://www.statlearning.com/)  
+[2] [MLB Hits and Homeruns data set taken from Sliced Data Science Competition (Season 1, Episode 9)](https://www.kaggle.com/competitions/sliced-s01e09-playoffs-1/data)  
+[3] [Airstrikes and Engine Damage data set posted to Kaggle by the FAA and Abigail Larion in 2016](https://www.kaggle.com/datasets/faa/wildlife-strikes)  
+[4] [Spaceship Titanic data set taken from Kaggle *Getting Started* Competition](https://www.kaggle.com/competitions/spaceship-titanic/data)  
+[5] [Gene Expression and Cancerous Tumors data set retrieved from Synapse.org and is maintained by the Cancer Genome Project](https://www.synapse.org/#!Synapse:syn4301332)  
 [6] [Cyberbullying data set posted to Kaggle by user `LARXEL` in 2021](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)
 
 ***
