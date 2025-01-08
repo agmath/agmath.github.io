@@ -45,7 +45,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 22 | Group Exam II |  |  |  |
 | 23 | Individual Exam II |  |  |  |
 | 24 | Inference for Categorical Variables with More than Two Levels (Chi-Squared Tests) | $\S$10.1, 10.2, 10.4, 10.5 | [Day 24, Inference on MultiClass Categorical Variables (Chi-Squared Tests)](https://docs.google.com/presentation/d/14a2CsiYGWVmCBlZtkdhYsojUGxV8FwA-/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 9 |
-| 25 | Inference for Comparing Means Across Multiple Populations (ANOVA) | $\S$11.1, 11.2, 11.4 |  | HW 10 |
+| 25 | Inference for Comparing Means Across Multiple Populations (ANOVA) | $\S$11.1, 11.2, 11.4 | [Day 25, Comparisons of Many Means with ANOVA](https://docs.google.com/presentation/d/14beehQu8gUjynCGDAHr2Cj_HIeE1WIo5/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 10 |
 | 26 | Linear Regression | $\S$12.1 - 12.7 |  | HW 11 |
 | 27 | Review |  |  |  |
 | 28 | Final Exam, Part A |  |  |  |
