@@ -15,7 +15,8 @@ data_matrix = sp.Matrix(data.values.tolist())
 n_rows = data_matrix.rows
 
 # Compute column means and center data
-mean_matrix = sp.Matrix([[sum(data_matrix.col(i)) / n_rows for i in range(data_matrix.cols)]])
+data_mean = sp.Matrix([[sum(data_matrix.col(i)) / n_rows for i in range(data_matrix.cols)]])
+mean_matrix = sp.Matrix([data_mean.tolist()[0]]*data_matrix.rows)
 centered_data = data_matrix - mean_matrix
 
 # Transpose to match A = matrix(...).T in Sage
