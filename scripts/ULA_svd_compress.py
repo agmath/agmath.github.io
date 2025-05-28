@@ -82,3 +82,5 @@ image = load_grayscale_image('https://raw.githubusercontent.com/davidaustinm/ula
 noise = load_csv_matrix('https://raw.githubusercontent.com/davidaustinm/ula_modules/master/data/noise.csv')
 letter = load_csv_matrix('https://raw.githubusercontent.com/davidaustinm/ula_modules/master/data/letter.csv', sep=' ')
 noiseimage = load_grayscale_image('https://raw.githubusercontent.com/davidaustinm/ula_modules/master/data/new-utah-noise.png')
+
+A = np.array(letter)
