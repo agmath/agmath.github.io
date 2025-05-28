@@ -14,7 +14,7 @@ data = data.drop(columns=['Unnamed: 0'])
 data_matrix = sp.Matrix(data.values.tolist())
 n_rows = data_matrix.rows
 
-# Compute mean of each column
+# Compute column means and center data
 data_mean = sp.Matrix([sum(data_matrix.col(i)) / n_rows for i in range(data_matrix.cols)])
 centered_data = data_matrix.rowwise_subtract(data_mean.T)
 
@@ -37,8 +37,9 @@ evals_and_evecs = sorted(
 )
 V = sp.Matrix.hstack(*[vec for val, vec in evals_and_evecs[:2]])  # 4 x 2
 
-# Project data
-M_projected = (V.T @ A).T.tolist()  # Shape: N x 2
+# Project data into 2D and convert entries to floats
+M_projected = (V.T @ A).T.tolist()
+M_projected = [[float(entry) for entry in row] for row in M_projected]
 
 # Put projections in a DataFrame
 proj = pd.DataFrame(M_projected, columns=[0, 1])
@@ -48,7 +49,7 @@ proj['Sex'] = df['Sex']
 # Plot original culmen data
 def culmen_plot():
     fig = plt.figure()
-    ax = fig.add_subplot(1,1,1)
+    ax = fig.add_subplot(1, 1, 1)
     ax.set_aspect(1)
     sns.scatterplot(
         x='Culmen Length (mm)',
@@ -79,6 +80,4 @@ def pca_plot(sex='all'):
 
 # Usage
 culmen_plot()
-pca_plot()      # For all
-# pca_plot('male')
-# pca_plot('female')
+pca_plot()      # Try: pca_plot('male') or pca_plot('female')
