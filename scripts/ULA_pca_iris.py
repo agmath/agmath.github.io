@@ -57,7 +57,10 @@ V = sp.Matrix.hstack(*top2_vectors)
 
 
 # Project data into 2D
-M_projected = (V.T @ A).T.tolist()  # shape: 150 x 2
+M_projected = (V.T @ A).T.tolist()
+
+# Convert all values to floats (Python native types)
+M_projected = [[float(entry) for entry in row] for row in M_projected]
 
 # Convert to DataFrame for plotting
 proj = pd.DataFrame(M_projected, columns=[0, 1])
