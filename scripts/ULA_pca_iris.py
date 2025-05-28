@@ -69,7 +69,7 @@ proj['species'] = df['species']
 def pca_plot():
     fig = plt.figure()
     ax = fig.add_subplot(1,1,1)
-    ax.set_aspect(1)
+    #ax.set_aspect(1)
     sns.scatterplot(x=0, y=1, hue='species', style='species', data=proj, ax=ax)
     plt.legend(bbox_to_anchor=(0, 1.05), loc=3, borderaxespad=0.)
     plt.show()
