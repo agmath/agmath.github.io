@@ -48,12 +48,13 @@ eigenvals, eigenvecs = cov.diagonalize()
 
 # Sort eigenvectors by decreasing eigenvalue magnitude
 evals_and_evecs = sorted(
-    zip(eigenvals.diagonal(), eigenvecs.columns()),
+    zip(eigenvals.diagonal(), eigenvecs.T.tolist()),
     key=lambda x: abs(x[0]),
     reverse=True
 )
-top2_vectors = [vec for val, vec in evals_and_evecs[:2]]
+top2_vectors = [sp.Matrix(vec) for val, vec in evals_and_evecs[:2]]
 V = sp.Matrix.hstack(*top2_vectors)
+
 
 # Project data into 2D
 M_projected = (V.T @ A).T.tolist()  # shape: 150 x 2
