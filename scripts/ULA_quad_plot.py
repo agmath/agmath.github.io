@@ -12,7 +12,7 @@ v = sp.Matrix([r * sp.cos(theta), r * sp.sin(theta)])
 # Define symmetric matrix A symbolically
 A = sp.Matrix([[2, 1], [1, 3]])
 
-def quad_plot():
+def quad_plot(A):
     # Define the quadratic form q(r, theta) = v^T * A * v
     q_expr = (v.T * A * v)[0]
 
