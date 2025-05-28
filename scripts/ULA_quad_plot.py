@@ -2,13 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-# Define your matrix A (as a NumPy array)
-A = np.array([[3, 1],
-              [1, 2]])
-
 def q(r, theta):
     v = np.array([r * np.cos(theta), r * np.sin(theta)])
-    return v @ A @ v  # quadratic form: v^T * A * v
+    return v.T @ A @ v  # quadratic form: v^T * A * v
 
 def quad_plot(A):
     fig = plt.figure(figsize=(10, 8))
@@ -24,7 +20,8 @@ def quad_plot(A):
     Y = R * np.sin(Theta)
 
     # Compute Z = q(r, theta)
-    Z = np.vectorize(q)(R, Theta)
+    q_vec = np.vectorize(q)
+    Z = q_vec(R, Theta)
 
     # Plot surface
     ax.plot_surface(X, Y, Z, color='orange', alpha=0.9, rstride=1, cstride=1, edgecolor='none')
@@ -43,5 +40,3 @@ def quad_plot(A):
     ax.set_zlabel("q(x) = xᵀAx")
     plt.tight_layout()
     plt.show()
-
-quad_plot(A)
