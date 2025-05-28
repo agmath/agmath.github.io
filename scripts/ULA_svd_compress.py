@@ -82,14 +82,3 @@ image = load_grayscale_image('https://raw.githubusercontent.com/davidaustinm/ula
 noise = load_csv_matrix('https://raw.githubusercontent.com/davidaustinm/ula_modules/master/data/noise.csv')
 letter = load_csv_matrix('https://raw.githubusercontent.com/davidaustinm/ula_modules/master/data/letter.csv', sep=' ')
 noiseimage = load_grayscale_image('https://raw.githubusercontent.com/davidaustinm/ula_modules/master/data/new-utah-noise.png')
-
-# --- Example usage ---
-# Approximate and display an image
-approx_image = approximate(image, k=50)
-display_image(approx_image).show()
-
-# Display matrix structure
-display_matrix(letter)
-
-# Plot singular values of a matrix
-plot_sv(letter)
