@@ -1,12 +1,24 @@
+import sympy as sp
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-def q(r, theta):
-    v = np.array([r * np.cos(theta), r * np.sin(theta)])
-    return v @ A @ v  # quadratic form: v^T * A * v
+# Define symbolic variables
+r, theta = sp.symbols('r theta')
 
-def quad_plot(A):
+# Define symbolic vector in polar coordinates
+v = sp.Matrix([r * sp.cos(theta), r * sp.sin(theta)])
+
+# Define symmetric matrix A symbolically
+A = sp.Matrix([[2, 1], [1, 3]])
+
+# Define the quadratic form q(r, theta) = v^T * A * v
+q_expr = (v.T * A * v)[0]
+
+# Convert to a numerical function using lambdify
+q_func = sp.lambdify((r, theta), q_expr, modules='numpy')
+
+def quad_plot():
     fig = plt.figure(figsize=(10, 8))
     ax = fig.add_subplot(111, projection='3d')
 
@@ -19,9 +31,8 @@ def quad_plot(A):
     X = R * np.cos(Theta)
     Y = R * np.sin(Theta)
 
-    # Compute Z = q(r, theta)
-    q_vec = np.vectorize(q)
-    Z = q_vec(R, Theta)
+    # Evaluate Z using the lambdified function
+    Z = q_func(R, Theta)
 
     # Plot surface
     ax.plot_surface(X, Y, Z, color='orange', alpha=0.9, rstride=1, cstride=1, edgecolor='none')
@@ -30,7 +41,7 @@ def quad_plot(A):
     t_vals = np.linspace(0, 2 * np.pi, 300)
     x_curve = np.cos(t_vals)
     y_curve = np.sin(t_vals)
-    z_curve = np.array([q(1, t) for t in t_vals])
+    z_curve = q_func(1, t_vals)
     ax.plot(x_curve, y_curve, z_curve, color='black', linewidth=2)
 
     # Formatting
