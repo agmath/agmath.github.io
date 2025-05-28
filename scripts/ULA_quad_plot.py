@@ -4,7 +4,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 def q(r, theta):
     v = np.array([r * np.cos(theta), r * np.sin(theta)])
-    return v.T @ A @ v  # quadratic form: v^T * A * v
+    return v @ A @ v  # quadratic form: v^T * A * v
 
 def quad_plot(A):
     fig = plt.figure(figsize=(10, 8))
