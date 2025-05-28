@@ -12,13 +12,13 @@ v = sp.Matrix([r * sp.cos(theta), r * sp.sin(theta)])
 # Define symmetric matrix A symbolically
 A = sp.Matrix([[2, 1], [1, 3]])
 
-# Define the quadratic form q(r, theta) = v^T * A * v
-q_expr = (v.T * A * v)[0]
-
-# Convert to a numerical function using lambdify
-q_func = sp.lambdify((r, theta), q_expr, modules='numpy')
-
 def quad_plot():
+    # Define the quadratic form q(r, theta) = v^T * A * v
+    q_expr = (v.T * A * v)[0]
+
+    # Convert to a numerical function using lambdify
+    q_func = sp.lambdify((r, theta), q_expr, modules='numpy')
+    
     fig = plt.figure(figsize=(10, 8))
     ax = fig.add_subplot(111, projection='3d')
 
