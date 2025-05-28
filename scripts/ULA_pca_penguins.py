@@ -52,7 +52,7 @@ proj['Sex'] = df['Sex']
 def culmen_plot():
     fig = plt.figure()
     ax = fig.add_subplot(1, 1, 1)
-    ax.set_aspect(1)
+    #ax.set_aspect(1)
     sns.scatterplot(
         x='Culmen Length (mm)',
         y='Culmen Depth (mm)',
@@ -67,7 +67,7 @@ def culmen_plot():
 def pca_plot(sex='all'):
     fig = plt.figure()
     ax = fig.add_subplot(1, 1, 1)
-    ax.set_aspect(1)
+    #ax.set_aspect(1)
     subset = proj
     if sex == 'male':
         subset = proj[proj['Sex'] == 'Male']
