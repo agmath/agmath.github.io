@@ -15,8 +15,8 @@ data_matrix = sp.Matrix(data.values.tolist())
 n_rows = data_matrix.rows
 
 # Compute column means and center data
-data_mean = sp.Matrix([sum(data_matrix.col(i)) / n_rows for i in range(data_matrix.cols)])
-centered_data = data_matrix.rowwise_subtract(data_mean.T)
+mean_matrix = sp.Matrix([[sum(data_matrix.col(i)) / n_rows for i in range(data_matrix.cols)]])
+centered_data = data_matrix - mean_matrix
 
 # Transpose to match A = matrix(...).T in Sage
 A = centered_data.T  # Shape: 4 x N
@@ -31,11 +31,12 @@ eigenvals, eigenvecs = cov.diagonalize()
 
 # Select top two principal components
 evals_and_evecs = sorted(
-    zip(eigenvals.diagonal(), eigenvecs.columns()),
+    zip(eigenvals.diagonal(), eigenvecs.T.tolist()),
     key=lambda x: abs(x[0]),
     reverse=True
 )
-V = sp.Matrix.hstack(*[vec for val, vec in evals_and_evecs[:2]])  # 4 x 2
+top2_vectors = [sp.Matrix(vec) for val, vec in evals_and_evecs[:2]]
+V = sp.Matrix.hstack(*top2_vectors])  # 4 x 2
 
 # Project data into 2D and convert entries to floats
 M_projected = (V.T @ A).T.tolist()
