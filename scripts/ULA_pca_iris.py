@@ -11,10 +11,14 @@ data = df[df.columns[:4]]
 
 # Convert to sympy Matrix and center
 data_matrix = sp.Matrix(data.values.tolist())
-data_mean = sp.Matrix([sum(data_matrix.col(i)) / data_matrix.rows for i in range(data_matrix.cols)])
+data_mean = sp.Matrix([[sum(data_matrix.col(i)) / data_matrix.rows for i in range(data_matrix.cols)]])
 
-# Subtract column means from each row
-centered_data = data_matrix - sp.Matrix([data_mean.tolist()[0]] * data_matrix.rows)
+# Repeat the row to create a 150x4 matrix (same shape as data_matrix)
+mean_matrix = sp.Matrix([data_mean.tolist()[0]] * data_matrix.rows)
+
+# Subtract element-wise
+centered_data = data_matrix - mean_matrix
+
 
 
 # Transpose to match original A = matrix(...).T in Sage
