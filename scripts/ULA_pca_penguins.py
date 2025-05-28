@@ -36,7 +36,7 @@ evals_and_evecs = sorted(
     reverse=True
 )
 top2_vectors = [sp.Matrix(vec) for val, vec in evals_and_evecs[:2]]
-V = sp.Matrix.hstack(*top2_vectors])  # 4 x 2
+V = sp.Matrix.hstack(*top2_vectors)  # 4 x 2
 
 # Project data into 2D and convert entries to floats
 M_projected = (V.T @ A).T.tolist()
