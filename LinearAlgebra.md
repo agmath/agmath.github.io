@@ -35,8 +35,8 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 
 | Class Meeting | During Class | After Class |
 |---------------|--------------|-------------|
-| 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - What Can We Expect?](https://drive.google.com/file/d/1ir6YUjoJFEB-Aj0n-pgVKsF-tqGeuDfz/view?usp=sharing) | Week 1 Assignment |
-| 2 | [Vector Arithmetic and Operations](https://drive.google.com/file/d/1IZlf9zma8BSbLvfvGWBMJWs6d1eNdzZF/view?usp=sharing) |  |
+| 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - What Can We Expect?](https://colab.research.google.com/drive/1ir6YUjoJFEB-Aj0n-pgVKsF-tqGeuDfz/view?usp=share_link) | Week 1 Assignment |
+| 2 | [Vector Arithmetic and Operations](https://colab.research.google.com/drive/1IZlf9zma8BSbLvfvGWBMJWs6d1eNdzZF/view?usp=share_link) |  |
 | 3 | Matrix Arithmetic and Operations |  |
 | 4 | $\S$ 1.2 - Finding Solutions to Linear Systems |  |
 | 5 | $\S$ 1.3 - Computation with Python |  |
