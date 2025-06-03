@@ -40,7 +40,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 3 | [Matrix Arithmetic and Operations](https://colab.research.google.com/drive/1qqUkC2shyA9mDQx6PmPKpfjwtxMDZFAz?usp=sharing) |  |
 | 4 | $\S$ 1.2 - Finding Solutions to Linear Systems |  |
 | 5 | $\S$ 1.3 - Computation with Python |  |
-| 6 | $\S$ 1.4 - Pivots and their Influene on Solution Spaces |  |
+| 6 | $\S$ 1.4 - Pivots and their Influence on Solution Spaces |  |
 | 7 | Row-Reduction Workshop |  |
 | 8 | $\S$ 2.1 - Vectors and Linear Combinations |  |
 | 9 | $\S$ 2.2 - Matric Multiplication and Linear Combinations |  |
