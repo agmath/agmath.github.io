@@ -22,7 +22,7 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-<img src="/SiteFiles/ula-cover.png" align="left" width=200> [**Spring 2024 Syllabus**](https://drive.google.com/file/d/1hjVOk9-YK7AD_uocO2zCvpjcjVDfFNHm/view?usp=sharing)<br/>
+<a href="https://agmath.github.io/Austin_ULA_Python/frontmatter.html"><img src="/SiteFiles/ula-cover.png" align="left" width=200></a> [**Spring 2024 Syllabus**](https://drive.google.com/file/d/1hjVOk9-YK7AD_uocO2zCvpjcjVDfFNHm/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This is a first course in linear algebra and matrices. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues and eigenvectors. After mastering the basic concepts and skills, students will use their knowledge of linear algebra to model a selection of applied mathematics problems in business, economics, science, computer science, and engineering.<br/>
 <br/>
