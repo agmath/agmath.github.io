@@ -37,7 +37,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 |---------------|--------------|-------------|
 | 1 | Introduction and What to Expect <br/> [$\S$ 1.1 - What Can We Expect?](https://colab.research.google.com/drive/1ir6YUjoJFEB-Aj0n-pgVKsF-tqGeuDfz?usp=sharing) | Week 1 Assignment |
 | 2 | [Vector Arithmetic and Operations](https://colab.research.google.com/drive/1IZlf9zma8BSbLvfvGWBMJWs6d1eNdzZF?usp=sharing) |  |
-| 3 | Matrix Arithmetic and Operations |  |
+| 3 | [Matrix Arithmetic and Operations](https://colab.research.google.com/drive/1qqUkC2shyA9mDQx6PmPKpfjwtxMDZFAz?usp=sharing) |  |
 | 4 | $\S$ 1.2 - Finding Solutions to Linear Systems |  |
 | 5 | $\S$ 1.3 - Computation with Python |  |
 | 6 | $\S$ 1.4 - Pivots and their Influene on Solution Spaces |  |
