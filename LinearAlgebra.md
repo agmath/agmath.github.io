@@ -43,7 +43,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 6 | [$\S$ 1.4 - Pivots and their Influence on Solution Spaces](https://colab.research.google.com/drive/18C0zcVB8LNTyuzhhbyoKw7jNPTUglP2T?usp=sharing) |  |
 | 7 | Row-Reduction Workshop |  |
 | 8 | $\S$ 2.1 - Vectors and Linear Combinations |  |
-| 9 | $\S$ 2.2 - Matric Multiplication and Linear Combinations |  |
+| 9 | $\S$ 2.2 - Matrix Multiplication and Linear Combinations |  |
 | 10 | $\S$ 2.3 - The Span of a Set of Vectors |  |
 | 11 | $\S$ 2.4 - Linear Independence |  |
 | 12 | $\S$ 2.5 - Matrix Transformations |  |
