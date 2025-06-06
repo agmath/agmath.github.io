@@ -47,7 +47,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 10 | [$\S$ 2.3 - The Span of a Set of Vectors](https://colab.research.google.com/drive/11lTnfgpN4Am7mgW6W-vx4BRXMDpSJ3BK?usp=sharing) |  |
 | 11 | [$\S$ 2.4 - Linear Independence](https://colab.research.google.com/drive/19E9xMh4mlbRm-jHVOxGV1ALNWkSZr2uT?usp=sharing) |  |
 | 12 | [$\S$ 2.5 - Matrix Transformations](https://colab.research.google.com/drive/1JDOkiVDkALyFRTzTJ5LWOJM2CWEY1S07?usp=sharing) |  |
-| 13 | $\S$ 2.6 - The Geometry of Matrix Transformations |  |
+| 13 | [$\S$ 2.6 - The Geometry of Matrix Transformations](https://colab.research.google.com/drive/1JFgWI29BdJnEE2o0nAKl1q255_5FD7DE?usp=sharing) |  |
 | 14 | Group Exam I |  |
 | 15 | Individual Exam I |  |
 | 16 | $\S$ 3.1 - Invertibility |  |
