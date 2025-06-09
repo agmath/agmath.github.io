@@ -51,7 +51,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 14 | Group Exam I |  |
 | 15 | Individual Exam I |  |
 | 16 | [$\S$ 3.1 - Invertibility](https://colab.research.google.com/drive/10GADmto0_9mqEExblaLDrtmbJ1AxVmFS?usp=sharing) |  |
-| 17 | $\S$ 3.2 - Bases and Coordinate Systems |  |
+| 17 | [$\S$ 3.2 - Bases and Coordinate Systems](https://colab.research.google.com/drive/1_Q6RAQ_ONSmMx42gZzdKa0B8Ku_T1ptz?usp=sharing) |  |
 | 18 | $\S$ 3.3 - Image Compression |  |
 | 19 | $\S$ 3.4 - Determinants |  |
 | 20 | $\S$ 3.5 - Subspaces |  |
