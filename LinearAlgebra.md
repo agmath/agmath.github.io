@@ -50,7 +50,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 13 | [$\S$ 2.6 - The Geometry of Matrix Transformations](https://colab.research.google.com/drive/1JFgWI29BdJnEE2o0nAKl1q255_5FD7DE?usp=sharing) |  |
 | 14 | Group Exam I |  |
 | 15 | Individual Exam I |  |
-| 16 | $\S$ 3.1 - Invertibility |  |
+| 16 | [$\S$ 3.1 - Invertibility](https://colab.research.google.com/drive/10GADmto0_9mqEExblaLDrtmbJ1AxVmFS?usp=sharing) |  |
 | 17 | $\S$ 3.2 - Bases and Coordinate Systems |  |
 | 18 | $\S$ 3.3 - Image Compression |  |
 | 19 | $\S$ 3.4 - Determinants |  |
