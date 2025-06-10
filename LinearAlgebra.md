@@ -55,7 +55,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 18 | $\S$ 3.3 - Image Compression |  |
 | 19 | [$\S$ 3.4 - Determinants](https://colab.research.google.com/drive/1xlYb9vuo1i7XJgpCOmnv0U7CSHnzPcRN?usp=sharing) |  |
 | 20 | [$\S$ 3.5 - Subspaces](https://colab.research.google.com/drive/1svHYfPQWK1Si2nCaij2oCPNwuMhZFQe_?usp=sharing) |  |
-| 21 | $\S$ 4.1 - An Introduction to Eigenvalues and Eigenvectors |  |
+| 21 | [$\S$ 4.1 - An Introduction to Eigenvalues and Eigenvectors](https://colab.research.google.com/drive/11glm_2X4oX9jH04L7wi-egbKNe_r4WG6?usp=sharing) |  |
 | 22 | $\S$ 4.2 - Finding Eigenvalues and Eigenvectors |  |
 | 23 | $\S$ 4.3 - Diagonalization, Similarity, and Powers of a Matrix |  |
 | 24 | Group Exam II |  |
