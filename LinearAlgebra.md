@@ -53,7 +53,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 16 | [$\S$ 3.1 - Invertibility](https://colab.research.google.com/drive/10GADmto0_9mqEExblaLDrtmbJ1AxVmFS?usp=sharing) |  |
 | 17 | [$\S$ 3.2 - Bases and Coordinate Systems](https://colab.research.google.com/drive/1_Q6RAQ_ONSmMx42gZzdKa0B8Ku_T1ptz?usp=sharing) |  |
 | 18 | $\S$ 3.3 - Image Compression |  |
-| 19 | $\S$ 3.4 - Determinants |  |
+| 19 | [$\S$ 3.4 - Determinants](https://colab.research.google.com/drive/1xlYb9vuo1i7XJgpCOmnv0U7CSHnzPcRN?usp=sharing) |  |
 | 20 | $\S$ 3.5 - Subspaces |  |
 | 21 | $\S$ 4.1 - An Introduction to Eigenvalues and Eigenvectors |  |
 | 22 | $\S$ 4.2 - Finding Eigenvalues and Eigenvectors |  |
