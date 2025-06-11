@@ -7,21 +7,21 @@ title: Welcome
 
 ## Adam Gilbert, PhD
 
-<img src="/SiteFiles/face.jpg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
+<img src="/SiteFiles/headshot.jpeg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
 &nbsp; &nbsp;email: a.gilbert1 [at] snhu [dot] edu <br/>
 &nbsp; &nbsp;View My: [CV](https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing), <a href="https://agmath.github.io/SiteFiles/GilbertResume.html" title="Resume">Resume</a>
 
 <br/><br/><br/>
 
 Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and interests have transitioned to data science over the past five years. In particular, I am interested in data science projects that promote the *social good*. The pages on this site contain information about the courses I teach, my current interests/endeavors, and information for people (particularly students) who are interested in working with me. I hope you'll find something useful during your visit!<br/>
-(**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](#course-information-from-previous-semesters), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
+(**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](OldCourses.md), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
-### Teaching (Spring 2025)
+### Teaching (Fall 2025)
 
-+ [MAT240 - Applied Statisitcs](StatsWithExcel.md)
-+ [MAT241 - Modern Statistics with Software](StatsWithR.md)
-+ [MAT434 - Statistical Learning and Classification](ClassificationCourse.md)
++ [MAT350 - Applied Linear Algebra](LinearAlgebra.md)
++ [MAT370 - Numerical Analysis](NumericalAnalysis.md)
++ MAT440 - BIG Problems (course page coming soon...)
 
 ### Course Information from Previous Semesters
 
