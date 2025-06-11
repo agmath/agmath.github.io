@@ -57,7 +57,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 20 | [$\S$ 3.5 - Subspaces](https://colab.research.google.com/drive/1svHYfPQWK1Si2nCaij2oCPNwuMhZFQe_?usp=sharing) |  |
 | 21 | [$\S$ 4.1 - An Introduction to Eigenvalues and Eigenvectors](https://colab.research.google.com/drive/11glm_2X4oX9jH04L7wi-egbKNe_r4WG6?usp=sharing) |  |
 | 22 | [$\S$ 4.2 - Finding Eigenvalues and Eigenvectors](https://colab.research.google.com/drive/100afzj2WgAiY00lrbcaUkih2_vvbMdgf?usp=sharing) |  |
-| 23 | $\S$ 4.3 - Diagonalization, Similarity, and Powers of a Matrix |  |
+| 23 | [$\S$ 4.3 - Diagonalization, Similarity, and Powers of a Matrix](https://colab.research.google.com/drive/1ebmYyoODEDXiTb59vMIKT9SYe0Aw4Nhw?usp=sharing) |  |
 | 24 | Group Exam II |  |
 | 25 | Individual Exam II |  |
 | 26 | $\S$ 4.4 - Dynamical Systems |  |
