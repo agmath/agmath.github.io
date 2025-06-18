@@ -43,7 +43,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 6 |  | [$\S$ 1.4 - Pivots and their Influence on Solution Spaces](https://colab.research.google.com/drive/18C0zcVB8LNTyuzhhbyoKw7jNPTUglP2T?usp=sharing) |  |
 | 7 |  | [Row-Reduction Workshop](https://colab.research.google.com/drive/1c5LK6HftxMSXcvlWbPQ_jebeYiLxkWx6?usp=sharing) <br/> Initial Row-Reduction Gateway Exam |  |
 | 8 |  [3Blue1Brown: Linear Combinations, Spans, and Bases](https://www.3blue1brown.com/lessons/span) | [$\S$ 2.1 - Vectors and Linear Combinations](https://colab.research.google.com/drive/1B0-C2e9isVL0Hrop6Ru0GPB0EK0a5-zM?usp=sharing) |  |
-| 9 | [3Blue1Brown: Linear Transformation](https://www.3blue1brown.com/lessons/linear-transformations) |[$\S$ 2.2 - Matrix Multiplication and Linear Combinations](https://colab.research.google.com/drive/1TYz94NlBBK_vUHykvR8PZu1pWGyW9WCD?usp=sharing) |  |
+| 9 | [3Blue1Brown: Linear Transformation](https://www.3blue1brown.com/lessons/linear-transformations) | [$\S$ 2.2 - Matrix Multiplication and Linear Combinations](https://colab.research.google.com/drive/1TYz94NlBBK_vUHykvR8PZu1pWGyW9WCD?usp=sharing) |  |
 | 10 |  | [$\S$ 2.3 - The Span of a Set of Vectors](https://colab.research.google.com/drive/11lTnfgpN4Am7mgW6W-vx4BRXMDpSJ3BK?usp=sharing) |  |
 | 11 |  | [$\S$ 2.4 - Linear Independence](https://colab.research.google.com/drive/19E9xMh4mlbRm-jHVOxGV1ALNWkSZr2uT?usp=sharing) |  |
 | 12 | [3Blue1Brown: Matrix Multiplication](https://www.3blue1brown.com/lessons/matrix-multiplication) | [$\S$ 2.5 - Matrix Transformations](https://colab.research.google.com/drive/1JDOkiVDkALyFRTzTJ5LWOJM2CWEY1S07?usp=sharing) |  |
