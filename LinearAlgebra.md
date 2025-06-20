@@ -60,7 +60,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 23 |  | [$\S$ 4.3 - Diagonalization, Similarity, and Powers of a Matrix](https://colab.research.google.com/drive/1ebmYyoODEDXiTb59vMIKT9SYe0Aw4Nhw?usp=sharing) |  |
 | 24 |  | Group Exam II |  |
 | 25 |  | Individual Exam II |  |
-| 26 |  | $\S$ 4.4 - Dynamical Systems |  |
+| 26 |  | [$\S$ 4.4 - Dynamical Systems](https://colab.research.google.com/drive/1SEk377sz2S33F618fsA-bPHh_QOZgQYs?usp=sharing) <br/> [In-Class Version](https://colab.research.google.com/drive/1zSdcpCGkZokPD1lU6LhnZ2cIoW3zTVy3?usp=sharing) |  |
 | 27 |  | $\S$ 4.5 - Markov Chains and Google's PageRank Algorithm |  |
 | 28 |  | Review |  |
 | 29 |  | Final, Part I (Required) |  |
