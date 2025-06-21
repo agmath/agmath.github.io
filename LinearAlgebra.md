@@ -52,7 +52,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 15 |  | Individual Exam I |  |
 | 16 | [3Blue1Brown: Inverse Matrices, Rank, and Null Space](https://www.3blue1brown.com/lessons/inverse-matrices) | [$\S$ 3.1 - Invertibility](https://colab.research.google.com/drive/10GADmto0_9mqEExblaLDrtmbJ1AxVmFS?usp=sharing) |  |
 | 17 | [3Blue1Brown: Change of Basis](https://www.3blue1brown.com/lessons/change-of-basis) | [$\S$ 3.2 - Bases and Coordinate Systems](https://colab.research.google.com/drive/1_Q6RAQ_ONSmMx42gZzdKa0B8Ku_T1ptz?usp=sharing) |  |
-| 18 |  | [$\S$ 3.3 - Image Compression](https://colab.research.google.com/drive/1A3cNajddmvKqYPijgBxPNKq4yFWXGxB2?usp=sharing) <br/> ([In-Class Version)](https://colab.research.google.com/drive/1Q3h8WSuEdn97ePVdXNg65mx-ng_Gtdtr?usp=sharing)) |  |
+| 18 |  | [$\S$ 3.3 - Image Compression](https://colab.research.google.com/drive/1A3cNajddmvKqYPijgBxPNKq4yFWXGxB2?usp=sharing) <br/> ([In-Class Version](https://colab.research.google.com/drive/1Q3h8WSuEdn97ePVdXNg65mx-ng_Gtdtr?usp=sharing)) |  |
 | 19 | [3Blue1Brown: Determinants](https://www.3blue1brown.com/lessons/determinant) | [$\S$ 3.4 - Determinants](https://colab.research.google.com/drive/1xlYb9vuo1i7XJgpCOmnv0U7CSHnzPcRN?usp=sharing) | [3Blue1Brown: Cramer's Rule](https://www.3blue1brown.com/lessons/cramers-rule) |
 | 20 |  | [$\S$ 3.5 - Subspaces](https://colab.research.google.com/drive/1svHYfPQWK1Si2nCaij2oCPNwuMhZFQe_?usp=sharing) |  |
 | 21 | [3Blue1Brown: Eigenvalues and Eigenvectors](https://www.3blue1brown.com/lessons/eigenvalues) | [$\S$ 4.1 - An Introduction to Eigenvectors and Eigenvalues](https://colab.research.google.com/drive/11glm_2X4oX9jH04L7wi-egbKNe_r4WG6?usp=sharing) |  |
@@ -61,7 +61,7 @@ Below will eventually be a tentative timeline for our course. It includes a deta
 | 24 |  | Group Exam II |  |
 | 25 |  | Individual Exam II |  |
 | 26 |  | [$\S$ 4.4 - Dynamical Systems](https://colab.research.google.com/drive/1SEk377sz2S33F618fsA-bPHh_QOZgQYs?usp=sharing) <br/> ([In-Class Version](https://colab.research.google.com/drive/1zSdcpCGkZokPD1lU6LhnZ2cIoW3zTVy3?usp=sharing)) |  |
-| 27 |  | $\S$ 4.5 - Markov Chains and Google's PageRank Algorithm |  |
+| 27 |  | [$\S$ 4.5 - Markov Chains and Google's PageRank Algorithm](https://colab.research.google.com/drive/1pmCGIaAWupgjRNmpvQG57122iVd9sEHD?usp=sharing) |  |
 | 28 |  | Review |  |
 | 29 |  | Final, Part I (Required) |  |
 | 30 |  | Final, Part II (Optional) |  |
