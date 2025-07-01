@@ -28,6 +28,7 @@ Links to pages with information about each course will be added to the list belo
 + MAT415 - Abstract Algebra
 + [MAT434 - Statistical Learning and Classification (with R)](ClassificationCourse.md)
 + [MAT434 - Statistical Learning and Classification (with Python)](ClassificationCourse_Python.md)
++ [MAT440 - BIG Problems](BIGproblems.md)
 
 **Directed Studies and Honors Theses:**
 + Generative Adversarial Networks (with C. Stambaugh, 2024)
