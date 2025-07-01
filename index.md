@@ -21,7 +21,7 @@ Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at 
 
 + [MAT350 - Applied Linear Algebra](LinearAlgebra.md)
 + [MAT370 - Numerical Analysis](NumericalAnalysis.md)
-+ MAT440 - BIG Problems (course page coming soon...)
++ [MAT440 - BIG Problems](BIGproblems.md)
 
 ### Course Information from Previous Semesters
 
