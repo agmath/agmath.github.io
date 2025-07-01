@@ -41,6 +41,7 @@ This is a project-driven course, so the schedule beyond the first few weeks will
 | 3 | Continue project and approach research | General software workflow basics <br/> Soft launch...issues, branches, merging | Assign basic initial issues <br/> branch and close with merges |
 | 4 | Update project progress | Research strategies: where to look, <br/> how/when to use AI tools, <br/> and how/when not to | Start working! |
 | 5+ | Plan for class check-ins <br/> Prepare for interim presentations | Working sessions <br/> Present to liaison ~every 3 weeks | Use feedback to prioritize next steps |
+
 <br/>
 <br/>
 
