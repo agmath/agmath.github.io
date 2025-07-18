@@ -7,7 +7,7 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 
 ## MAT 370 - Numerical Analysis
 
-<img src="/SiteFiles/Numerical.jpg" align="left" width=200> [**Spring 2024 Syllabus**](https://drive.google.com/file/d/1hV4CR6N-cfTMakPp5snXQDwh0jyc5MW0/view?usp=sharing)<br/>
+<img src="/SiteFiles/Numerical.jpg" align="left" width=200> [**Draft Fall 2025 Syllabus**](https://drive.google.com/file/d/1FO_M7tgDR2WICkqDIRDzUiiWdLG0QASa/view?usp=sharing) (Subject to Change)<br/>
 <br/>
 ***Course Description:*** This course introduces basic techniques for the efficient numerical solution of problems in engineering, mathematics, and science. Topics covered may include: root finding methods, interpolation, numerical differentiation and integration, numerical solutions of differential equations, and matrix theory concepts such as QR factorization and singular value decompositions. Students will utilize industry-standard software for simulations.<br/>
 <br/>
@@ -44,9 +44,12 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 22 |  | [Integration: Romberg Integration](https://colab.research.google.com/drive/1AxUjmOifSbxwxcbhz3UkM8-SWH5_LVhg?usp=sharing) |  |
 | 23 | [A Reminder on Initial Value Problems](https://colab.research.google.com/drive/1dC8E_IwIvn8Tsz2ZtJZGfrE8BZ5h8OQG?usp=share_link) | [IVPs: Euler's Method](https://colab.research.google.com/drive/1TxU9gQLYSNr8SeEJ0B3dHCs1egxmd4Nv?usp=share_link) | HW 8 |
 | 24 |  | [IVPs: Runge-Kutta Methods](https://colab.research.google.com/drive/1DQxMKrM7N5aoDHfgb8nlx5O215iJpe1i?usp=share_link) |  |
-| 25 |  | Unit Problem Set II, Day 1 |  |
-| 26 |  | Unit Problem Set II, Day 2 |  |
-| 27/28 |  | Reflections |  |
+| 25 |  | Reflection Project Overview |  |
+| 26 |  | Reflection Project Intention Mini-Meetings |  |
+| 27 |  | Unit Problem Set II, Day 1 |  |
+| 28 |  | Unit Problem Set II, Day 2 |  |
+| 29 |  | Reflection Project Presentations |  |
+| 30 |  | Reflection Project Presentations |  |
 
 <br/>
 <br/>
