@@ -14,6 +14,9 @@ description: This is a homepage for MAT240, Applied Statistics, with Dr. Gilbert
 ***Course Description:*** This is a fundamental course in the application of statistics.  In this course, students learn how to apply statistical techniques to a variety of applications in business and the social sciences.  Students learn how to solve statistical problems by hand and through the use of computer software.  Topics include probability distribution functions, sampling distributions, estimation, hypothesis testing, and linear regression.
 <br/>
 <br/>
+<b>Note to Instructors About Online Homework:</b> I have a freely available online homework shell at MyOpenMath which is available for copy. Contact me for the instructions and required information.
+<br/>
+<br/>
 
 ### Course Timeline
 
