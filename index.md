@@ -21,24 +21,12 @@ title: Welcome
       </p>
     </div>
   </div>
-
-  <!-- Right Side: Ko-fi Button -->
-  <div style="text-align: right;">
-    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-    <script>
-      kofiWidgetOverlay.draw('agmath', {
-        'type': 'floating-chat',
-        'floating-chat.donateButton.text': 'Support me',
-        'floating-chat.donateButton.background-color': '#794bc4',
-        'floating-chat.donateButton.text-color': '#fff'
-        });
-    </script>
-  </div>
 </div>
 
-<br/><br/><br/>
-
 Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and interests have transitioned to data science over the past five years. In particular, I am interested in data science projects that promote the *social good*. The pages on this site contain information about the courses I teach, my current interests/endeavors, and information for people (particularly students) who are interested in working with me. I hope you'll find something useful during your visit!<br/>
+<br/>
+All the materials you find on this site are free to use; I hope you find them useful! If you feel so inclined to support my maintanence of these resources and the creation of new ones, you'll find a floating Ko-fi donation link in the lower-left corner of this page and other pages on this site. I'd love to hear how you are using any of these resources and about their impact on you! <br/>
+<br/>
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](OldCourses.md), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
