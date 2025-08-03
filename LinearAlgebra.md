@@ -10,7 +10,7 @@ use_math: true
 <script>
   kofiWidgetOverlay.draw('agmath', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.text': 'Support this work',
     'floating-chat.donateButton.background-color': '#794bc4',
     'floating-chat.donateButton.text-color': '#fff'
   });
@@ -51,10 +51,10 @@ MathJax = {
 
 <br/>
 <br/>
-
+<br/>
 ### Course Timeline and Notebooks
 
-Below will eventually be a tentative timeline for our course. It includes a detailed set of notes corresponding to each class meeting and assignments following each class meeting. Note that assignments are all available on [MyOpenMath](https://www.myopenmath.com/).
+Below will is a tentative timeline for our course. It includes a detailed set of notes corresponding to each class meeting and assignments following each class meeting. Note that assignments are all available on [MyOpenMath](https://www.myopenmath.com/).
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
