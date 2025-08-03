@@ -22,13 +22,16 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-<img src="/SiteFiles/octocat_drip.jpg" align="left" width=200> [**Fall 2025 (Draft) Syllabus**](https://drive.google.com/file/d/1dpKgoDG4p24jO0MiYis4J9pmOrj-OqcK/view?usp=sharing)<br/>
-**(Please forgive my appearance:** Site construction in progress...**)** <br/>
-<br/>
-***Course Description:*** BIG Problems in Mathematics will engage students with research problems in the areas of Business, Industry, and Government (BIG) agencies. Through the course of the semester, students will work toward a solution to a single or series of problems posed by BIG liaisons, concluding with a final written report and video presentation to the sponsoring agency. Specific course topics will change depending on the needs of the sponsoring agency.<br/>
-<br/>
-<br/>
-<br/>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <!-- Left Side: Your Info -->
+  <div style="display: flex; align-items: center; max-width: 60%;">
+    <img src="/SiteFiles/octocat_drip.jpg" align="left" width=200px>
+    <div>
+      <p style="margin: 0;"><a href="https://drive.google.com/file/d/1dpKgoDG4p24jO0MiYis4J9pmOrj-OqcK/view?usp=sharing"><strong>Draft Syllabus</strong> (Subject to Change)</a></p>
+      <p style="margin: 0;"><strong>Course Description:</strong> BIG Problems in Mathematics will engage students with research problems in the areas of Business, Industry, and Government (BIG) agencies. Through the course of the semester, students will work toward a solution to a single or series of problems posed by BIG liaisons, concluding with a final written report and video presentation to the sponsoring agency. Specific course topics will change depending on the needs of the sponsoring agency.</p>
+    </div>
+  </div>
+</div>
 
 ### Course Timeline
 
