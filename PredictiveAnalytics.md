@@ -5,6 +5,16 @@ description: This is a homepage for QSO370/570, Predictive Analytics, at Souther
 
 {% include google-analytics.html %}
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('agmath', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 ## QSO 370/570 - Predictive Analytics
 
 <img src="/SiteFiles/PredictiveAnalytics.jpg" align="left" width=150>[**Syllabus (Summer 2023)**](https://drive.google.com/file/d/1qLpncU502GH8MyOKrimO3Z2542lPtfpA/view?usp=share_link)<br/>
