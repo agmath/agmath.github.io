@@ -45,6 +45,9 @@ MathJax = {
   </a>
 </p>
 
+<br/>
+<br/>
+
 <p style="margin: 0;">
   <strong>Course Description:</strong> This is a first course in linear algebra and matrices. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues, and eigenvectors. After mastering basic concepts and skills, students will use their knowledge of linear algebra to model a selection of applied mathematics problems in business, science, computer science, and economics.
 </p>
