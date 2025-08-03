@@ -5,6 +5,16 @@ description: This is a homepage for MAT434, Statistical Learning and Classificat
 
 {% include google-analytics.html %}
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('agmath', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 ## MAT 434 - Statistical Learning and Classification (with R)
 
 <img src="/SiteFiles/ISLR.png" align="left" width=200>[**Spring 2025 Syllabus**](https://drive.google.com/file/d/12SoH8F2d57ZAj-qsUKUwk_1knl2_4Axu/view?usp=sharing)<br/>
