@@ -7,9 +7,34 @@ title: Welcome
 
 ## Adam Gilbert, PhD
 
-<img src="/SiteFiles/headshot.jpeg" align="left" width=150>&nbsp; &nbsp;Associate Professor of Mathematics<br/>
-&nbsp; &nbsp;email: a.gilbert1 [at] snhu [dot] edu <br/>
-&nbsp; &nbsp;View My: [CV](https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing), <a href="https://agmath.github.io/SiteFiles/GilbertResume.html" title="Resume">Resume</a>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <!-- Left Side: Your Info -->
+  <div style="display: flex; align-items: center; max-width: 60%;">
+    <img src="/SiteFiles/headshot.jpeg" alt="Headshot" width="150" style="margin-right: 20px;">
+    <div>
+      <p style="margin: 0;"><strong>Associate Professor of Mathematics</strong></p>
+      <p style="margin: 0;">email: a.gilbert1 [at] snhu [dot] edu</p>
+      <p style="margin: 0;">
+        View My:
+        <a href="https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing" target="_blank">CV</a>,
+        <a href="https://agmath.github.io/SiteFiles/GilbertResume.html" title="Resume" target="_blank">Resume</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Right Side: Ko-fi Button -->
+  <div style="text-align: right;">
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script>
+      kofiWidgetOverlay.draw('agmath', {
+        'type': 'floating-chat',
+        'floating-chat.donateButton.text': 'Support me',
+        'floating-chat.donateButton.background-color': '#794bc4',
+        'floating-chat.donateButton.text-color': '#fff'
+        });
+    </script>
+  </div>
+</div>
 
 <br/><br/><br/>
 
