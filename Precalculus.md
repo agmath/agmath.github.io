@@ -5,6 +5,16 @@ description: This is a homepage for MAT142, Precalculus with Limits, with Dr. Gi
 
 {% include google-analytics.html %}
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('agmath', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 ## MAT 142 - Precalculus with Limits
 
 <img src="/SiteFiles/OpenStaxPrecalc.jpg" align="left" width=200>[**Syllabus (Spring 2024)**](https://drive.google.com/file/d/1lXuFnwU7dSHKgeT0fy8Z80oagu9GuOFU/view?usp=sharing)<br/>
