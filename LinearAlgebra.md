@@ -32,11 +32,23 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-<a href="https://agmath.github.io/Austin_ULA_Python/frontmatter.html"><img src="/SiteFiles/ula-cover.png" alt="Textbook Cover and Link"
-           style="width: 200px; height: auto; margin-right: 20px;"></a>[**Draft Syllabus** (Subject to Change)](https://drive.google.com/file/d/1YF8NRdSParExTZtrjcerk577bGoildxJ/view)<br/>
-<br/>
-***Course Description:*** This is a first course in linear algebra and matrices. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues, and eigenvectors. After mastering basic concepts and skills, students will use their knowledge of linear algebra to model a selection of applied mathematics problems in business, science, computer science, and economics.<br/>
-<br/>
+<!-- Float the image to the left -->
+<a href="https://agmath.github.io/Austin_ULA_Python/frontmatter.html">
+  <img src="/SiteFiles/ula-cover.png" alt="Textbook Cover and Link"
+       style="width: 200px; height: auto; margin-right: 20px; float: left;">
+</a>
+
+<!-- Add text content next to the image -->
+<p style="margin: 0;">
+  <a href="https://drive.google.com/file/d/1YF8NRdSParExTZtrjcerk577bGoildxJ/view">
+    <strong>Draft Syllabus</strong> (Subject to Change)
+  </a>
+</p>
+
+<p style="margin: 0;">
+  <strong>Course Description:</strong> This is a first course in linear algebra and matrices. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues, and eigenvectors. After mastering basic concepts and skills, students will use their knowledge of linear algebra to model a selection of applied mathematics problems in business, science, computer science, and economics.
+</p>
+
 
 ### Course Timeline and Notebooks
 
