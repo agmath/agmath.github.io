@@ -19,7 +19,7 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <!-- Left Side: Your Info -->
-  <div style="display: flex; align-items: center; max-width: 60%;">
+  <div style="display: flex; align-items: center; max-width: 75%;">
     <img src="/SiteFiles/Numerical.jpg" alt="Textbook Cover" style="width: 200px; margin-right: 20px;">
     <div>
       <p style="margin: 0;"><a href="https://drive.google.com/file/d/1FO_M7tgDR2WICkqDIRDzUiiWdLG0QASa/view?usp=sharing"><strong>Draft Syllabus</strong> (Subject to Change)</a></p>
