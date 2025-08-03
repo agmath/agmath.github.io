@@ -5,6 +5,16 @@ description: Find basic information about courses I've taught during previous se
 
 {% include google-analytics.html %}
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('agmath', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 ### My Previously Taught Courses
 
 Links to pages with information about each course will be added to the list below.  
