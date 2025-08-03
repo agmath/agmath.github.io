@@ -9,7 +9,7 @@ description: This is a homepage for MAT225, Calculus I, with Dr. Gilbert at Sout
 <script>
   kofiWidgetOverlay.draw('agmath', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.text': 'Support this work',
     'floating-chat.donateButton.background-color': '#794bc4',
     'floating-chat.donateButton.text-color': '#fff'
   });
