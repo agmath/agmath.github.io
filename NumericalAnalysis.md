@@ -5,6 +5,16 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 
 {% include google-analytics.html %}
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('agmath', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 ## MAT 370 - Numerical Analysis
 
 <img src="/SiteFiles/Numerical.jpg" align="left" width=200> [**Draft Fall 2025 Syllabus**](https://drive.google.com/file/d/1FO_M7tgDR2WICkqDIRDzUiiWdLG0QASa/view?usp=sharing) (Subject to Change)<br/>
