@@ -17,12 +17,16 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 
 ## MAT 370 - Numerical Analysis
 
-<img src="/SiteFiles/Numerical.jpg" align="left" width=200> [**Draft Fall 2025 Syllabus**](https://drive.google.com/file/d/1FO_M7tgDR2WICkqDIRDzUiiWdLG0QASa/view?usp=sharing) (Subject to Change)<br/>
-<br/>
-***Course Description:*** This course introduces basic techniques for the efficient numerical solution of problems in engineering, mathematics, and science. Topics covered may include: root finding methods, interpolation, numerical differentiation and integration, numerical solutions of differential equations, and matrix theory concepts such as QR factorization and singular value decompositions. Students will utilize industry-standard software for simulations.<br/>
-<br/>
-<br/>
-<br/>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <!-- Left Side: Your Info -->
+  <div style="display: flex; align-items: center; max-width: 60%;">
+    <img src="/SiteFiles/Numerical.jpg" align="left" width=200>
+    <div>
+      <p style="margin: 0;"><a href="https://drive.google.com/file/d/1FO_M7tgDR2WICkqDIRDzUiiWdLG0QASa/view?usp=sharing"><strong>Draft Syllabus</strong> (Subject to Change)</a></p>
+      <p style="margin: 0;"><strong>Course Description:</strong> This course introduces basic techniques for the efficient numerical solution of problems in engineering, mathematics, and science. Topics covered may include: root finding methods, interpolation, numerical differentiation and integration, numerical solutions of differential equations, and matrix theory concepts such as QR factorization and singular value decompositions. Students will utilize industry-standard software for simulations.</p>
+    </div>
+  </div>
+</div>
 
 ### Course Timeline and Notebooks
 
