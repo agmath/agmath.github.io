@@ -32,8 +32,8 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; padding: 10px;">
-  <div style="display: flex; align-items: center; max-width: 75%;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; padding: 10px; min-height: 100px;">
+  <div style="display: flex; align-items: center; max-width: 75%; min-width: 300px;">
     <a href="https://agmath.github.io/Austin_ULA_Python/frontmatter.html">
       <img src="/SiteFiles/ula-cover.png" alt="Textbook Cover and Link"
            style="width: 200px; height: auto; margin-right: 20px;">
