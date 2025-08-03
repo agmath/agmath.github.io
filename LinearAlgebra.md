@@ -34,7 +34,7 @@ MathJax = {
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <!-- Left Side: Your Info -->
-  <div style="display: flex; align-items: center; max-width: 60%;">
+  <div style="display: flex; align-items: center;">
     <a href="https://agmath.github.io/Austin_ULA_Python/frontmatter.html"><img src="/SiteFiles/ula-cover.png" align="left" width=200px></a>
     <div>
       <p style="margin: 0;"><a href="https://drive.google.com/file/d/1YF8NRdSParExTZtrjcerk577bGoildxJ/view"><strong>Draft Syllabus</strong> (Subject to Change)</a></p>
