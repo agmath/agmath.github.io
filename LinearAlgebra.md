@@ -74,7 +74,7 @@ Below will is a tentative timeline for our course. It includes a detailed set of
 | 14 |  | Group Exam I |  |
 | 15 |  | Individual Exam I |  |
 | 16 | [3Blue1Brown: Inverse Matrices, Rank, and Null Space](https://www.3blue1brown.com/lessons/inverse-matrices) | [$\S$ 3.1 - Invertibility](https://colab.research.google.com/drive/10GADmto0_9mqEExblaLDrtmbJ1AxVmFS?usp=sharing) <br/> ([Slides](https://agmath.github.io/LinearAlgebraCourse/Notes_Slides/D16_Invertibility.html)) | Homework 7 |
-| 17 | [3Blue1Brown: Change of Basis](https://www.3blue1brown.com/lessons/change-of-basis) | [$\S$ 3.2 - Bases and Coordinate Systems](https://colab.research.google.com/drive/1_Q6RAQ_ONSmMx42gZzdKa0B8Ku_T1ptz?usp=sharing) | Homework 8 |
+| 17 | [3Blue1Brown: Change of Basis](https://www.3blue1brown.com/lessons/change-of-basis) | [$\S$ 3.2 - Bases and Coordinate Systems](https://colab.research.google.com/drive/1_Q6RAQ_ONSmMx42gZzdKa0B8Ku_T1ptz?usp=sharing) <br/> ([Slides](https://agmath.github.io/LinearAlgebraCourse/Notes_Slides/D17_Bases.html)) | Homework 8 |
 | 18 |  | [$\S$ 3.3 - Image Compression](https://colab.research.google.com/drive/1A3cNajddmvKqYPijgBxPNKq4yFWXGxB2?usp=sharing) <br/> ([In-Class Version](https://colab.research.google.com/drive/1Q3h8WSuEdn97ePVdXNg65mx-ng_Gtdtr?usp=sharing)) |  |
 | 19 | [3Blue1Brown: Determinants](https://www.3blue1brown.com/lessons/determinant) | [$\S$ 3.4 - Determinants](https://colab.research.google.com/drive/1xlYb9vuo1i7XJgpCOmnv0U7CSHnzPcRN?usp=sharing) | Homework 9 <br/> [3Blue1Brown: Cramer's Rule](https://www.3blue1brown.com/lessons/cramers-rule) |
 | 20 |  | [$\S$ 3.5 - Subspaces](https://colab.research.google.com/drive/1svHYfPQWK1Si2nCaij2oCPNwuMhZFQe_?usp=sharing) | Homework 10 |
