@@ -20,6 +20,7 @@ description: Find basic information about courses I've taught during previous se
 Links to pages with information about each course will be added to the list below.  
 
 **Math and Statistics Courses:**
++ [MAT135 - The Heart of Mathematics](HeartOfMath.md)
 + MAT140 - Precalculus
 + [MAT142 - Precalculus with Limits](Precalculus.md)
 + [MAT215 - Introduction to Math Modeling](IntroModeling.md)
