@@ -11,6 +11,7 @@ description: Wanted! Curious sailers; no prior mathematical experience needed. <
 <br/>
 ***Course Description:*** The Heart of Mathematics considers the history, mathematical beauty, and real world applications of a wide variety of topics.  This discussion-based course encourages "out-of-the-box" thinking to explore the connections between mathematics and the world around us.  Topics may include: patterns in nature, infinity, topology, geometry, networking, fractals, and chaos theory, among others.<br/>
 <br/>
+<br/>
 
 
 ### Course Timeline and Notebooks
