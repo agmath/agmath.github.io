@@ -40,18 +40,18 @@ Below is a tentative timeline for our course. It includes a week by week summary
 
 | Week | Activities | Additional Notes |
 |------|------------|------------------|
-| **Week 1:** September 1 – 5 | Meeting 1: Course Overview<br>Topic 1 Notebook: Introduction to Data<br>Topic 2 Notebook: Introduction to R<br><br>September 8, 2025 – Last day to add/drop a class | Week 1 assignment due in BrightSpace<br>Submit notebook hash codes by 11:59pm on 9/5 |
+| **Week 1:** September 1 – 5 | Meeting 1: Course Overview<br>Topic 1 Notebook: Introduction to Data<br>Topic 2 Notebook: Introduction to R | Week 1 assignment due in BrightSpace<br>Submit notebook hash codes by 11:59pm on 9/5 |
 | **Week 2:** September 8 – 12 | Meeting 2: Review of Introductory notebooks, basics of Quarto, and preview of Exploratory Data Analysis (EDA)<br>Topic 3 Notebook: Descriptive Statistics<br>Topic 4 Notebook: Data Visualization | Submit notebook hash codes by 11:59pm on 9/12 |
 | **Week 3:** September 15 – 19 | Meeting 3: Review of EDA and Preview of Probability<br>Topic 5 Notebook: Discrete Probability<br>Topic 6 Notebook: Normal Distribution | Submit notebook hash codes by 11:59pm on 9/19 |
 | **Week 4:** September 22 – 26 | Meeting 4: Probability Review and Practice<br>Practice Probability Problems<br>Review Weeks 1 – 3 |  |
-| **Week 5:** September 29 – October 3 | Meeting 5: Exam Preview<br>Exam Week<br>Exam Week | Complete Exam I on MyOpenMath by 11:59pm on 9/26<br>Submit Practical Exam I in BrightSpace by 11:59pm on 10/3 |
+| **Week 5:** September 29 – October 3 | Meeting 5: Exam Preview<br>Exam Week | Complete Exam I on MyOpenMath by 11:59pm on 9/26<br>Submit Practical Exam I in BrightSpace by 11:59pm on 10/3 |
 | **Week 6:** October 6 – 10 | Meeting 6: Exam Debrief and Preview of Inference<br>Topic 9 Notebook: Foundations for Inference<br>Topic 10 Notebook: Introduction to Inference Lab | Submit notebook hash codes by 11:59pm on 10/10 |
 | **Week 7:** October 13 – 17 | Meeting 7: Additional Discussions on Inference and Preview of Formal Inference Techniques and Tools<br>Topic 11 Notebook: Inference for Categorical Data<br>Topic 12 Notebook: Inference Practice | Submit notebook hash codes by 11:59pm on 10/17 |
 | **Week 8:** October 20 – 24 | Meeting 8: More Practice with Inference<br>Topic 13 Notebook: Inference for Categorical Data (Lab)<br>Topic 14 Notebook: Chi Squared Tests | Submit notebook hash codes by 11:59pm on 10/24 |
 | **Week 9:** October 27 – 31 | Meeting 9: Overview of Inference for Categorical Variables and Preview of Inference for Numerical Variables<br>Topic 15 Notebook: Inference for Numerical Variables<br>Topic 16 Notebook: Inference Practice (Start) | Submit notebook hash codes (Topic 15 only) by 11:59pm on 10/31 |
 | **Week 10:** November 3 – 7 | Meeting 10: Continued Practice with Inference<br>Topic 16 Notebook: Inference Practice (Continued)<br>Topic 16 Notebook: Inference Practice (Finish) | Submit notebook hash codes (Topic 16 only) by 11:59pm on 11/7 |
 | **Week 11:** November 10 – 14 | Meeting 11: Additional Practice with Inference on Categorical and Numerical Variables for One and Two Populations<br>Topic 17 Notebook: Inference for Numerical Data (Lab)<br>Review for Exam II | Submit notebook hash codes (Topic 17 only) by 11:59pm on 11/14 |
-| **Week 12:** November 17 – 21 | Meeting 12: Exam Preview<br>Exam Week<br>Exam Week | Complete Exam II on MyOpenMath by 11:59pm on 11/21<br>Submit Practical Exam II in BrightSpace by 11:59pm on 11/21 |
+| **Week 12:** November 17 – 21 | Meeting 12: Exam Preview<br>Exam Week | Complete Exam II on MyOpenMath by 11:59pm on 11/21<br>Submit Practical Exam II in BrightSpace by 11:59pm on 11/21 |
 | **Week 13:** November 24 – 28 | Optional Tuesday Class Meeting for MAT241<br>Thanksgiving Break (Wednesday – Friday) |  |
 | **Week 14:** December 1 – 5 | Meeting 14: Exam Debrief and ANOVA [and beyond] Preview<br>Topic 18 Notebook: Analysis of Variance<br>Topic 19 Notebook: Linear Regression (Lab) | Submit notebook hash codes by 11:59pm on 12/5 |
 | **Week 15:** December 8 – 12 | Meeting 15: Review and [In-Class] Final Exam Preview<br>Prepare for Final Exam |  |
