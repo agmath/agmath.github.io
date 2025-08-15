@@ -29,7 +29,7 @@ Links to pages with information about each course will be added to the list belo
 + MAT235 - Discrete Mathematics II
 + [MAT239 - Discrete Mathematics for Computing](DiscreteForComputing.md)
 + [MAT240 - Applied Statistics](StatsWithExcel.md)
-+ [MAT241 - Modern Statistics with Software](StatsWithR.md)
++ [MAT241 - Modern Statistics with Software](StatsWithR.md) (alternative webpage for [hybrid version](StatsWithR_Hybrid.md))
 + MAT275 - Calculus II
 + [MAT299 - Introduction to Proof and Problem Solving](ProofsCourse.md)
 + [MAT300 - Statistics II: Regression Analysis](RegressionCourse.md)
