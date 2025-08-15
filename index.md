@@ -43,9 +43,9 @@ All the materials you find on this site are free to use; I hope you find them us
 
 ### Teaching (Fall 2025)
 
++ [MAT241 - Modern Statistics with Software](StatsWithR_Hybrid.md) (Hybrid)
 + [MAT350 - Applied Linear Algebra](LinearAlgebra.md)
 + [MAT370 - Numerical Analysis](NumericalAnalysis.md)
-+ [MAT440 - BIG Problems](BIGproblems.md)
 
 ### Course Information from Previous Semesters
 
