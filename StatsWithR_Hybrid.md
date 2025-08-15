@@ -38,7 +38,7 @@ to do the vast majority of learning and work outside of class meetings.
 
 Below is a tentative timeline for our course. It includes a week by week summary of responsibilities.
 
-| Week | Activities | Discussion Slides (Optional) | Additional Notes |
+| Week | Activities | Discussion Slides (Optional) | Items Due |
 |------|------------|------------------|------------------|
 | **Week 1:** September 1 – 5 | Meeting 1: Course Overview<br>Topic 1 Notebook: Introduction to Data<br>Topic 2 Notebook: Introduction to R | [Intro to R](https://agmath.github.io/IntroductoryStatistics/IntroToR_Slides.html) | Week 1 assignment due in BrightSpace<br>Submit notebook hash codes by 11:59pm on 9/5 |
 | **Week 2:** September 8 – 12 | Meeting 2: Review of Introductory notebooks, basics of Quarto, and preview of Exploratory Data Analysis (EDA)<br>Topic 3 Notebook: Descriptive Statistics<br>Topic 4 Notebook: Data Visualization | [Descriptive Statistics](https://agmath.github.io/IntroductoryStatistics/DescriptiveStatistics_Slides.html) <br/> [Data Visualization](https://agmath.github.io/IntroductoryStatistics/DataViz_Slides.html)| Submit notebook hash codes by 11:59pm on 9/12 |
