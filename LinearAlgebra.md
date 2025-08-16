@@ -82,7 +82,7 @@ Below will is a tentative timeline for our course. It includes a detailed set of
 | 22 |  | [$\S$ 4.2 - Finding Eigenvalues and Eigenvectors](https://colab.research.google.com/drive/100afzj2WgAiY00lrbcaUkih2_vvbMdgf?usp=sharing) <br/> ([Slides](https://agmath.github.io/LinearAlgebraCourse/Notes_Slides/D22_FindingEigenvectorsAndEigenvalues.html)) | Homework 11 (Cont'd) |
 | 23 |  | Group Exam II |  |
 | 24 |  | Individual Exam II |  |
-| 25 |  | [$\S$ 4.3 - Diagonalization, Similarity, and Powers of a Matrix](https://colab.research.google.com/drive/1ebmYyoODEDXiTb59vMIKT9SYe0Aw4Nhw?usp=sharing) | Homework 12 (Optional) |
+| 25 |  | [$\S$ 4.3 - Diagonalization, Similarity, and Powers of a Matrix](https://colab.research.google.com/drive/1ebmYyoODEDXiTb59vMIKT9SYe0Aw4Nhw?usp=sharing) <br/> ([Slides](https://agmath.github.io/LinearAlgebraCourse/Notes_Slides/D25_Diagonalization.html)) | Homework 12 (Optional) |
 | 26 |  | [$\S$ 4.4 - Dynamical Systems](https://colab.research.google.com/drive/1SEk377sz2S33F618fsA-bPHh_QOZgQYs?usp=sharing) <br/> ([In-Class Version](https://colab.research.google.com/drive/1zSdcpCGkZokPD1lU6LhnZ2cIoW3zTVy3?usp=sharing)) | Homework 13 (Optional) |
 | 27 |  | [$\S$ 4.5 - Markov Chains and Google's PageRank Algorithm](https://colab.research.google.com/drive/1pmCGIaAWupgjRNmpvQG57122iVd9sEHD?usp=sharing) | Homework 14 (Optional) |
 | 28 |  | Review |  |
