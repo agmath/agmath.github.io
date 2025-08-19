@@ -36,7 +36,7 @@ to do the vast majority of learning and work outside of class meetings.
 
 ### Course Timeline and Notebooks
 
-Below is a tentative timeline for our course. It includes a week by week summary of responsibilities.
+Below is a tentative timeline for our course. It includes a week by week summary of responsibilities. Several of the optional slide decks mention homework assignments and due dates in the closing. For this particular section, please ignore those and default to BrightSpace and/or the Items Due column in the table below.
 
 | Week | Activities | Discussion Slides (Optional) | Items Due |
 |------|------------|------------------|------------------|
