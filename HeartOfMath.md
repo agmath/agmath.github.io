@@ -22,7 +22,7 @@ pending student interest, current events, or for unexpected reasons.
 | Week(s) | Topic | Assignments and Due Dates |
 |---------------|-------------|--------------|
 | Weeks 1 - 3 | Acclimating, Individual Meetings, and Discussions of Prior Math Experiences | Mathematical Autobiography due Friday of Week Three |
-| Weeks 4 - 6 | Gerrymandering | Fair and Gerrymandered Maps along with individual *Highpoints and Hardships* reflections due Friday of Week Six |
+| Weeks 4 - 6 | Gerrymandering and Game Theory | Fair and Gerrymandered Maps and risk assessments along with individual *Highpoints and Hardships* reflections due Friday of Week Six |
 | Weeks 7 - 9 | Randomness and Games of Chance | Game prototype along with individeual *Highpoints and Hardships* reflections due Friday of Week Nine |
 | Weeks 10 - 14 | Generative Art | No-tech Gen-Art and Gen-Art with Python pieces along with *Highpoints and Hardships* reflections due Friday of Week Fourteen |
 | Weeks 15 - 16 | Portfolio Construction and Reflection | Portfolio due Friday of Week Sixteen |
