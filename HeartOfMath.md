@@ -7,7 +7,7 @@ description: Wanted! Curious sailers; no prior mathematical experience needed. <
 
 ## MAT 135 - The Heart of Mathematics
 
-<img src="/SiteFiles/HeartOfMathMap.png" align="left" width=200>**[[Tentative] Syllabus (Fall 2025)](https://drive.google.com/file/d/1kqFsdMCM04fz3_ajk49Sq1CmEi1m67B5/view?usp=sharing)**<br/>
+<img src="/SiteFiles/HeartOfMathMap.png" align="left" width=400>**[[Tentative] Syllabus (Fall 2025)](https://drive.google.com/file/d/1kqFsdMCM04fz3_ajk49Sq1CmEi1m67B5/view?usp=sharing)**<br/>
 <br/>
 ***Course Description:*** The Heart of Mathematics considers the history, mathematical beauty, and real world applications of a wide variety of topics.  This discussion-based course encourages "out-of-the-box" thinking to explore the connections between mathematics and the world around us.  Topics may include: patterns in nature, infinity, topology, geometry, networking, fractals, and chaos theory, among others.<br/>
 <br/>
