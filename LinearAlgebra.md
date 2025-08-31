@@ -41,7 +41,7 @@ MathJax = {
 <!-- Add text content next to the image -->
 <p style="margin: 0;">
   <a href="https://drive.google.com/file/d/1YF8NRdSParExTZtrjcerk577bGoildxJ/view">
-    <strong>Fall 2025 Syllabus</strong>
+    <strong>Syllabus (Fall 2025)</strong>
   </a>
 </p>
 
