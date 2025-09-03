@@ -33,35 +33,53 @@ MathJax = {
   </div>
 </div>
 
-<p> <strong>More About MAT440 (BIG Problems):</strong> This course is one of multiple that satisfies the *Culmination* requirement within the Commons/General Education program at Southern New Hampshire University. BIG Problems is a project-driven course in which teams of students act in a "consulting"-type role for a partnering agency, which could be a non-profit, government agency, municipality, for profit company, etc. That partnering agency will donate a problem for which they cannot devote internal resources to (or may not have the expertise for), but the solution to which would be truly beneficial.</p>
+<p><center><i>Solve problems that matter -- while working with real-world partners.</i></center></p>
 
-<p> student teams are responsible for meeting regularly (every two or three weeks) with a liaison from the partnering agency to report on their progress. At these meetings, student teams receive feedback on their approaches, guidance on adjustments or next steps, and also feedback on reporting technical results to business leaders. In between meetings with liaisons, student teams iterate on past progress, implement feedback, and extend their solutions.</p>
+<p> <strong>More About MAT440 (BIG Problems):</strong> MAT440 is one of several courses that satisfies the Culmination requirement in the Commons/General Education program at Southern New Hampshire University.
+</p>
 
-<p> Past projects have included 
+<p> BIG Problems is a project-driven course where teams of students act as consultants for a partnering organization. Partners may include non-profits, government agencies, municipalities, or companies. Each partner donates a problem that they either lack the internal resources or the expertise to solve — but solving it would make a real difference.
+</p>
+
+<p>Student teams meet every two to three weeks with a liaison from the partnering agency to report on their progress. In these meetings, teams:
+
++ Receive feedback on their approaches
++ Learn to adjust and refine their methods
++ Practice translating technical results into language that business and policy leaders can act on
+
+Between meetings, teams iterate, implement feedback, and push their solutions forward.
+</p>
+
+<p> <strong>Past projects have included:</strong>
   
-  + modeling dermal (skin) absorption of bromochloromethane, a harmful chemical which is present in some water supplies, in collaboration with the US EPA.
-  + modeling tumor growth, in collaboration with DEKA Research and Development.
-  + optimizing manufacturing processes under threat of rolling blackouts impacting major production facilities and distribution hubs, in collaboration with Proctor and Gamble's Operations Research and Data Science team.
-  + developing optimal wide area search strategies for unmanned arial vehicles (UAVs/drones), in conjunction with BAE Systems.
+  + Modeling dermal (skin) absorption of bromochloromethane, a harmful chemical which is present in some water supplies (partner: U.S. EPA).
+  + Modeling tumor growth (partner: DEKA Research and Development).
+  + Optimizing manufacturing processes under the threat of rolling blackouts (partner: Procter and Gamble).
+  + Developing optimal wide-area search strategies for UAVs and drones (partner: BAE Systems)
 </p>
 
-<p> <strong>Who Should Take MAT440 (BIG Problems):</strong> Any student interested in technical problem solving and communication. While BIG Problems is listed as a 400-level mathematics course, you do not need years of mathematics coursework in order to be successful here. In fact, the mathematics required for approaching a BIG problem will almost surely need to be learned along the way and will not come directly from prior coursework. The recommended prerequisite for MAT440 is any mathematics course at the 300-level or above, but this may be waived as a result of a meeting between an interested student and the instructor. Importantly, this course is open to students from all majors and to students from both the on-campus and on-line programs at SNHU -- BIG Problems teams benefit from diversity of backgrounds and experience.
+<p> <strong>Who Should Take MAT440?</strong> Any student interested in technical problem solving and communication! </p>
 
-> Contact Dr. Gilbert ([a.gilbert1@snhu.edu](mailto:a.gilber1@snhu.edu)) if you are interested in taking BIG Problems, but are unsure of whether the course is right for you.
+<p> While BIG Problems is listed as a 400-level mathematics course, you don’t need years of math coursework to succeed. In fact, most of the mathematics needed for approaching a BIG Problem will be learned along the way — not drawn from prior courses.
+
+  + <strong>Recommended prerequisite:</strong> any 300-level (or higher) mathematics course, but may be waived after a meeting with the instructor.
+  + <strong>Open to all majors and modalities.</strong> Students from both on-campus and online programs at SNHU are welcome. BIG Problems teams benefit from diverse backgrounds and experiences.
+</p>
+
+> Interested but unsure if this course is right for you? Contact Dr. Gilbert at [a.gilbert1@snhu.edu](mailto:a.gilber1@snhu.edu).
 
 </p>
 
-<p> <strong>Transferrable Skills Developed in MAT440 (BIG Problems):</strong> Students in the MAT440 course gain much more that knowledge specific to their problem domain. Students in the BIG Problems course may expect to gain 
+<p> <strong>Transferable Skills You'll Build in MAT440:</strong> Students gain more than knowledge in their specific project domain. By the end of the course, you will have developed skills that transfer directly to careers and graduate study, including:
 
-  + deep research skills.
-  + an ability to, and comfort with, attacking open-ended problems whose solutions are not unique and are not simply a matter of finding and applying the right formula.
-  + experience making and justifying assumptions and justifications in order to appropriately *scope* a big problem.
-  + experience in constructing transparent and reproducible solutions, analyses, and reports.
-  + experience working on teams, including geographically distributed teams when both UC (campus) and GC (online) students are enrolled in the course simultaneously.
-  + experience working with computing languages to design and construct solutions, simulations, etc. to address components of their problem.
-      + This may even involve operating on multi-lingual (computing language) teams.
-  + experience using version control systems like `git` via GitHub for collaboration, version control, documenting workflows, tracking and fixing issues, etc.
-  + expertise in both professional written and oral communication to "business" partners.
++ <strong>Research & problem solving:</strong> Tackling open-ended problems with no unique solution
++ <strong>Assumption-making & justification:</strong> Scoping large, complex problems responsibly
++ <strong>Transparency & reproducibility:</strong> Building solutions and reports that others can verify and build upon
++ <strong>Teamwork:</strong> Collaborating across disciplines, and sometimes across geographic distance (with both campus and online peers)
++ <strong>Computing skills:</strong> Using programming languages, simulations, and even working on multi-language teams
++ <strong>Version control (Git/GitHub):</strong> Collaborating, documenting workflows, and tracking progress like professionals do
++ <strong>Professional communication:</strong> Delivering polished written reports and compelling oral presentations to real-world business and government partners
+
 </p>
 
 ### Course Timeline
