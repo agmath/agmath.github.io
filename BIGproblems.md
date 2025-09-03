@@ -33,6 +33,37 @@ MathJax = {
   </div>
 </div>
 
+<p> <strong>More About MAT440 (BIG Problems):</strong> This course is one of multiple that satisfies the *Culmination* requirement within the Commons/General Education program at Southern New Hampshire University. BIG Problems is a project-driven course in which teams of students act in a "consulting"-type role for a partnering agency, which could be a non-profit, government agency, municipality, for profit company, etc. That partnering agency will donate a problem for which they cannot devote internal resources to (or may not have the expertise for), but the solution to which would be truly beneficial.</p>
+
+<p> student teams are responsible for meeting regularly (every two or three weeks) with a liaison from the partnering agency to report on their progress. At these meetings, student teams receive feedback on their approaches, guidance on adjustments or next steps, and also feedback on reporting technical results to business leaders. In between meetings with liaisons, student teams iterate on past progress, implement feedback, and extend their solutions.</p>
+
+<p> Past projects have included 
+  
+  + modeling dermal (skin) absorption of bromochloromethane, a harmful chemical which is present in some water supplies, in collaboration with the US EPA.
+  + modeling tumor growth, in collaboration with DEKA Research and Development.
+  + optimizing manufacturing processes under threat of rolling blackouts impacting major production facilities and distribution hubs, in collaboration with Proctor and Gamble's Operations Research and Data Science team.
+  + developing optimal wide area search strategies for unmanned arial vehicles (UAVs/drones), in conjunction with BAE Research and Development.
+</p>
+
+<p> <strong>Who Should Take MAT440 (BIG Problems):</strong> Any student interested in technical problem solving and communication. While BIG Problems is listed as a 400-level mathematics course, you do not need years of mathematics coursework in order to be successful here. In fact, the mathematics required for approaching a BIG problem will almost surely need to be learned along the way and will not come directly from prior coursework. The recommended prerequisite for MAT440 is any mathematics course at the 300-level or above, but this may be waived as a result of a meeting between an interested student and the instructor. Importantly, this course is open to students from all majors and to students from both the on-campus and on-line programs at SNHU -- BIG Problems teams benefit from diversity of backgrounds and experience.
+
+> Contact Dr. Gilbert ([a.gilbert1@snhu.edu](mailto:a.gilber1@snhu.edu)) if you are interested in taking BIG Problems, but are unsure of whether the course is right for you.
+
+</p>
+
+<p> <strong>Transferrable Skills Developed in MAT440 (BIG Problems):</strong> Students in the MAT440 course gain much more that knowledge specific to their problem domain. Students in the BIG Problems course may expect to gain 
+
+  + deep research skills.
+  + an ability to, and comfort with, attacking open-ended problems whose solutions are not unique and are not simply a matter of finding and applying the right formula.
+  + experience making and justifying assumptions and justifications in order to appropriately *scope* a big problem.
+  + experience in constructing transparent and reproducible solutions, analyses, and reports.
+  + experience working on teams, including geographically distributed teams when both UC (campus) and GC (online) students are enrolled in the course simultaneously.
+  + experience working with computing languages to design and construct solutions, simulations, etc. to address components of their problem.
+      + This may even involve operating on multi-lingual (computing language) teams.
+  + experience using version control systems like `git` via GitHub for collaboration, version control, documenting workflows, tracking and fixing issues, etc.
+  + expertise in both professional written and oral communication to "business" partners.
+</p>
+
 ### Course Timeline
 
 This is a project-driven course, so the schedule beyond the first few weeks will be shaped by your team's progress, liaison feedback, and research directions. Here's a tentative outline of the early sessions to get you started.
