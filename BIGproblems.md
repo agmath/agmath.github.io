@@ -35,52 +35,58 @@ MathJax = {
 
 <p><center><i>Solve problems that matter -- while working with real-world partners.</i></center></p>
 
-<p> <strong>More About MAT440 (BIG Problems):</strong> MAT440 is one of several courses that satisfies the Culmination requirement in the Commons/General Education program at Southern New Hampshire University.
+#### More About MAT440 (BIG Problems)
+
+<p>MAT440 is one of several courses that satisfies the <i>Culmination</i>i> requirement in the Commons/General Education program at Southern New Hampshire University.
 </p>
 
 <p> BIG Problems is a project-driven course where teams of students act as consultants for a partnering organization. Partners may include non-profits, government agencies, municipalities, or companies. Each partner donates a problem that they either lack the internal resources or the expertise to solve — but solving it would make a real difference.
 </p>
 
 <p>Student teams meet every two to three weeks with a liaison from the partnering agency to report on their progress. In these meetings, teams:
+</p>
 
-+ Receive feedback on their approaches
-+ Learn to adjust and refine their methods
-+ Practice translating technical results into language that business and policy leaders can act on
+  + Receive feedback on their approaches
+  + Learn to adjust and refine their methods
+  + Practice translating technical results into language that business and policy leaders can act on
 
-Between meetings, teams iterate, implement feedback, and push their solutions forward.
+<p>Between meetings, teams iterate, implement feedback, and push their solutions forward.
 </p>
 
 <p> <strong>Past projects have included:</strong>
+</p>
   
   + Modeling dermal (skin) absorption of bromochloromethane, a harmful chemical which is present in some water supplies (partner: U.S. EPA).
   + Modeling tumor growth (partner: DEKA Research and Development).
   + Optimizing manufacturing processes under the threat of rolling blackouts (partner: Procter and Gamble).
   + Developing optimal wide-area search strategies for UAVs and drones (partner: BAE Systems)
-</p>
 
-<p> <strong>Who Should Take MAT440?</strong> Any student interested in technical problem solving and communication! </p>
+#### Who Should Take MAT440? 
+
+<p>Any student interested in technical problem solving and communication! </p>
 
 <p> While BIG Problems is listed as a 400-level mathematics course, you don’t need years of math coursework to succeed. In fact, most of the mathematics needed for approaching a BIG Problem will be learned along the way — not drawn from prior courses.
+</p>
 
   + <strong>Recommended prerequisite:</strong> any 300-level (or higher) mathematics course, but may be waived after a meeting with the instructor.
   + <strong>Open to all majors and modalities.</strong> Students from both on-campus and online programs at SNHU are welcome. BIG Problems teams benefit from diverse backgrounds and experiences.
-</p>
+
 
 > Interested but unsure if this course is right for you? Contact Dr. Gilbert at [a.gilbert1@snhu.edu](mailto:a.gilber1@snhu.edu).
 
+
+#### Transferable Skills You'll Build in MAT440
+
+<p>Students gain more than knowledge in their specific project domain. By the end of the course, you will have developed skills that transfer directly to careers and graduate study, including:
 </p>
 
-<p> <strong>Transferable Skills You'll Build in MAT440:</strong> Students gain more than knowledge in their specific project domain. By the end of the course, you will have developed skills that transfer directly to careers and graduate study, including:
-
-+ <strong>Research & problem solving:</strong> Tackling open-ended problems with no unique solution
-+ <strong>Assumption-making & justification:</strong> Scoping large, complex problems responsibly
-+ <strong>Transparency & reproducibility:</strong> Building solutions and reports that others can verify and build upon
-+ <strong>Teamwork:</strong> Collaborating across disciplines, and sometimes across geographic distance (with both campus and online peers)
-+ <strong>Computing skills:</strong> Using programming languages, simulations, and even working on multi-language teams
-+ <strong>Version control (Git/GitHub):</strong> Collaborating, documenting workflows, and tracking progress like professionals do
-+ <strong>Professional communication:</strong> Delivering polished written reports and compelling oral presentations to real-world business and government partners
-
-</p>
+  + <strong>Research & problem solving:</strong> Tackling open-ended problems with no unique solution
+  + <strong>Assumption-making & justification:</strong> Scoping large, complex problems responsibly
+  + <strong>Transparency & reproducibility:</strong> Building solutions and reports that others can verify and build upon
+  + <strong>Teamwork:</strong> Collaborating across disciplines, and sometimes across geographic distance (with both campus and online peers)
+  + <strong>Computing skills:</strong> Using programming languages, simulations, and even working on multi-language teams
+  + <strong>Version control (Git/GitHub):</strong> Collaborating, documenting workflows, and tracking progress like professionals do
+  + <strong>Professional communication:</strong> Delivering polished written reports and compelling oral presentations to real-world business and government partners
 
 ### Course Timeline
 
