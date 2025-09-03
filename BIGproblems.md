@@ -37,7 +37,7 @@ MathJax = {
 
 #### More About MAT440 (BIG Problems)
 
-<p>MAT440 is one of several courses that satisfies the <i>Culmination</i>i> requirement in the Commons/General Education program at Southern New Hampshire University.
+<p>MAT440 is one of several courses that satisfies the <i>Culmination</i> requirement in the Commons/General Education program at Southern New Hampshire University.
 </p>
 
 <p> BIG Problems is a project-driven course where teams of students act as consultants for a partnering organization. Partners may include non-profits, government agencies, municipalities, or companies. Each partner donates a problem that they either lack the internal resources or the expertise to solve — but solving it would make a real difference.
