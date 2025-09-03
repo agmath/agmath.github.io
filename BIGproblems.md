@@ -42,7 +42,7 @@ MathJax = {
   + modeling dermal (skin) absorption of bromochloromethane, a harmful chemical which is present in some water supplies, in collaboration with the US EPA.
   + modeling tumor growth, in collaboration with DEKA Research and Development.
   + optimizing manufacturing processes under threat of rolling blackouts impacting major production facilities and distribution hubs, in collaboration with Proctor and Gamble's Operations Research and Data Science team.
-  + developing optimal wide area search strategies for unmanned arial vehicles (UAVs/drones), in conjunction with BAE Research and Development.
+  + developing optimal wide area search strategies for unmanned arial vehicles (UAVs/drones), in conjunction with BAE Systems.
 </p>
 
 <p> <strong>Who Should Take MAT440 (BIG Problems):</strong> Any student interested in technical problem solving and communication. While BIG Problems is listed as a 400-level mathematics course, you do not need years of mathematics coursework in order to be successful here. In fact, the mathematics required for approaching a BIG problem will almost surely need to be learned along the way and will not come directly from prior coursework. The recommended prerequisite for MAT440 is any mathematics course at the 300-level or above, but this may be waived as a result of a meeting between an interested student and the instructor. Importantly, this course is open to students from all majors and to students from both the on-campus and on-line programs at SNHU -- BIG Problems teams benefit from diversity of backgrounds and experience.
