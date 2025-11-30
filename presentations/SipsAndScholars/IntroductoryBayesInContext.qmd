@@ -1,0 +1,546 @@
+---
+title: "Introductory Bayes in Context"
+subtitle: "*Sips and Scholars* at SNHU"
+date: today
+date-format: long
+format:
+  revealjs:
+    fontsize: 24pt
+    theme: sky
+    incremental: true
+author:
+  - name: Adam Gilbert
+    affiliation: Southern New Hampshire University
+---
+
+## Grant & Collaboration Acknowledgements
+
++ Supported by NSF IUSE:EHR awards: `2215879`, `2215920`, `2215709`
++ Collaborators:
+  + Jingchen (Monika) Hu — SUNY Binghamton (Co-PI & Mentor)
+  + Laura Lambert — James Madison University (Context-Free Design)
+  + Katie Duryea — Southern New Hampshire University (Chytrid Context Co-Developer)
+  + ***You?***
+
+## The Statistics Wars
+
++ Classical inference, assuming probability distributions and the Central Limit Theorems
++ Randomization and simulation methods  
++ Bayesian reasoning and updating
+
+## Why *Not* Bayes (Traditionally)
+
+. . . 
+
+::::{.columns}
+
+:::{.column width="40%"}
+
+<br/>
+<br/>
+
+<div style="font-size:20pt">
+
+$$\mathbb{P}\left[\theta\mid \text{data}\right] = \frac{\mathbb{P}\left[\text{data}\mid \theta\right]\cdot\mathbb{P}\left[\theta\right]}{\mathbb{P}\left[\text{data}\right]}$$
+
+</div>
+
+:::
+
+:::{.column width="60%"}
+
+:::
+
+::::
+
+## Why *Not* Bayes (Traditionally)
+
+::::{.columns}
+
+:::{.column width="40%"}
+
+<br/>
+<br/>
+
+<div style="font-size:20pt">
+
+$$\mathbb{P}\left[\theta\mid \text{data}\right] = \frac{\mathbb{P}\left[\text{data}\mid \theta\right]\cdot\mathbb{P}\left[\theta\right]}{\mathbb{P}\left[\text{data}\right]}$$
+
+</div>
+
+<br/>
+
+***
+
+<br/>
+
+<div style="font-size:18pt">
+
+\begin{align} Y_i\mid \mu &\substack{\text{ind}\\ \sim} N\left(\mu, \sigma^2\right)\\ 
+\mu &\sim N\left(\theta, \tau^2\right)\\
+\mu \mid \vec{y} &\sim N\left(\theta\frac{\sigma^2}{n\tau^2 + \sigma^2} + \bar{y} \frac{n\tau^2}{n\tau^2 + \sigma^2}, \frac{\tau^2\sigma^2}{n\tau^2 + \sigma^2}\right)
+\end{align}
+
+</div>
+
+:::
+
+:::{.column width="60%"}
+
+:::
+
+::::
+
+## Why *Not* Bayes (Traditionally)
+
+::::{.columns}
+
+:::{.column width="40%"}
+
+<br/>
+<br/>
+
+<div style="font-size:20pt">
+
+$$\mathbb{P}\left[\theta\mid \text{data}\right] = \frac{\mathbb{P}\left[\text{data}\mid \theta\right]\cdot\mathbb{P}\left[\theta\right]}{\mathbb{P}\left[\text{data}\right]}$$
+
+</div>
+
+<br/>
+
+***
+
+<br/>
+
+<div style="font-size:18pt">
+
+\begin{align} Y_i\mid \mu &\substack{\text{ind}\\ \sim} N\left(\mu, \sigma^2\right)\\ 
+\mu &\sim N\left(\theta, \tau^2\right)\\
+\mu \mid \vec{y} &\sim N\left(\theta\frac{\sigma^2}{n\tau^2 + \sigma^2} + \bar{y} \frac{n\tau^2}{n\tau^2 + \sigma^2}, \frac{\tau^2\sigma^2}{n\tau^2 + \sigma^2}\right)
+\end{align}
+
+</div>
+
+:::
+
+:::{.column width="60%"}
+
+```{r}
+#| echo: true
+#| eval: false
+
+gibbs_normal <- function(input, S, seed){
+  set.seed(seed)
+  ybar <- mean(input$y)
+  n <- length(input$y)
+  para <- matrix(0, S, 2)
+  phi <- input$phi_init
+  for(s in 1:S){
+    theta1 <- (input$theta/input$tau^2 + n*phi*ybar)/
+    (1/input$tau^2 + n*phi)
+    tau1 <- sqrt(1/(1/input$tau^2 + n*phi))
+    mu <- rnorm(1, mean = theta1, sd = tau1)
+    alpha1 <- input$alpha + n/2
+    beta1 <- input$beta + sum((input$y - mu)^2)/2 
+    phi <- rgamma(1, shape = alpha1, rate = beta1)
+    para[s, ] <- c(mu, phi)
+  }
+  return(para)
+}
+```
+
+:::
+
+::::
+
+## Why Bayes *Is Still Worth It*
+
++ Humans already **intuitively** think in Bayesian ways
++ Bayesian thinking aligns with how we interact with the world around us
++ Bayesian updating is transparent and simulation-friendly
++ Interpretations resulting from Bayesian approaches are much more natural than from the other methods
+
+. . . 
+
+**Summary:** While the details are complex and technical, the process and how to interpret results is intuitive
+
+## Project Goals
+
+. . .
+
+Create **low-barrier**, **context-flexible** activities that:
+
++ Expose students to foundational Bayesian ideas within their home disciplines
++ Are adaptable to applications meaningful to students in **any discipline**  
++ Are easy for faculty to adopt or tailor 
++ Require no technical setup for class use
++ Support several Bayesian skills:
+
+  + Parameter estimation  
+  + Hypothesis testing  
+  + Introductory modeling  
+
+## *Introductory Bayes in Context*
+
+. . . 
+
+A set of **modular, context-free Bayesian activities**  
+
++ providing a framework for **overlaying any context**
++ so faculty can give students discipline-relevant Bayesian experiences without needing to design a full workflow from scratch.
+
+## Sample Activity: [Chytrid Fungal Infection in Frogs (with Katie Duryea)](https://agmath.github.io/IntroductoryBayesInContext/act1_bio_chytrid_v2.html){target="_blank"}
+
+::::{.columns}
+
+:::{.column width="80%"}
+
+<div style="font-size:20pt">
+
++ Authentic story and data from biology
++ Real-world ecological implications
++ Natural framing for uncertainty and updating
+
+</div>
+
+:::
+
+:::{.column width="20%"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/QRcode_chytrid.png)
+
+:::
+
+::::
+
+. . .
+
+<div style="font-size:20pt">
+
+Students can:
+
++ Explore disease prevalence  
++ Adjust priors based on frogs observed and processed by SNHU students and faculty
++ Interpret posterior changes in terms of **biological meaning**
+
+</div>
+
+## *Introductory Bayes in Context (Chytrid Fungus)*
+
+
+::::{.columns}
+
+:::{.column width="30%"}
+
+:::{.fragment data-fragment-index="1"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/embed_media.png)
+
+:::
+
+:::{.fragment data-fragment-index="3"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/moderate_prior_posterior.png)
+
+:::
+
+:::
+
+:::{.column width="30%"}
+
+:::{.fragment data-fragment-index="2"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/uniform_prior_posterior.png)
+
+:::
+
+:::{.fragment data-fragment-index="4"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/strong_prior_posterior.png)
+
+:::
+
+:::
+
+:::{.column width="40%"}
+
+:::{.fragment data-fragment-index="5"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/interactive_code.png)
+
+:::
+
+:::{.fragment data-fragment-index="6"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/reflection_question.png)
+
+:::
+
+:::
+
+::::
+
+## A Quick Look: [The Context-Free Activity](https://agmath.github.io/Bayes-BATS-tier2/ContextFreeActivity1_v2.html){target="_blank"}
+
+::::{.columns}
+
+:::{.column width="80%"}
+
++ Nearly complete
++ Purple text $\longrightarrow$ "update this"
+
+
+:::
+
+:::{.column width="20%"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/QRcode_NoContext.png)
+
+:::
+
+::::
+
+. . .
+
+::::{.columns}
+
+:::{.column width="75%"}
+![](https://agmath.github.io/SiteFiles/BayesImages/objectives_free.png)
+:::
+
+::::
+
+. . .
+
+::::{.columns}
+
+:::{.column width="75%"}
+<center> $\downarrow$ </center>
+:::
+
+::::
+
+. . . 
+
+::::{.columns}
+
+:::{.column width="75%"}
+![](https://agmath.github.io/SiteFiles/BayesImages/objectives_bio.png)
+:::
+
+::::
+
+## A Quick Look: [The Context-Free Activity](https://agmath.github.io/Bayes-BATS-tier2/ContextFreeActivity1_v2.html){target="_blank"}
+
+::::{.columns}
+
+:::{.column width="80%"}
+
+:::{.nonincremental}
+
++ Nearly complete
++ Purple text $\longrightarrow$ "update this"
+
+:::
+
+:::
+
+:::{.column width="20%"}
+
+![](https://agmath.github.io/SiteFiles/BayesImages/QRcode_NoContext.png)
+
+:::
+
+::::
+
+::::{.columns}
+
+:::{.column width="48%"}
+:::{.fragment data-fragment-index="1"}
+<br/>
+![](https://agmath.github.io/SiteFiles/BayesImages/content_free.png)
+:::
+:::
+
+:::{.column width="4%"}
+:::{.fragment data-fragment-index="2"}
+<br/>
+<br/>
+<br/>
+<center> $\rightarrow$ </center>
+:::
+:::
+
+:::{.column width="48%"}
+:::{.fragment data-fragment-index="3"}
+![](https://agmath.github.io/SiteFiles/BayesImages/content_bio.png)
+:::
+:::
+
+::::
+
+## How It All Works
+
++ Foundational Bayesian and statistics workflows are unchanged -- use data to update our prior assumptions about a population parameter.
++ The context overlay is completely customizable though...
+
+  + Limited pre-reading about the context and method
+  + Images, videos, and other embedded media
+  + Discipline-specific background and objectives to keep content coverage moving along
+  + Discipline-relevant justifications, interpretations, and more
+  + Adaptations to question framing
+
++ The result is a single activity with many possible discipline-specific, and truly relevant versions
+
+## How It Works (In Practice)
+
+::::{.columns}
+
+:::{.column width="60%"}
+
+1. Identify the discipline-specific story
+2. Swap in:
+   + A few short text blocks  
+   + The contextual images, videos, or other media  
+   + A small set of prompts relevant to your class objectives and students
+4. Publish using GitHub Pages
+
+:::
+
+:::{.column width="40%"}
+
+
+:::
+
+::::
+
+## How It Works (In Practice)
+
+::::{.columns}
+
+:::{.column width="60%"}
+
+:::{.nonincremental}
+
+1. Identify the discipline-specific story
+2. Swap in:
+   + A few short text blocks  
+   + The contextual images, videos, or other media  
+   + A small set of prompts relevant to your class objectives and students
+4. Publish using GitHub Pages
+
+:::
+
+:::
+
+:::{.column width="40%"}
+
+Faculty do **not** need:
+
++ Bayesian expertise  
++ Git expertise  
++ Coding experience  
+
+:::
+
+::::
+
+. . .
+
+::::{.columns}
+
+:::{.column width="60%"}
+
+:::
+
+:::{.column width="40%"}
+
+Because…
+
+:::
+
+::::
+
+## How To Make It Yours
+
+**1. Easiest:** Co-develop with Adam
+
++ You describe your context  
++ We build a draft together, replacing the purple text
++ You review and tailor  
++ I'll update the activity and host it on the web -- you just give the students the link and use it!
+
+**2. Most Flexible:** Independently develop it with support when needed
+
++ [Clone the repo](https://github.com/agmath/IntroductoryBayesInContext){target="_blank"}  
++ Edit the activity file
++ Publish via GitHub Pages
++ Documentation provided in the repo
+
+## Ways We’ve Already Used The Activities
+
++ In-class activity for courses without a specific focus on statistics  
++ Accepted Student Day outreach
+
+  + Get students actively involved
+  + Expose prospective students to ongoing faculty research and undergraduate research opportunities
+  + Give visitors insight into the real work we do here and the opportunities that await them
+
+## What Could *You* Do With This?
+
+. . . 
+
+The best ideas are ***yours***, but here are some I have floating around
+
++ Unemployment rates  
++ Marshmallow test & behavior  
++ Recidivism  
++ Nutrition
++ Political polling
++ Medical or public-health examples
++ Business sales or forecasting
+
+## Final Thoughts
+
+. . .
+
+<center>
+Your students already reason in Bayesian ways.  
+</center>
+
+. . .
+
+<center>
+
+The [*Introductory Bayes in Context* activities](https://agmath.github.io/IntroductoryBayesInContext/) give them the tools
+
+</center>
+
+. . . 
+
+<center>
+
+-- and the context -- 
+
+</center>
+
+. . .
+
+<center>
+
+to recognize it, think critically about prior beliefs and uncertainty, and to apply these ideas inside of scenarios they care about.
+
+</center>
+
+. . . 
+
+**Interested in Co-Developing?**
+
+:::{.nonincremental}
+
++ Let’s chat! 
++ I’d love to help you build a context for your discipline.
+
+:::
+
+<center><div style="font-size:36pt">Thank You!</div></center>
