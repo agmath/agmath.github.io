@@ -158,6 +158,7 @@ gibbs_normal <- function(input, S, seed){
 + Humans already **intuitively** think in Bayesian ways
 + Bayesian thinking aligns with how we interact with the world around us
 + Bayesian updating is transparent and simulation-friendly
++ Coding has gotten much easier and is broadly accessible
 + Interpretations resulting from Bayesian approaches are much more natural than from the other methods
 
 . . . 
