@@ -169,7 +169,7 @@ gibbs_normal <- function(input, S, seed){
 
 . . .
 
-Create **low-barrier**, **context-flexible** activities that:
+Create **no/low-barrier**, **context-flexible** activities that:
 
 + Expose students to foundational Bayesian ideas within their home disciplines
 + Are adaptable to applications meaningful to students in **any discipline**  
@@ -185,7 +185,7 @@ Create **low-barrier**, **context-flexible** activities that:
 
 . . . 
 
-A set of **modular, context-free Bayesian activities**  
+A set of **modular, context-free Bayesian statistics activities**  
 
 + providing a framework for **overlaying any context**
 + so faculty can give students discipline-relevant Bayesian experiences without needing to design a full workflow from scratch.
@@ -220,7 +220,8 @@ A set of **modular, context-free Bayesian activities**
 
 Students can:
 
-+ Explore disease prevalence  
++ Explore disease prevalence
++ Make and explore their own choices and beliefs (priors)
 + Adjust priors based on frogs observed and processed by SNHU students and faculty
 + Interpret posterior changes in terms of **biological meaning**
 
@@ -288,6 +289,7 @@ Students can:
 :::{.column width="80%"}
 
 + Nearly complete
++ Almost identical across contexts
 + Purple text $\longrightarrow$ "update this"
 
 
