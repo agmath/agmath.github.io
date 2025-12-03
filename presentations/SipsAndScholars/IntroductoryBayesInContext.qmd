@@ -130,6 +130,7 @@ $$\mathbb{P}\left[\theta\mid \text{data}\right] = \frac{\mathbb{P}\left[\text{da
 ***
 
 <br/>
+<br/>
 
 <div style="font-size:18pt">
 
