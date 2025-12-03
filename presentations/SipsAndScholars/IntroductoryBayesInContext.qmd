@@ -516,7 +516,8 @@ The best ideas are ***yours***, but here are some I have floating around
 
 + Unemployment rates  
 + Marshmallow test & behavior  
-+ Recidivism  
++ Recidivism
++ Trolley problems
 + Nutrition
 + Political polling
 + Medical or public-health examples
