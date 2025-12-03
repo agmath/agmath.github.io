@@ -37,7 +37,7 @@ a:visited {
 + Supported by NSF IUSE:EHR awards: `2215879`, `2215920`, `2215709`
 + Collaborators:
   + Jingchen (Monika) Hu — SUNY Binghamton (Co-PI & Mentor)
-  + Laura Lambert — James Madison University (Context-Free Design)
+  + Laura Lambert — James Madison University (Project Co-Developer)
   + Katie Duryea — Southern New Hampshire University (Chytrid Context Co-Developer)
   + ***You?***
 
