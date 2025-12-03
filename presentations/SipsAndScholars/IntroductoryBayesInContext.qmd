@@ -13,6 +13,25 @@ author:
     affiliation: Southern New Hampshire University
 ---
 
+```{css}
+code.sourceCode {
+  font-size: 1.3em;
+  /* or try font-size: xx-large; */
+}
+
+a {
+  color: purple;
+}
+
+a:link {
+  color: purple;
+}
+
+a:visited {
+  color: purple;
+}
+```
+
 ## Grant & Collaboration Acknowledgements
 
 + Supported by NSF IUSE:EHR awards: `2215879`, `2215920`, `2215709`
