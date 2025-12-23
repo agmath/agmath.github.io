@@ -41,11 +41,12 @@ All the materials you find on this site are free to use; I hope you find them us
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](OldCourses.md), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
-### Teaching (Fall 2025)
+### Teaching (Spring 2026)
 
-+ [MAT241 - Modern Statistics with Software](StatsWithR_Hybrid.md) (Hybrid)
-+ [MAT350 - Applied Linear Algebra](LinearAlgebra.md)
++ [MAT241 - Modern Statistics with Software](StatsWithR.md)
++ [MAT300 - Regression Analysis](RegressionCourse.md)
 + [MAT370 - Numerical Analysis](NumericalAnalysis.md)
++ [MAT440 - BIG Problems](BIGproblems.md)
 
 ### Course Information from Previous Semesters
 
