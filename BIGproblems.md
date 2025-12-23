@@ -27,7 +27,7 @@ MathJax = {
   <div style="display: flex; align-items: center; max-width: 75%;">
     <img src="/SiteFiles/octocat_drip.jpg" alt="GitHub OctoCat Dripping After Swimming" style="width: 200px; margin-right: 20px;">
     <div>
-      <p style="margin: 0;"><a href="https://drive.google.com/file/d/1dpKgoDG4p24jO0MiYis4J9pmOrj-OqcK/view?usp=sharing"><strong>Draft Syllabus</strong> (Subject to Change)</a></p>
+      <p style="margin: 0;"><a href="https://drive.google.com/file/d/1T0mIZdOkO8RoJcdDEfw6GR39Ck2SRgPR/view?usp=sharing"><strong>Draft Syllabus</strong> (Subject to Change)</a></p>
       <p style="margin: 0;"><strong>Course Description:</strong> BIG Problems in Mathematics will engage students with research problems in the areas of Business, Industry, and Government (BIG) agencies. Through the course of the semester, students will work toward a solution to a single or series of problems posed by BIG liaisons, concluding with a final written report and video presentation to the sponsoring agency. Specific course topics will change depending on the needs of the sponsoring agency.</p>
     </div>
   </div>
