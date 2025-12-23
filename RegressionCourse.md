@@ -19,7 +19,7 @@ description: This is a homepage for MAT300, Regression Analysis, with Dr. Gilber
 
 ## MAT 300 - Applied Statistics II: Regression Analysis
 
-<img src="/SiteFiles/ISLR.png" align="left" width=200>[**Syllabus (Fall 2024)**](https://drive.google.com/file/d/1-M9dAIoaSOyklfQAKeZlG3317rqhFD2k/view?usp=sharing)<br/>
+<img src="/SiteFiles/ISLR.png" align="left" width=200>[**Syllabus (Fall 2024)**](https://drive.google.com/file/d/1_joQLdjQI-f-BtylHESUgoiVndMlAWXh/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This is a second course in statistics that builds upon knowledge gained in an introductory statistics course that covers statistical inference. Students will learn to build statistical models and develop skills for implementing regression analysis in real-world problems from engineering, sociology, psychology, science and business. Topics include multiple regression models (including first-order, second-order and interaction models with quantitative and qualitative variables), regression pitfalls, and residual analysis. Additional topics will be covered if time permits. Students will gain experience not only in the mechanics of regression analysis (often by means of a statistical software package) but also in deciding on appropriate models, selecting inferential techniques to answer a particular question, interpreting results and diagnosing problems.<br/>
 <br/>
