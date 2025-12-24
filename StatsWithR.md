@@ -17,11 +17,11 @@ description: This is a homepage for MAT241, Modern Statistics with Software, wit
 
 ## MAT 241 - Modern Statistics with Software (R)
 
-<img src="/SiteFiles/OIstats.jpg" align="left" width=200>[**Syllabus (Spring 2025)**](https://drive.google.com/file/d/11PBn-bwYvuEowiHy-eWwZE0yq_yPfZiV/view?usp=sharing)<br/>
+<img src="/SiteFiles/OIstats.jpg" align="left" width=200>[**Syllabus (Spring 2026)**](https://drive.google.com/file/d/1WlUiSTQs0XvUa_BqwwBVDVojSaW50YvS/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This is a fundamental course in modern-day data, data visualization, and the application of statistical techniques to analyze and make inferences from sample data. In a world where data is being constantly collected, it is necessary for individuals to be data literate, to have exposure to the power of data, and to understand as well as practice proper and ethical analyses with data. In a world where data has become abundant, rather than scarce, statistical tools are evolving. This course looks at modern statistical techniques in the age of "Big-Data".<br/>
 <br/>
-*Students in this course should expect to use R via RStudio either using [Posit.cloud](https://posit.cloud/) or a local installation of R and RStudio if you wish. The notebooks and all required packages are pre-loaded at [this Posit.cloud workspace](https://posit.cloud/content/7284986), which can be copied once you are logged in with your own free account. Students will work through scripted workbooks outside of class meetings (more on this below) and then will get their hands dirty, working with real data during class time. Applications will vary according to student and instructor interests.*<br/>
+**Software Use:** Students in this course should expect to use R and RStudio locally. I’ve written [setup instructions](https://agmath.github.io/IntroductoryStatistics/AccessingInteractiveNotes.html) for all required software and packages for this course. If you are a student planning to complete this course with a Chromebook or tablet, then you may create a [Posit Cloud](https://posit.cloud/) account and copy [this pre-built Posit Cloud Workspace](https://posit.cloud/content/7284986) to utilize R and RStudio from a web-browser.<br/>
 <br/>
 Still not quite sure what to expect? Check out [this in-browser version of the Day 1 Material](https://agmath.github.io/WebRtutorials/MAT241_Intro.html)
 
@@ -31,7 +31,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | [Review Syllabus](https://drive.google.com/file/d/11PBn-bwYvuEowiHy-eWwZE0yq_yPfZiV/view?usp=sharing) <br/> Create [Posit.cloud](posit.cloud) account and [access materials](https://posit.cloud/content/7284986) | Introduction and What to Expect <br/> Troubleshooting <br/> Data Exploration ([html](https://agmath.github.io/IntroductoryStatistics/Day1_DataExploration.html), or [Quarto](https://www.github.com/agmath/IntroductoryStatistics/blob/main/Day1_DataExploration.qmd)) |  |
+| 1 | [Review Syllabus](https://drive.google.com/file/d/11PBn-bwYvuEowiHy-eWwZE0yq_yPfZiV/view?usp=sharing) <br/> [Setup Software](https://agmath.github.io/IntroductoryStatistics/AccessingInteractiveNotes.html) | Introduction and What to Expect <br/> Troubleshooting <br/> Data Exploration ([html](https://agmath.github.io/IntroductoryStatistics/Day1_DataExploration.html), or [Quarto](https://www.github.com/agmath/IntroductoryStatistics/blob/main/Day1_DataExploration.qmd)) |  |
 | 2 | `01_IntroToData` | Austin Housing Dataset ([html](https://agmath.github.io/IntroductoryStatistics/Days2to5_AustinHousingData.html) or [Quarto](https://www.github.com/agmath/IntroductoryStatistics/blob/main/Days2to5_AustinHousingData.qmd)) | MyOpenMath HW 1 |
 | 3 | `02_IntroToR` | Getting Familiar with R <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/IntroToR_Slides.html) |  |
 | 4 | `03_DescriptiveNumCat` | Exploring and Describing Data <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DescriptiveStatistics_Slides.html) | MyOpenMath HW 2 |
