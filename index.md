@@ -23,7 +23,7 @@ title: Welcome
   <div style="display: flex; align-items: center; max-width: 60%;">
     <img src="/SiteFiles/headshot.jpeg" alt="Headshot" width="150" style="margin-right: 20px;">
     <div>
-      <p style="margin: 0;"><strong>Full Professor of Mathematics</strong></p>
+      <p style="margin: 0;"><strong>Professor of Mathematics</strong></p>
       <p style="margin: 0;">email: a.gilbert1 [at] snhu [dot] edu</p>
       <p style="margin: 0;">
         View My:
