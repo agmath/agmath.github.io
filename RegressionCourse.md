@@ -19,7 +19,7 @@ description: This is a homepage for MAT300, Regression Analysis, with Dr. Gilber
 
 ## MAT 300 - Applied Statistics II: Regression Analysis
 
-<img src="/SiteFiles/ISLR.png" align="left" width=200>[**Syllabus (Fall 2024)**](https://drive.google.com/file/d/1_joQLdjQI-f-BtylHESUgoiVndMlAWXh/view?usp=sharing)<br/>
+<img src="/SiteFiles/ISLR.png" align="left" width=200>[**Syllabus (Spring 2026)**](https://drive.google.com/file/d/1_joQLdjQI-f-BtylHESUgoiVndMlAWXh/view?usp=sharing)<br/>
 <br/>
 ***Course Description:*** This is a second course in statistics that builds upon knowledge gained in an introductory statistics course that covers statistical inference. Students will learn to build statistical models and develop skills for implementing regression analysis in real-world problems from engineering, sociology, psychology, science and business. Topics include multiple regression models (including first-order, second-order and interaction models with quantitative and qualitative variables), regression pitfalls, and residual analysis. Additional topics will be covered if time permits. Students will gain experience not only in the mechanics of regression analysis (often by means of a statistical software package) but also in deciding on appropriate models, selecting inferential techniques to answer a particular question, interpreting results and diagnosing problems.<br/>
 <br/>
@@ -31,7 +31,7 @@ Students in this course will use R, in particular the `{tidyverse}` and `{tidymo
 
 Below is a tentative timeline for our course. It includes preparatory work that should be done prior to each class meeting, a detailed set of notes corresponding to each class meeting, and assignments following each class meeting. The prepared notebooks use the Palmer `penguins` and `ames` housing datasets and are provided so that you have a detailed account of each topic we discuss. We'll learn this content better by *doing* it that we will by simply *reading* and *running* pre-existing code, so we'll plan to utilize different data in class. For now, I'm planning to start with [this data set](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-07-05) on rental properties in the San Francisco Bay Area posted to Craigslist, generously made open by [Dr. Kate Pennington](https://www.katepennington.org/data). We can switch to alternate data sets as student interest dictates. I've prepared the following **student notes template** ([html](https://agmath.github.io/RegressionCourse/StudentNotesTemplate.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/StudentNotesTemplate.qmd)) that I hope you'll use to follow along during our in-class discussions. <br/>
 
-**A Note on the Slide Decks:** I built these slides to be displayed as a split-screen, alongside an open RStudio session. In this way, you can play along by building your own analysis with a different data set (or the same one, if you prefer). If you try displaying the slides across your full screen, the content will flow off the bottom of the page.
+**A Note on the Slide Decks:** I built these slides to be displayed as a split-screen, alongside an open RStudio session. In this way, you can play along by building your own analysis with a different data set (or the same one, if you prefer). If you try displaying the slides across your full screen, the content may flow off the bottom of the page.
 
 | Class Meeting | Before Class | During Class | Slides | After Class |
 |---------------|--------------|--------------|-------------|-------------|
@@ -51,16 +51,16 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 14 |  | Higher-Order Terms: <br/> Curvi-Linear Regression and Polynomial Terms with `step_poly()` ([html](https://agmath.github.io/RegressionCourse/13d_HigherOrderTerms_Polynomial.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/13d_HigherOrderTerms_Polynomial.qmd)) | [Companion Slides](https://agmath.github.io/RegressionCourse/13d_IntroSlides.html) | [Competition Assignment 5](https://agmath.github.io/RegressionCourse/CA5_HigherOrderModel_SubmitPredictions.html) |
 | 15 |  | Higher-Order Terms: <br/> Interaction with `step_interact()` ([html](https://agmath.github.io/RegressionCourse/14d_HigherOrderTerms_Interaction.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/14d_HigherOrderTerms_Interaction.qmd)) | [Companion Slides](https://agmath.github.io/RegressionCourse/14d_IntroSlides.html) |  |
 | 16 |  | Inference and Interpretation with `{marginaleffects}` | [Companion Slides](https://agmath.github.io/RegressionCourse/16d_IntroSlides.html) |  |
-| 17 |  | Halloween Modeling Competition <br/> (In Class, 75-minutes) |  |  |
+| 17 |  | St. Patrick's Day Modeling Competition <br/> (In Class, 75-minutes) |  |  |
 | 18 | [Read ISLR $\S$ 2.2](https://youtu.be/VaN1RUDuioQ) | Bias/Variance Trade-Off and Model Performance Concerns ([html](https://agmath.github.io/RegressionCourse/15d_BiasVarianceTradeOff_Overfitting.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/15d_BiasVarianceTradeOff_Overfitting.qmd)) | [Companion Slides](https://agmath.github.io/RegressionCourse/18d_IntroSlides.html) |  |
 | 19 | Read ISLR $\S$ 5.1 ([Part I](https://youtu.be/ngrOYWgJjb4), [Part II](https://youtu.be/rSGzUy13F_0), [Part III](https://youtu.be/r64tRyHFAJ8)) | Performance Concerns Continued: Different Test, Different Expectations <br/> Cross-Validation and Unbiased Model Performance ([html](https://agmath.github.io/RegressionCourse/16d_CrossValidation.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/16d_CrossValidation.qmd)) | [Companion Slides](https://agmath.github.io/RegressionCourse/19d_IntroSlides.html) | Homework 3 |
 | 20 |  | Cross-Validation Workshop |  |  |
 | 21 | Read ISLR $\S$ 6.1, 6.2 ([Part IV](https://youtu.be/f_hkP_We0JY), [Part V](https://youtu.be/I8bPQ272Pbs), [Part VI](https://youtu.be/FlSQgXv7Dvw), <br/> [Part VII](https://youtu.be/8oEZkHqf_Rk)) | Variable Selection Methods: <br/> Stepwise Regression, Ridge Regression, and the LASSO ([html](https://agmath.github.io/RegressionCourse/17d_VariableSelectionMethods.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/17d_VariableSelectionMethods.qmd)) | [Companion Slides](https://agmath.github.io/RegressionCourse/21d_IntroSlides.html) |  |
 | 22 |  | Other Regressors ([html](https://agmath.github.io/RegressionCourse/18d_OtherRegressors.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/18d_OtherRegressors.qmd)) | [Companion Slides](https://agmath.github.io/RegressionCourse/22d_IntroSlides.html) | [Competition Assignment 6](https://agmath.github.io/RegressionCourse/CA6_OtherRegressors_SubmitPredictions.html) | 
 | 23 |  | Hyperparameters and Tuning <br/> More uses for Cross-Validation ([html](https://agmath.github.io/RegressionCourse/19d_HyperparameterTuning.html), [Quarto](https://www.github.com/agmath/RegressionCourse/blob/main/19d_HyperparameterTuning.qmd)) | [Companion Slides](https://agmath.github.io/RegressionCourse/23d_IntroSlides.html) |  |
-| 24 |  | Hyperparameters, Tuning, and Other Regressors Workshop |  |  |
-| 25 |  | Thanksgiving Modeling Competition <br/> (In Class, 75-minutes) |  |  |
-| 26+ | Projects | Projects | Projects | Projects |
+| 24 |  | In-Class Modeling Competition <br/> (In Class, 75-minutes) |  |
+| 25 |  | Hyperparameters, Tuning, and Other Regressors Workshop |  |  |
+| 26+ |  | Projects and Interviews |  |  |
 
 <br/>
 <br/>
