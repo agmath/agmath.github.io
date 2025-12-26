@@ -35,8 +35,8 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
 | 1 | Review Syllabus <br/> [Setup Google Colab](https://youtu.be/y_yRHa0nF1w) | Introduction and What to Expect ([Slides](https://agmath.github.io/NumericalMethodsCourse/Slides/D1_WhatToExpect.html)) <br/> [Intro to Python and Jupyter Notebooks](https://colab.research.google.com/drive/1HI1jjQwaNEvCqhO0oB6G0poNf8U0xhAR?usp=share_link) <br/> `0.1 + 0.2 != 0.3` |  |
-| 2 |  | [Binary and Floating Point Numbers](https://colab.research.google.com/drive/1EkX8eT_xd_FWY5xT_cDdleOtGDXnhc5c?usp=sharing) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D2_BinaryAndFloatingPointNumbers.html) or PDF)| HW 1 |
-| 3 |  | [Crash course in numerical Python](https://colab.research.google.com/drive/1MaA4oI_XMVzbItClewib7JC5yg6HExT2?usp=share_link) |  |
+| 2 |  | [Binary and Floating Point Numbers](https://colab.research.google.com/drive/1EkX8eT_xd_FWY5xT_cDdleOtGDXnhc5c?usp=sharing) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D2_BinaryAndFloatingPointNumbers.html) or PDF) | HW 1 |
+| 3 |  | [Crash course in numerical Python](https://colab.research.google.com/drive/1MaA4oI_XMVzbItClewib7JC5yg6HExT2?usp=share_link) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D3_CrashCourseInNumericalPython.html) or PDF) |  |
 | 4 |  | [Colab, Python, and LaTeX Workshop](https://colab.research.google.com/drive/1TJSmoRkBTAQABnpeksx5snvc9bzzYeMG?usp=drive_link) |  |
 | 5 | [A Reminder on Linear Systems](https://colab.research.google.com/drive/1F52HxFUyLrDGVihejng_GGBj4Z5qkKTy?usp=share_link) | [Gaussian Elimination](https://colab.research.google.com/drive/1vkPJJtYTqlMljTIMkbNgaArY5gCRhf_M?usp=share_link) | HW 2 |
 | 6 |  | [LU Decomposition](https://colab.research.google.com/drive/1KzEdYJ2_g5M-z5EPo1xbJBfMmG9IeKdu?usp=share_link) |  |
