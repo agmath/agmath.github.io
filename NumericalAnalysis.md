@@ -62,8 +62,8 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 26 |  | Reflection Project Intention Mini-Meetings |  |
 | 27 |  | Unit Problem Set II, Day 1 |  |
 | 28 |  | Unit Problem Set II, Day 2 |  |
-| 29 |  | Reflection Project Presentations |  |
-| 30 |  | Reflection Project Presentations |  |
+| 29 |  | Debrief Interviews |  |
+| 30 |  | Debrief Interviews |  |
 
 <br/>
 <br/>
