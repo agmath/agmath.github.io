@@ -42,7 +42,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 6 |  | [LU Decomposition](https://colab.research.google.com/drive/1KzEdYJ2_g5M-z5EPo1xbJBfMmG9IeKdu?usp=share_link) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D6_LUdecomposition.html) or PDF) |  |
 | 7 |  | [Symmetric and Banded Coefficient Matrices](https://colab.research.google.com/drive/1KzZTk4XlEZeIIZ9kkjEf7D7N-NHPpFAQ?usp=share_link) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D7_SymmetricAndBanded.html) or PDF) | HW 3 |
 | 8 |  | [Pivoting](https://colab.research.google.com/drive/1J280pKDfqORfCTilFEZ5sNq7RV-NXFct?usp=share_link) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D8_Pivoting.html) or PDF) |  |
-| 9 | [A Reminder on Interpolation and Curve Fitting](https://colab.research.google.com/drive/1d4O2oYnmTaohrYTol0lRlBgL-dUam--4?usp=share_link) | [Polynomial Interpolation](https://colab.research.google.com/drive/1b3tsjx216S9tquclHCw8wVACbo-sEVUK?usp=share_link) | HW 4 |
+| 9 | [A Reminder on Interpolation and Curve Fitting](https://colab.research.google.com/drive/1d4O2oYnmTaohrYTol0lRlBgL-dUam--4?usp=share_link) | [Polynomial Interpolation](https://colab.research.google.com/drive/1b3tsjx216S9tquclHCw8wVACbo-sEVUK?usp=share_link) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D9_PolynomialInterpolation.html) or PDF) | HW 4 |
 | 10 |  | [Cubic Splines](https://colab.research.google.com/drive/1lHM4cLSnqGaSC0Emtk8dUlGS_Y78vtGE?usp=share_link) |  |
 | 11 |  | [Least Squares](https://colab.research.google.com/drive/1nuIxSYIymLH70FVZDHUstt5pOrG3i66a?usp=share_link) |  |
 | 12 |  | Catch-Up Day |  |
