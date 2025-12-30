@@ -48,7 +48,7 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 12 |  | Catch-Up Day |  |
 | 13 |  | Unit Problem Set I, Day 1 |  |
 | 14 |  | Unit Problem Set II, Day 2 |  |
-| 15 | [A Reminder on Root-Finding](https://colab.research.google.com/drive/13INH6NOkf4-TWlgVMWqN78NqUv4BAQLg?usp=share_link) | [Root Finding: Incremental Search and the Bisection Method](https://colab.research.google.com/drive/1ERp1VyGwatckBBIh7EyQlh1k7-mRTGI0?usp=share_link) | HW 5 |
+| 15 | [A Reminder on Root-Finding](https://colab.research.google.com/drive/13INH6NOkf4-TWlgVMWqN78NqUv4BAQLg?usp=share_link) | [Root Finding: Incremental Search and the Bisection Method](https://colab.research.google.com/drive/1ERp1VyGwatckBBIh7EyQlh1k7-mRTGI0?usp=share_link) <br/> Companion Slides ([HTML](https://agmath.github.io/NumericalMethodsCourse/Slides/D15_IntroRootFinding.html) or PDF) | HW 5 |
 | 16 |  | [Root Finding: Linear Interpolation Methods](https://colab.research.google.com/drive/1VXdLruu7fOtEa3S24Wszp_5s2bfSBx1l?usp=share_link) |  |
 | 17 |  | [Root Finding: Simultaneous Systems](https://colab.research.google.com/drive/1-WrhpjVh4JMPQAOKmZ_HkjhlLSJSqFXM?usp=share_link) |  |
 | 18 |  | Catch-Up Day |  |
