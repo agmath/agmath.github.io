@@ -94,7 +94,7 @@ This is a project-driven course, so the schedule beyond the first few weeks will
 
 | Class Meeting | Before Class | During Class | After Class |
 |---------------|--------------|--------------|-------------|
-| 1 | Review syllabus <br/> Create a GitHub account | Course overview <br/> Meet your team and liaison <br/> Discuss project background | Set up your software environment <br/> (git, Python/R/Matlab, IDE of choice) |
+| 1 | Review syllabus <br/> Create a GitHub account | [Course overview](https://agmath.github.io/BIGproblems/D1_OverviewSlides.html) <br/> Tentative: Meet your team and liaison <br/> Discuss project background | Set up your software environment <br/> (git, Python/R/Matlab, IDE of choice) |
 | 2 | Research project and approach | [Crash course in git/GitHub](https://agmath.github.io/intro_git/intro_git_slides.html) | Create a **private** team repo <br/> Add teammates (and me!) <br/> Write a basic README <br/> Create a Quarto project notebook |
 | 3 | Continue project and approach research | General software workflow basics <br/> Soft launch...issues, branches, merging | Assign basic initial issues <br/> branch and close with merges |
 | 4 | Update project progress | Research strategies: where to look, <br/> how/when to use AI tools, <br/> and how/when not to | Start working! |
