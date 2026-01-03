@@ -38,8 +38,8 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 5 | `04_DataViz` | Data Visualization <br/> Austin Housing (Cont'd) <br/> [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DataViz_Slides.html) |  |
 | 6 | `05_DiscreteDistributions` | Probabilities and Simulation <br/> Doris and Buzz ([html](https://agmath.github.io/IntroductoryStatistics/Day6_DorisBuzzAndMyOpenMath.html) or [Quarto](https://www.github.com/agmath/IntroductoryStatistics/blob/main/Day6_DorisBuzzAndMyOpenMath.qmd)) <br/> or [Companion Slides](https://agmath.github.io/IntroductoryStatistics/DiscreteProbability_Slides.html) |  |
 | 7 | `06_NormalDistributions` | Probabilities and Normal Distributions <br/> MyOpenMath Problems ([html](https://agmath.github.io/IntroductoryStatistics/Day7_ProbabilityAndTheNormalDistribution.html) or [Quarto](https://www.github.com/agmath/IntroductoryStatistics/blob/main/Day7_ProbabilityAndTheNormalDistribution.qmd)) <br/> or [Companion Slides](https://agmath.github.io/IntroductoryStatistics/NormalDistProbability_Slides.html) | MyOpenMath HW 4 |
-| 8 |  | Discrete Distributions Lab `07_DiscreteDistributionsLab` |  |
-| 9 |  | Normal Distributions Lab `08_NormalDistributionLab` |  |
+| 8 |  | Discrete Distributions Lab `07_DiscreteDistributionsLab` <br/> or [Mixed Probability Practice](https://agmath.github.io/IntroductoryStatistics/PracticeProbabilityProblems_F25Mixed_Answers.pdf) <br/> [Exit Ticket](https://agmath.github.io/IntroductoryStatistics/D8_ProbabilityReview_ExitTicket.html) |  |
+| 9 |  | Normal Distributions Lab `08_NormalDistributionLab` <br/> or [Mixed Probability Practice](https://agmath.github.io/IntroductoryStatistics/PracticeProbabilityProblems_F25Mixed_Answers.pdf) <br/> [Exit Ticket](https://agmath.github.io/IntroductoryStatistics/D9_ProbabilityReview_ExitTicket.html) |  |
 | 10 |  | Exam I, Part I (Group) |  |
 | 11 |  | Exam I, Part II (Individual) |  |
 | 12 | `09_FoundationsForInference` | More on the Sampling Distribution `10_IntroInferenceLab`, <br/> or [Companion Slides](https://agmath.github.io/IntroductoryStatistics/IntroInference_Slides.html) | MyOpenMath HW 5 |
