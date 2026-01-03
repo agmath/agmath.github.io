@@ -52,10 +52,10 @@ Below is a tentative timeline for our course. It includes preparatory work that 
 | 19 |  | Additional Inference Practice, Day II `16_InferencePractice` (Cont'd) <br/> [Practice Problems](https://agmath.github.io/IntroductoryStatistics/PracticeInferenceProblems_F24Mixed.html) <br/> [Two Examples and Discussion on Error Types](https://agmath.github.io/IntroductoryStatistics/TwoInferenceExamplesSlides.html) <br/> [Exit Ticket](https://agmath.github.io/IntroductoryStatistics/D19_InferencePractice_II_ExitTicket.html) | MyOpenMath HW 8 |
 | 20 |  | Additional Inference Practice, Day III `16_InferencePractice` (Cont'd) <br/> [Practice Problems](https://agmath.github.io/IntroductoryStatistics/PracticeInferenceProblems_F24Mixed.html) <br/> ["Answer" Key](https://agmath.github.io/IntroductoryStatistics/PracticeInferenceProblems_F24Mixed_Answers.html) <br/> [Exit Ticket](https://agmath.github.io/IntroductoryStatistics/D20_InferencePractice_III_ExitTicket.html) |  |
 | 21 |  | Inference for Numerical Data Lab `17_InferenceNumericalLab` <br/> [Slides on Reading Software Output](https://agmath.github.io/IntroductoryStatistics/ComputedInferenceSlides.html) | MyOpenMath HW 9 |
-| 22 | `18_ANOVA` | Inference for More than Two Means ([html](https://agmath.github.io/IntroductoryStatistics/Day22_PalmerPenguins.html) or [Quarto](https://www.github.com/agmath/IntroductoryStatistics/blob/main/Day22_PalmerPenguins.qmd)) |  |
-| 23 |  | Exam II, Part I (Group) |  |
-| 24 |  | Exam II, Part II (Individual) |  |
-| 25 |  | Linear Regression Lab `19_LinearRegression` or <br/> [ANOVA and Linear Regression Slides](https://agmath.github.io/IntroductoryStatistics/ANOVAandLinearRegressionSlides.html) | MyOpenMath HW 10 |
+| 22 |  | Exam II, Part I (Group) |  |
+| 23 |  | Exam II, Part II (Individual) |  |
+| 24 | `18_ANOVA` | Inference for More than Two Means ([html](https://agmath.github.io/IntroductoryStatistics/Day22_PalmerPenguins.html) or [Quarto](https://www.github.com/agmath/IntroductoryStatistics/blob/main/Day22_PalmerPenguins.qmd)) or <br/> [ANOVA and Linear Regression Slides](https://agmath.github.io/IntroductoryStatistics/ANOVAandLinearRegressionSlides.html) |  |
+| 25 |  | Linear Regression Lab `19_LinearRegression` <br/> and Review | MyOpenMath HW 10 |
 | 26 |  | Review |  |
 | 27 |  | Final Exam, Part I |  |
 | 28 |  | Final Exam, Part II (Optional) |  |
