@@ -5,16 +5,6 @@ description: This is a homepage for a Hybrid version of MAT241, Modern Statistic
 
 {% include google-analytics.html %}
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('agmath', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
 ## MAT 241 - Modern Statistics with Software (R), Hybrid
 
 <img src="/SiteFiles/OIstats.jpg" align="left" width=200>[**Syllabus (Fall 2025)**](https://drive.google.com/file/d/1SkveMsE2guFiQBw0ZmHnXmkggRHHsvXE/view?usp=sharing)<br/>
