@@ -6,15 +6,7 @@ title: Welcome
 {% include google-analytics.html %}
 </head>
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('agmath', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Donate to Development', '#72a4f2', 'A0A71J3G6V');kofiwidget2.draw();</script> 
 
 ## Adam Gilbert, PhD
 
