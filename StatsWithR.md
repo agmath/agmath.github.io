@@ -5,16 +5,6 @@ description: This is a homepage for MAT241, Modern Statistics with Software, wit
 
 {% include google-analytics.html %}
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('agmath', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
 ## MAT 241 - Modern Statistics with Software (R)
 
 <img src="/SiteFiles/OIstats.jpg" align="left" width=200>[**Syllabus (Spring 2026)**](https://drive.google.com/file/d/1WlUiSTQs0XvUa_BqwwBVDVojSaW50YvS/view?usp=sharing)<br/>
