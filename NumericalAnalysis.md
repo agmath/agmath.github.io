@@ -5,16 +5,6 @@ description: This is a homepage for MAT370, Numerical Analysis, with Dr. Gilbert
 
 {% include google-analytics.html %}
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('agmath', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
 ## MAT 370 - Numerical Analysis
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
