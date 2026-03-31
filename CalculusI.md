@@ -5,16 +5,6 @@ description: This is a homepage for MAT225, Calculus I, with Dr. Gilbert at Sout
 
 {% include google-analytics.html %}
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('agmath', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
 ## MAT 225 - Calculus I
 
 <img src="/SiteFiles/CalculusI.jpg" align="left" width=200>[**Syllabus (Fall 2022)**](https://drive.google.com/file/d/1BDTSUswi2YwHt0mMo16pNR8YHQDvQnh0/view?usp=sharing)<br/>
