@@ -21,7 +21,7 @@ future resources, consider donating via the link below.
 
 ## Foundational Activities
 
-**Activity Number** | **Description** | **Versions** |
+| **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | An Introduction to Data | [Static](https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html) |
 | 2 | An Introduction to Software | [Static, R](https://agmath.github.io/OpenIntroCompanions/02_IntroToR.html) |
