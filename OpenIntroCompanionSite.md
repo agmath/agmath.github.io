@@ -5,15 +5,15 @@ description: This is a homepage for a collection of interactive, browser-based a
 
 <style>
 body {
-  font-size: 10px;
+  font-size: 16px;
 }
 
 table {
-  font-size: 8px;
+  font-size: 14px;
 }
 
 th {
-  font-size: 10px;
+  font-size: 16px;
 }
 
 td {
