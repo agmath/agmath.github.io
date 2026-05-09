@@ -1,7 +1,25 @@
 ---
 title: OpenIntro Companion Activities
-description: This is a homepage for a collection of interactive, browser-based activities to accompany an introductory level applied statistics course. The activities loosely follow the OpenIntro Statistics textbook from the folks at [OpenIntro.org](https://www.openintro.org/). Currently, the activities are written to leverage the R computing language. Additional versions which leverage Excel/Google Sheets and Python are forthcoming.
+description: This is a homepage for a collection of interactive, browser-based activities to accompany an introductory level applied statistics course. The activities loosely follow the OpenIntro Statistics textbook from the folks at OpenIntro.org. Currently, the activities are written to leverage the R computing language. Additional versions which leverage Excel/Google Sheets and Python are forthcoming.
 ---
+
+<style>
+body {
+  font-size: 10px;
+}
+
+table {
+  font-size: 8px;
+}
+
+th {
+  font-size: 10px;
+}
+
+td {
+  padding: 8px;
+}
+</style>
 
 {% include google-analytics.html %}
 
@@ -19,7 +37,7 @@ future resources, consider donating via the link below.
   <a href='https://ko-fi.com/A0A71J3G6V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </center>
 
-## Foundational Activities
+#### Foundational Activities
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
@@ -28,7 +46,7 @@ future resources, consider donating via the link below.
 | 3 | Descriptive Statistics | [Static, R](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html) |
 | 4 | Data Visualization | [Static, R](https://agmath.github.io/OpenIntroCompanions/04_DataViz.html)
 
-## Probability
+#### Probability
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
@@ -37,14 +55,14 @@ future resources, consider donating via the link below.
 | 3 | Discrete Probability Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/07_DiscreteDistributions_Lab.html) |
 | 4 | Normal Distributions and *Approximate Normality* Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/08_NormalDistributions_Lab.html) | 
 
-## Transition to Inference
+#### Transition to Inference
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | The Sampling Distribution and Central Limit Theorems | [Static, R](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference.html) |
 | 2 | Introduction to Inference Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/10_IntroInference_Lab.html) | 
 
-## One- and Two-Sample Inference for Categorical Variables
+#### One- and Two-Sample Inference for Categorical Variables
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
@@ -52,20 +70,20 @@ future resources, consider donating via the link below.
 | 2 | Practice with Inference for Proportions | [Static, R](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice.html) |
 | 3 | Inference for Categorical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/13_CategoricalInference_Lab.html) |
 
-## One- and Two-Sample Inference for Numerical Variables
+#### One- and Two-Sample Inference for Numerical Variables
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | Confidence Intervals and Hypothesis Tests for Means | [Static, R](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric.html) |
 | 2 | Inference for Numerical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/17_NumericalInference_Lab.html) |
 
-## Practice with One- and Two-Sample Inference
+#### Practice with One- and Two-Sample Inference
 
 | 1 | Mixed Inference Practice Problems, Part I | [Static, R](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_PartI.html) |
 | 2 | Mixed Inference Practice Problems, Part II | [Static, R](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_PartII.html) |
 | 3 | Mixed Inference Practice Problems, Part III | [Static, R](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_PartIII.html) |
 
-## Multi-Group Inference and Linear Regression
+#### Multi-Group Inference and Linear Regression
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
