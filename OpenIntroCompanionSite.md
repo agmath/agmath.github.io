@@ -13,7 +13,7 @@ table {
 }
 
 th {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 td {
@@ -39,6 +39,8 @@ future resources, consider donating via the link below.
 
 #### Foundational Activities
 
+<center>
+
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | An Introduction to Data | [Static](https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html) |
@@ -46,7 +48,11 @@ future resources, consider donating via the link below.
 | 3 | Descriptive Statistics | [Static, R](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html) |
 | 4 | Data Visualization | [Static, R](https://agmath.github.io/OpenIntroCompanions/04_DataViz.html)
 
+</center>
+
 #### Probability
+
+<center>
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
@@ -55,14 +61,22 @@ future resources, consider donating via the link below.
 | 3 | Discrete Probability Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/07_DiscreteDistributions_Lab.html) |
 | 4 | Normal Distributions and *Approximate Normality* Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/08_NormalDistributions_Lab.html) | 
 
+</center>
+
 #### Transition to Inference
+
+<center>
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | The Sampling Distribution and Central Limit Theorems | [Static, R](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference.html) |
 | 2 | Introduction to Inference Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/10_IntroInference_Lab.html) | 
 
+</center>
+
 #### One- and Two-Sample Inference for Categorical Variables
+
+<center>
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
@@ -70,26 +84,40 @@ future resources, consider donating via the link below.
 | 2 | Practice with Inference for Proportions | [Static, R](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice.html) |
 | 3 | Inference for Categorical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/13_CategoricalInference_Lab.html) |
 
+</center>
+
 #### One- and Two-Sample Inference for Numerical Variables
+
+<center>
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | Confidence Intervals and Hypothesis Tests for Means | [Static, R](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric.html) |
 | 2 | Inference for Numerical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/17_NumericalInference_Lab.html) |
 
+</center>
+
 #### Practice with One- and Two-Sample Inference
+
+<center>
 
 | 1 | Mixed Inference Practice Problems, Part I | [Static, R](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_PartI.html) |
 | 2 | Mixed Inference Practice Problems, Part II | [Static, R](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_PartII.html) |
 | 3 | Mixed Inference Practice Problems, Part III | [Static, R](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_PartIII.html) |
 
+</center>
+
 #### Multi-Group Inference and Linear Regression
+
+<center>
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | Chi-Square Goodness of Fit and Independence | [Static, R](https://agmath.github.io/OpenIntroCompanions/14_ChiSquare.html) |
 | 2 | One-Way ANOVA | Static, R (Coming Soon) |
 | 3 | Introduction to Linear Regression | Static, R (Coming Soon) |
+
+</center>
 
 ---
 
