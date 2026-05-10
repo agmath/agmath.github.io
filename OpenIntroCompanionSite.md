@@ -79,6 +79,7 @@ future resources, consider donating via the link below.
 
 #### Practice with One- and Two-Sample Inference
 
+| **Activity Number** | **Description** | **Versions** |
 | 1 | Mixed Inference Practice Problems, Part I | [Static, R](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_PartI.html) |
 | 2 | Mixed Inference Practice Problems, Part II | [Static, R](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_PartII.html) |
 | 3 | Mixed Inference Practice Problems, Part III | [Static, R](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_PartIII.html) |
@@ -88,8 +89,8 @@ future resources, consider donating via the link below.
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | Chi-Square Goodness of Fit and Independence | [Static, R](https://agmath.github.io/OpenIntroCompanions/14_ChiSquare.html) |
-| 2 | One-Way ANOVA | Static, R (Coming Soon) |
-| 3 | Introduction to Linear Regression | Static, R (Coming Soon) |
+| 2 | One-Way ANOVA | [Static, R](https://agmath.github.io/OpenIntroCompanions/18_ANOVA.html) |
+| 3 | Introduction to Linear Regression | [Static, R](https://agmath.github.io/OpenIntroCompanions/19_LinearRegression_Lab.html) |
 
 ---
 
