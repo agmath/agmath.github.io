@@ -10,6 +10,8 @@ body {
 
 table {
   font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 th {
