@@ -26,13 +26,13 @@ td {
 {% include google-analytics.html %}
 
 You'll find a growing list of Quarto-Live activities in the sections below. Ultimately, 
-this project will provide collection of activities covering a full introductory experience
+this project will provide a collection of activities covering a full introductory experience
 in applied statistics from several different domain disciplines (psychology, biology, sport, etc.) 
 and with several different supporting software tools. Versions of all notebooks utilizing the 
-R computing language are availabe, with corresponding versions in Excel and Python forthcoming.
+R computing language are available, with corresponding versions in Excel and Python forthcoming.
 
 These resources are open-sourced and will always remain freely available. If you are benefiting 
-from using these and would like to support the maintanence of these resources and development of
+from using these activities and would like to support the their maintenance and the development of
 future resources, consider donating via the link below.
 
 <center>
@@ -46,7 +46,7 @@ future resources, consider donating via the link below.
 | 1 | An Introduction to Data | [Static](https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html) |
 | 2 | An Introduction to Software | [Static, R](https://agmath.github.io/OpenIntroCompanions/02_IntroToR.html) |
 | 3 | Descriptive Statistics | [Static, R](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html) |
-| 4 | Data Visualization | [Static, R](https://agmath.github.io/OpenIntroCompanions/04_DataViz.html)
+| 4 | Data Visualization | [Static, R](https://agmath.github.io/OpenIntroCompanions/04_DataViz.html) |
 
 #### Probability
 
