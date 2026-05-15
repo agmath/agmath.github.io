@@ -31,6 +31,8 @@ in applied statistics from several different domain disciplines (psychology, bio
 and with several different supporting software tools. Versions of all notebooks utilizing the 
 R computing language are available, with corresponding versions in Excel and Python forthcoming.
 
+<!--
+
 These resources are open-sourced and will always remain freely available. If you are benefiting 
 from using these activities and would like to support the their maintenance and the development of
 future resources, consider donating via the link below.
@@ -38,6 +40,8 @@ future resources, consider donating via the link below.
 <center>
   <a href='https://ko-fi.com/A0A71J3G6V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </center>
+
+-->
 
 #### Foundational Activities
 
