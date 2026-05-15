@@ -1,6 +1,6 @@
 ---
 title: OpenIntro Companion Activities
-description: This is a homepage for a collection of interactive, browser-based activities to accompany an introductory level applied statistics course. The activities loosely follow the OpenIntro Statistics textbook from the folks at OpenIntro.org. Currently, the activities are written to leverage the R computing language. Additional versions which leverage Excel/Google Sheets and Python are forthcoming.
+description: This is a homepage for a collection of interactive, browser-based activities to accompany an introductory level applied statistics course. The activities follow the OpenIntro Statistics textbook from the folks at OpenIntro.org. Currently, the activities are written to leverage the R computing language. Additional versions which leverage Excel/Google Sheets and Python are forthcoming.
 ---
 
 <style>
@@ -25,11 +25,10 @@ td {
 
 {% include google-analytics.html %}
 
-You'll find a growing list of Quarto-Live activities in the sections below. Ultimately, 
-this project will provide a collection of activities covering a full introductory experience
-in applied statistics from several different domain disciplines (psychology, biology, sport, etc.) 
-and with several different supporting software tools. Versions of all notebooks utilizing the 
-R computing language are available, with corresponding versions in Excel and Python forthcoming.
+You'll find a growing list of Quarto-Live browser-based, interactive activities in the sections below. 
+Currently, the collecton of activities covers a full introductory experience
+in applied statistics. Versions of all notebooks utilizing the 
+R computing language are available, with corresponding versions in Excel/Sheets and Python forthcoming.
 
 <!--
 
