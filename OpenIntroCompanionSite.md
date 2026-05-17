@@ -47,7 +47,7 @@ future resources, consider donating via the link below.
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
 | 1 | An Introduction to Data | [Static](https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html) |
-| 2 | An Introduction to Software | [Static, R](https://agmath.github.io/OpenIntroCompanions/02_IntroToR.html) |
+| 2 | An Introduction to Software | [Static, R](https://agmath.github.io/OpenIntroCompanions/02_IntroToR.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/02_IntroToSpreadsheets.html) |
 | 3 | Descriptive Statistics | [Static, R](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html) |
 | 4 | Data Visualization | [Static, R](https://agmath.github.io/OpenIntroCompanions/04_DataViz.html) |
 
@@ -55,7 +55,7 @@ future resources, consider donating via the link below.
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 5 | Discrete Probability and the Binomial Distribution | [Static, R](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions.html) <br/> [Static, Excel](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Excel.html) <br/> [Dynamic, R](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Dynamic.html) <br/> [Dynamic, Excel](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Dynamic_Excel.html) | 
+| 5 | Discrete Probability and the Binomial Distribution | [Static, R](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Excel.html) <br/> [Dynamic, R](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Dynamic.html) <br/> [Dynamic, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Dynamic_Excel.html) | 
 | 6 | Probability and the Normal Distribution | [Static, R](https://agmath.github.io/OpenIntroCompanions/06_NormalDistributions.html) <br/> [Dynamic, R](https://agmath.github.io/OpenIntroCompanions/06_NormalDistributions_Dynamic.html) |
 | 7 | Discrete Probability Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/07_DiscreteDistributions_Lab.html) |
 | 8 | Normal Distributions and *Approximate Normality* Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/08_NormalDistributions_Lab.html) | 
