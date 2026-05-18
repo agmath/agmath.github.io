@@ -48,7 +48,7 @@ future resources, consider donating via the link below.
 |---|---|---|
 | 1 | An Introduction to Data | [Static](https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html) |
 | 2 | An Introduction to Software | [Static, R](https://agmath.github.io/OpenIntroCompanions/02_IntroToR.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/02_IntroToSpreadsheets.html) |
-| 3 | Descriptive Statistics | [Static, R](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html) |
+| 3 | Descriptive Statistics | [Static, R](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics_Spreadsheet.html) |
 | 4 | Data Visualization | [Static, R](https://agmath.github.io/OpenIntroCompanions/04_DataViz.html) |
 
 #### Probability
