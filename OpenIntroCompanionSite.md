@@ -30,6 +30,8 @@ Currently, the collecton of activities covers a full introductory experience
 in applied statistics. Versions of all notebooks utilizing the 
 R computing language are available, with corresponding versions in Excel/Sheets and Python forthcoming.
 
+Please note that any currently avalable spreadsheet versions of activities are very rough drafts and are *proof of concept* at this stage. I am actively working on these during Summer 2026.
+
 <!--
 
 These resources are open-sourced and will always remain freely available. If you are benefiting 
