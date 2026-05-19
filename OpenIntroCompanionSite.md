@@ -30,19 +30,15 @@ Currently, the collecton of activities covers a full introductory experience
 in applied statistics. Versions of all notebooks utilizing the 
 R computing language are available, with corresponding versions in Excel/Sheets and Python forthcoming.
 
-Please note that any currently avalable spreadsheet versions of activities are very rough drafts and are *proof of concept* at this stage. I am actively working on these during Summer 2026.
-
-<!--
+🚧 Please note that any currently avalable spreadsheet versions of activities are very rough drafts and are *proof of concept* at this stage. I am actively working on these during Summer and Fall 2026. Similarly, the *dynamic* versions of activities are at the exploratory/proof of concept stage as well. All static R-versions of the activities have been well tested, as they were part of the original `{AppliedStatsInteractive}` R-package which has been in use since 2020. 🚧
 
 These resources are open-sourced and will always remain freely available. If you are benefiting 
-from using these activities and would like to support the their maintenance and the development of
-future resources, consider donating via the link below.
+from using these activities and would like to support the their maintenance as well as the development of
+similar resources across mathematics and statistics in the future, you may donate via the link below.
 
 <center>
   <a href='https://ko-fi.com/A0A71J3G6V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </center>
-
--->
 
 #### Foundational Activities
 
