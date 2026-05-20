@@ -62,7 +62,7 @@ similar resources across mathematics and statistics in the future, you may donat
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 9 | The Sampling Distribution and Central Limit Theorems | [Static, R](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference.html) |
+| 9 | The Sampling Distribution and Central Limit Theorems | [Static, R](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference_Spreadsheets.html) |
 | 10 | Introduction to Inference Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/10_IntroInference_Lab.html) | 
 
 #### One- and Two-Sample Inference for Categorical Variables
