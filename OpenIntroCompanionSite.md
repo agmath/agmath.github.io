@@ -69,7 +69,7 @@ similar resources across mathematics and statistics in the future, you may donat
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 11 | Confidence Intervals and Hypothesis Tests for Single Proportions | [Static, R](https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop.html) |
+| 11 | Confidence Intervals and Hypothesis Tests for Single Proportions | [Static, R](https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop_Spreadsheets.html) |
 | 12 | Practice with Inference for Proportions | [Static, R](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice.html) |
 | 13 | Inference for Categorical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/13_CategoricalInference_Lab.html) |
 
