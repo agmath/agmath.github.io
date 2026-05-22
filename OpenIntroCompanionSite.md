@@ -1,6 +1,6 @@
 ---
 title: OpenIntro Companion Activities
-description: This is a homepage for a collection of interactive, browser-based activities to accompany an introductory level applied statistics course. The activities follow the OpenIntro Statistics textbook from the folks at OpenIntro.org. Currently, the activities are written to leverage the R computing language. Additional versions which leverage Excel/Google Sheets and Python are forthcoming.
+description: This is a homepage for a collection of interactive, browser-based activities to accompany an introductory level applied statistics course. The activities supplement the OpenIntro Statistics textbook from the folks at OpenIntro.org. Currently, the activities are written to leverage the R computing language. Additional versions which leverage Excel/Google Sheets and Python are forthcoming.
 ---
 
 <style>
