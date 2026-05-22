@@ -3,6 +3,26 @@ title: Applied Statistics
 description: This is a homepage for MAT240, Applied Statistics, with Dr. Gilbert at Southern New Hampshire University. This course covers an introduction to data, exploratory data analyses and data visualization, one- and two-sample inference via confidence intervals and hypothesis testing for both proportions and means, chi-squared tests for goodness of fit and independence, ANOVA for comparisons of multiple group means, and introduces linear regression. The course also provides an introduction to Excel, the use of which is embedded throughout the semester.
 ---
 
+<style>
+body {
+  font-size: 16px;
+}
+
+table {
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th {
+  font-size: 14px;
+}
+
+td {
+  padding: 8px;
+}
+</style>
+
 {% include google-analytics.html %}
 
 ## MAT 240 - Applied Statistics
