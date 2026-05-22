@@ -77,16 +77,16 @@ similar resources across mathematics and statistics in the future, you may donat
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 15 | Confidence Intervals and Hypothesis Tests for Means | [Static, R](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric.html) <br/> [Static, Spreadsheets](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric_Spreadsheets.html) |
+| 15 | Confidence Intervals and Hypothesis Tests for Means | [Static, R](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric_Spreadsheets.html) |
 | 17 | Inference for Numerical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/17_NumericalInference_Lab.html) |
 
 #### Practice with One- and Two-Sample Inference
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 16a | Mixed Inference Practice Problems, Part I | [Static, R](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_PartI.html) <br/> [Static, Spreadsheets](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_Spreadsheets_PartI.html) |
-| 16b | Mixed Inference Practice Problems, Part II | [Static, R](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_PartII.html) |
-| 16c | Mixed Inference Practice Problems, Part III | [Static, R](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_PartIII.html) |
+| 16a | Mixed Inference Practice Problems, Part I | [Static, R](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_PartI.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_Spreadsheets_PartI.html) |
+| 16b | Mixed Inference Practice Problems, Part II | [Static, R](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_PartII.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_Spreadsheets_PartII.html) |
+| 16c | Mixed Inference Practice Problems, Part III | [Static, R](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_PartIII.html) <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_Spreadsheets_PartIII.html) |
 
 #### Multi-Group Inference and Linear Regression
 
