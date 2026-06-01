@@ -25,7 +25,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 |---------------|--------------|-------------|--------------|
 | 1 | Introduction and What to Expect <br/> [Algebra Review, Part I](https://colab.research.google.com/drive/1Nvgi5nWn7jdNs-kuWfXwP4WdSn_2wL6F?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D1_WhatToExpect.html) | HW 1 |
 | 2 | [Algebra Review, Part II](https://colab.research.google.com/drive/1wT-N3BgiEAXPzxwZmRiFpRJVzSO8kR1q?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D2_FoundationalAlgebra.html) |  |
-| 3 | [Describing Intervals of Real Numbers <br/> Functions: Notation and Evaluation](https://colab.research.google.com/drive/1zAN56MDKnV6wna9oJJDhO6R3s-ziDj6W?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D3_IntervalsAndFunctions.html) | HW 2 |
+| 3 | [Describing Intervals of Real Numbers <br/> Functions: Notation and Evaluation](https://colab.research.google.com/drive/1zAN56MDKnV6wna9oJJDhO6R3s-ziDj6W?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D3_IntervalsAndFunctionIntro.html) | HW 2 |
 | 4 | [Functions: Domain and Range](https://colab.research.google.com/drive/11mTjdTFrDA6cfWeBB7twqhuZLp1vlS25?usp=sharing) |  |  |
 | 5 | [Functions: Limits Rates of Change](https://colab.research.google.com/drive/1Mkds65rjErHLpQap9dKxlJLun75Gy86H?usp=sharing) |  | HW 3 |
 | 6 | [Functions: Composition](https://colab.research.google.com/drive/13NRmELgisLsmU4gQ_04HovLvImWIi7Fi?usp=share_link) |  | HW 4 |
