@@ -31,7 +31,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 6 | [Functions: Composition](https://colab.research.google.com/drive/13NRmELgisLsmU4gQ_04HovLvImWIi7Fi?usp=share_link) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D6_CompositionOfFunctions.html) | HW 4 |
 | 7 | Exam I |  |  |
 | 8 | [Functions: Book Functions and Transformations <br/> Functions: Graphs and Landmarks](https://colab.research.google.com/drive/1XCXTnTQNmcP144rvddBAMBeMZIiCa2Wl?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D8_GraphsAndTransformations.html) | HW 5 |
-| 9 | [Functions: Inverses](https://colab.research.google.com/drive/12ua2GIwJZBfdeC8ij8KRKOpUTXZRIZ7x?usp=sharing) |  |  |
+| 9 | [Functions: Inverses](https://colab.research.google.com/drive/12ua2GIwJZBfdeC8ij8KRKOpUTXZRIZ7x?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D9_InverseFunctions.html) |  |
 | 10 | [Linear Functions and Linear Equations](https://colab.research.google.com/drive/1MHByP0lVp8AFJhi3Wn0OPggHXO_RZORu?usp=sharing) |  | HW 7* |
 | 11 | [Complex Numbers](https://colab.research.google.com/drive/1HAfy8BJK7oS8YblnyT3ibgUDbgk4w1-m?usp=sharing) |  | HW 6 |
 | 12 | [Quadratic Functions and Equations, Part I](https://colab.research.google.com/drive/1OpV7SZhRFOjiEMWYS4ANZgbnDbnR7ULW?usp=sharing) |  | HW 7 |
