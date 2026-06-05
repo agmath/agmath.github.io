@@ -35,7 +35,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 10 | [Linear Functions and Linear Equations](https://colab.research.google.com/drive/1MHByP0lVp8AFJhi3Wn0OPggHXO_RZORu?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D10_LinearFunctionsAndEquations.html) | HW 7* |
 | 11 | [Complex Numbers](https://colab.research.google.com/drive/1HAfy8BJK7oS8YblnyT3ibgUDbgk4w1-m?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D11_ComplexNumbers.html) | HW 6 |
 | 12 | [Quadratic Functions and Equations, Part I](https://colab.research.google.com/drive/1OpV7SZhRFOjiEMWYS4ANZgbnDbnR7ULW?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D12_Quadratics_PartI.html) | HW 7 |
-| 13 | [Quadratic Functions and Equations, Part II](https://colab.research.google.com/drive/1gkstJljMAkmJrpy8d3taw1adN9mzTb1C?usp=sharing) |  |  |
+| 13 | [Quadratic Functions and Equations, Part II](https://colab.research.google.com/drive/1gkstJljMAkmJrpy8d3taw1adN9mzTb1C?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D13_Quadratics_PartII.html) |  |
 | 14 | Exam II |  |
 | 15 | [Polynomial Functions and Equations](https://colab.research.google.com/drive/16WXe4JW_9mOXaypsjjFOQLXiyCwo670S?usp=sharing) |  | HW 8 |
 | 16 | [Polynomial Long Division and Factoring](https://colab.research.google.com/drive/1x6ekxUxivcJkl-wE5vy_1N_qEOqNw7e6?usp=sharing) |  |  |
