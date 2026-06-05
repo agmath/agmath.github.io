@@ -37,7 +37,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 12 | [Quadratic Functions and Equations, Part I](https://colab.research.google.com/drive/1OpV7SZhRFOjiEMWYS4ANZgbnDbnR7ULW?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D12_Quadratics_PartI.html) | HW 7 |
 | 13 | [Quadratic Functions and Equations, Part II](https://colab.research.google.com/drive/1gkstJljMAkmJrpy8d3taw1adN9mzTb1C?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D13_Quadratics_PartII.html) |  |
 | 14 | Exam II |  |
-| 15 | [Polynomial Functions and Equations](https://colab.research.google.com/drive/16WXe4JW_9mOXaypsjjFOQLXiyCwo670S?usp=sharing) |  | HW 8 |
+| 15 | [Polynomial Functions and Equations](https://colab.research.google.com/drive/16WXe4JW_9mOXaypsjjFOQLXiyCwo670S?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D15_Polynomials_PartI.html) | HW 8 |
 | 16 | [Polynomial Long Division and Factoring](https://colab.research.google.com/drive/1x6ekxUxivcJkl-wE5vy_1N_qEOqNw7e6?usp=sharing) |  |  |
 | 17 | [Rational Functions and Equations](https://colab.research.google.com/drive/1c38qQflCZUOnxLoZ1VKGIcrLyb5Cj19a?usp=sharing) |  | HW 9 |
 | 18 | [Radical Functions and Equations](https://colab.research.google.com/drive/1gg6I0VoZTtwTWnsNfPoPwPy6MIsT8tC2?usp=sharing) |  |  |
