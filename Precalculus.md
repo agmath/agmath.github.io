@@ -39,7 +39,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 14 | Exam II |  |
 | 15 | [Polynomial Functions and Equations](https://colab.research.google.com/drive/16WXe4JW_9mOXaypsjjFOQLXiyCwo670S?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D15_Polynomials_PartI.html) | HW 8 |
 | 16 | [Polynomial Long Division and Factoring](https://colab.research.google.com/drive/1x6ekxUxivcJkl-wE5vy_1N_qEOqNw7e6?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D16_Polynomials_PartII.html) |  |
-| 17 | [Rational Functions and Equations](https://colab.research.google.com/drive/1c38qQflCZUOnxLoZ1VKGIcrLyb5Cj19a?usp=sharing) |  | HW 9 |
+| 17 | [Rational Functions and Equations](https://colab.research.google.com/drive/1c38qQflCZUOnxLoZ1VKGIcrLyb5Cj19a?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D17_Rationals.html) | HW 9 |
 | 18 | [Radical Functions and Equations](https://colab.research.google.com/drive/1gg6I0VoZTtwTWnsNfPoPwPy6MIsT8tC2?usp=sharing) |  |  |
 | 19 | [Review of Exponentials and Logarithms](https://colab.research.google.com/drive/1isACeA2-a3K-1EL3JzT2WSHphsA1YGJH?usp=sharing) |  | HW 10 |
 | 20 | [Exponential Functions and Equations](https://colab.research.google.com/drive/16tRvAbPBcMeZkpbe86OMoiT2p3LB-93i?usp=sharing) |  |  |
