@@ -34,19 +34,17 @@ title: Welcome
   </div>
 </div>
 
-Hello, and welcome to my webpage! I am an Associate Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and interests have transitioned to data science over the past five years. I am broadly interested in data science projects, especially those in public policy, health, or education. The pages on this site contain information about the courses I teach, my current interests/endeavors, and information for people (particularly students) who are interested in working with me. I hope you'll find something useful during your visit!<br/>
+Hello, and welcome to my webpage! I am a Professor of Mathematics at Southern New Hampshire University. While I earned my PhD in *Mathematics* under [Dr. Nancy Eaton](http://www.math.uri.edu/~eaton/) at the University of Rhode Island in 2013, my teaching responsibilities and interests have transitioned to data science over the past five years. I am broadly interested in data science projects, especially those in public policy, health, or education. The pages on this site contain information about the courses I teach, my current interests/endeavors, and information for people (particularly students) who are interested in working with me. I hope you'll find something useful during your visit!<br/>
 <br/>
 All the materials you find on this site are free to use; I hope you find them useful! If you feel so inclined to support my maintanence of these resources and the creation of new ones, you'll find a floating Ko-fi donation link in the lower-left corner of this page and other pages on this site. I'd love to hear how you are using any of these resources and about their impact on you! <br/>
 <br/>
 (**Page Quick-Links:** [Current Courses](#currently-teaching), [Previous Courses](OldCourses.md), [Undergraduate Research](#research-with-undergraduates), [DS/ML](#data-science-and-machine-learning), [Miscellaneous](#other-initiatives)), 
   
 
-### Teaching (Spring 2026)
+### Teaching (Fall 2026)
 
 + [MAT241 - Modern Statistics with Software](StatsWithR.md)
-+ [MAT300 - Regression Analysis](RegressionCourse.md)
-+ [MAT370 - Numerical Analysis](NumericalAnalysis.md)
-+ [MAT440 - BIG Problems](BIGproblems.md)
++ [MAT142 - PreCalculus with Limits](Precalculus.md)
 
 ### Course Information from Previous Semesters
 
