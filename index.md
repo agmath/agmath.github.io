@@ -43,8 +43,8 @@ All the materials you find on this site are free to use; I hope you find them us
 
 ### Teaching (Fall 2026)
 
-+ [MAT241 - Modern Statistics with Software](StatsWithR.md)
 + [MAT142 - PreCalculus with Limits](Precalculus.md)
++ [MAT241 - Modern Statistics with Software](StatsWithR.md)
 
 ### Course Information from Previous Semesters
 
