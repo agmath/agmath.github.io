@@ -43,7 +43,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 18 | [Radical Functions and Equations](https://colab.research.google.com/drive/1gg6I0VoZTtwTWnsNfPoPwPy6MIsT8tC2?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D18_RadicalEquationsAndFunctions.html) |  |
 | 19 | [Review of Exponentials and Logarithms](https://colab.research.google.com/drive/1isACeA2-a3K-1EL3JzT2WSHphsA1YGJH?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D19_ExponentialAndLogarithmReview.html) | HW 10 |
 | 20 | [Exponential Functions and Equations](https://colab.research.google.com/drive/16tRvAbPBcMeZkpbe86OMoiT2p3LB-93i?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D20_Exponentials.html) |  |
-| 21 | [Logarithmic Functions and Equations](https://colab.research.google.com/drive/1Gs_OG9_qwtlmt-uJ3wUdZZ-UtaQKQ7am?usp=sharing) |  |  |
+| 21 | [Logarithmic Functions and Equations](https://colab.research.google.com/drive/1Gs_OG9_qwtlmt-uJ3wUdZZ-UtaQKQ7am?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D21_Logarithms.html) |  |
 | 22 | Exam III |  |
 | 23 | [Angles, the Unit Circle, and Basic Trigonometric Functions](https://colab.research.google.com/drive/1xfKJZVPW2ffQlquuxJ7hHhcoPltA-t0W?usp=sharing) |  | HW 11 |
 | 24 | [Trigonometric Functions, Inverses, and Trigonometric Equations](https://colab.research.google.com/drive/1ZSj7L6AN1qYEg9I7hW7NQP68MOycDup_?usp=sharing) |  | HW 12 |
