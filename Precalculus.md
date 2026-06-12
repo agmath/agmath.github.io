@@ -47,7 +47,7 @@ Below is a tentative timeline for our course. It includes a detailed set of note
 | 22 | Exam III |  |
 | 23 | [Angles, the Unit Circle, and Basic Trigonometric Functions](https://colab.research.google.com/drive/1xfKJZVPW2ffQlquuxJ7hHhcoPltA-t0W?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D23_AnglesAndMeasure.html) | HW 11 |
 | 24 | [Trigonometric Functions, Inverses, and Trigonometric Equations](https://colab.research.google.com/drive/1ZSj7L6AN1qYEg9I7hW7NQP68MOycDup_?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D24_GraphsEquationsAndInverseTrig.html) | HW 12 |
-| 25 | [Right Triangle Trigonometry](https://colab.research.google.com/drive/1FMxt5kqckgGd-otYuXKtqEt3AGNBfYcB?usp=sharing) |  |  |
+| 25 | [Right Triangle Trigonometry](https://colab.research.google.com/drive/1FMxt5kqckgGd-otYuXKtqEt3AGNBfYcB?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D25_RightTriangleTrigonometry.html) |  |
 | 26 | Exam IV |  |  |
 | 27 | Final Exams (Optional) |  |  |
 | 28 | Final Exams (Optional) |  |  |
