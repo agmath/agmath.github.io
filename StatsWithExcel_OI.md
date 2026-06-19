@@ -55,7 +55,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 9 | Group Exam I |  |  |  |
 | 10 | Individual Exam I |  |  |  |
 | 11 | The Central Limit Theorem and the Sampling Distribution | [Foundations for Inference](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference_Spreadsheets.html) | [Day 11, CLT and Sampling Distributions](https://docs.google.com/presentation/d/12YAyXsiLDNtJIfOm2HAs9MzrNSgbifot/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 5 |
-| 12 | An Overview of Statistical Inference |  | [Day 12, Foundations for Inference](https://docs.google.com/presentation/d/1xYYqnxL1KEmgJNIsBHfTRjx3aQk2tKFO/preview) |  |
+| 12 | An Overview of Statistical Inference |  | [Day 12, Foundations for Inference](https://docs.google.com/presentation/d/1xYYqnxL1KEmgJNIsBHfTRjx3aQk2tKFO/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 13 | Inference for a Single Proportion | [Inference for a Proportion](https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop_Spreadsheets.html) |  |  |
 | 14 | Inference on One and Two Proportions | [Practice Inference for Proportions](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice_Spreadsheets.html) |  |  |
 | 15 | Practice with Inference on Proportions |  |  |  |
