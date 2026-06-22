@@ -60,7 +60,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 14 | Inference on One and Two Proportions | [Practice Inference for Proportions](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice_Spreadsheets.html) | [Day 14, Inference with One and Two Proportions](https://docs.google.com/presentation/d/1K1CTnQManG3N9UmyCppCGIqIMc4AAoiv/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 15 | Practice with Inference on Proportions |  |  |  |
 | 16 | Inference for One and Two Means | [Inference on Means](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric_Spreadsheets.html) | [Day 16, Inference on Means](https://docs.google.com/presentation/d/1DHST50j4PkyQGolDvAszxsdUQTwkJm4v/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 17 | Mixed Inference Practice, Part I | [Mixed Inference Practice A](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_Spreadsheets_PartI.html) |  |  |
+| 17 | Mixed Inference Practice, Part I | [Mixed Inference Practice A](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_Spreadsheets_PartI.html) | [Practice Inference Problems](https://agmath.github.io/IntroductoryStatistics/PracticeInferenceProblems_F24Mixed.html) |  |
 | 18 | Mixed Inference Practice, Part II | [Mixed Inference Practice B](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_Spreadsheets_PartII.html) |  |  |
 | 19 | Mixed Inference Practice, Part III | [Mixed Inference Practice C](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_Spreadsheets_PartIII.html) |  |  |
 | 20 | Fundamentals Exam II (No Tech) |  |  |  |
