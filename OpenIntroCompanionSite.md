@@ -42,57 +42,57 @@ similar resources across mathematics and statistics in the future, you may donat
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 1 | An Introduction to Data | [Static](https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html){target="_blank"} |
-| 2 | An Introduction to Software | [Static, R](https://agmath.github.io/OpenIntroCompanions/02_IntroToR.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/02_IntroToSpreadsheets.html){target="_blank"} |
-| 3 | Descriptive Statistics | [Static, R](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics_Spreadsheet.html){target="_blank"} |
-| 4 | Data Visualization | [Static, R](https://agmath.github.io/OpenIntroCompanions/04_DataViz.html){target="_blank"} |
+| 1 | An Introduction to Data | <a href="https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html" target="_blank">Static</a> |
+| 2 | An Introduction to Software | <a href="https://agmath.github.io/OpenIntroCompanions/02_IntroToR.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/02_IntroToSpreadsheets.html" target="_blank">Static, Spreadsheet</a> |
+| 3 | Descriptive Statistics | <a href="https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/03_DescriptiveStatistics_Spreadsheet.html" target="_blank">Static, Spreadsheet</a> |
+| 4 | Data Visualization | <a href="https://agmath.github.io/OpenIntroCompanions/04_DataViz.html" target="_blank">Static, R</a> |
 
 #### Probability
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 5 | Discrete Probability and the Binomial Distribution | [Static, R](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Excel.html){target="_blank"} | 
-| 6 | Probability and the Normal Distribution | [Static, R](https://agmath.github.io/OpenIntroCompanions/06_NormalDistributions.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/06_NormalDistributions_Spreadsheet.html){target="_blank"} |
-| 7 | Discrete Probability Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/07_DiscreteDistributions_Lab.html){target="_blank"} |
-| 8 | Normal Distributions and *Approximate Normality* Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/08_NormalDistributions_Lab.html){target="_blank"} | 
+| 5 | Discrete Probability and the Binomial Distribution | <a href="https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/05_DiscreteDistributions_Excel.html" target="_blank">Static, Spreadsheet</a> | 
+| 6 | Probability and the Normal Distribution | <a href="https://agmath.github.io/OpenIntroCompanions/06_NormalDistributions.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/06_NormalDistributions_Spreadsheet.html" target="_blank">Static, Spreadsheet</a> |
+| 7 | Discrete Probability Lab | <a href="https://agmath.github.io/OpenIntroCompanions/07_DiscreteDistributions_Lab.html" target="_blank">Static, R</a> |
+| 8 | Normal Distributions and *Approximate Normality* Lab | <a href="https://agmath.github.io/OpenIntroCompanions/08_NormalDistributions_Lab.html" target="_blank">Static, R</a> | 
 
 #### Transition to Inference
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 9 | The Sampling Distribution and Central Limit Theorems | [Static, R](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference_Spreadsheets.html){target="_blank"} |
-| 10 | Introduction to Inference Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/10_IntroInference_Lab.html){target="_blank"} | 
+| 9 | The Sampling Distribution and Central Limit Theorems | <a href="https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference_Spreadsheets.html" target="_blank">Static, Spreadsheet</a> |
+| 10 | Introduction to Inference Lab | <a href="https://agmath.github.io/OpenIntroCompanions/10_IntroInference_Lab.html" target="_blank">Static, R</a> | 
 
 #### One- and Two-Sample Inference for Categorical Variables
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 11 | Confidence Intervals and Hypothesis Tests for Single Proportions | [Static, R](https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop_Spreadsheets.html){target="_blank"} |
-| 12 | Practice with Inference for Proportions | [Static, R](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice_Spreadsheets.html){target="_blank"} |
-| 13 | Inference for Categorical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/13_CategoricalInference_Lab.html){target="_blank"} |
+| 11 | Confidence Intervals and Hypothesis Tests for Single Proportions | <a href="https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop_Spreadsheets.html" target="_blank">Static, Spreadsheet</a> |
+| 12 | Practice with Inference for Proportions | <a href="https://agmath.github.io/OpenIntroCompanions/12_InferencePractice.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/12_InferencePractice_Spreadsheets.html" target="_blank">Static, Spreadsheet</a> |
+| 13 | Inference for Categorical Variables Lab | <a href="https://agmath.github.io/OpenIntroCompanions/13_CategoricalInference_Lab.html" target="_blank">Static, R</a> |
 
 #### One- and Two-Sample Inference for Numerical Variables
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 15 | Confidence Intervals and Hypothesis Tests for Means | [Static, R](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric_Spreadsheets.html){target="_blank"} |
-| 17 | Inference for Numerical Variables Lab | [Static, R](https://agmath.github.io/OpenIntroCompanions/17_NumericalInference_Lab.html){target="_blank"} |
+| 15 | Confidence Intervals and Hypothesis Tests for Means | <a href="https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric_Spreadsheets.html" target="_blank">Static, Spreadsheet</a> |
+| 17 | Inference for Numerical Variables Lab | <a href="https://agmath.github.io/OpenIntroCompanions/17_NumericalInference_Lab.html" target="_blank">Static, R</a> |
 
 #### Practice with One- and Two-Sample Inference
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 16a | Mixed Inference Practice Problems, Part I | [Static, R](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_PartI.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_Spreadsheets_PartI.html){target="_blank"} |
-| 16b | Mixed Inference Practice Problems, Part II | [Static, R](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_PartII.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_Spreadsheets_PartII.html){target="_blank"} |
-| 16c | Mixed Inference Practice Problems, Part III | [Static, R](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_PartIII.html){target="_blank"} <br/> [Static, Spreadsheet](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_Spreadsheets_PartIII.html){target="_blank"} |
+| 16a | Mixed Inference Practice Problems, Part I | <a href="https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_PartI.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_Spreadsheets_PartI.html" target="_blank">Static, Spreadsheet</a> |
+| 16b | Mixed Inference Practice Problems, Part II | <a href="https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_PartII.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_Spreadsheets_PartII.html" target="_blank">Static, Spreadsheet</a> |
+| 16c | Mixed Inference Practice Problems, Part III | <a href="https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_PartIII.html" target="_blank">Static, R</a> <br/> <a href="https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_Spreadsheets_PartIII.html" target="_blank">Static, Spreadsheet</a> |
 
 #### Multi-Group Inference and Linear Regression
 
 | **Activity Number** | **Description** | **Versions** |
 |---|---|---|
-| 14 | Chi-Square Goodness of Fit and Independence | [Static, R](https://agmath.github.io/OpenIntroCompanions/14_ChiSquare.html){target="_blank"} |
-| 18 | One-Way ANOVA | [Static, R](https://agmath.github.io/OpenIntroCompanions/18_ANOVA.html){target="_blank"} |
-| 19 | Introduction to Linear Regression | [Static, R](https://agmath.github.io/OpenIntroCompanions/19_LinearRegression_Lab.html){target="_blank"} |
+| 14 | Chi-Square Goodness of Fit and Independence | <a href="https://agmath.github.io/OpenIntroCompanions/14_ChiSquare.html" target="_blank">Static, R</a> |
+| 18 | One-Way ANOVA | <a href="https://agmath.github.io/OpenIntroCompanions/18_ANOVA.html" target="_blank">Static, R</a> |
+| 19 | Introduction to Linear Regression | <a href="https://agmath.github.io/OpenIntroCompanions/19_LinearRegression_Lab.html" target="_blank">Static, R</a> |
 
 ---
 
