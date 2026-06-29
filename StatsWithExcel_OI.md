@@ -67,7 +67,7 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 21 | Fundamentals Exam II (No Tech) |  |  |  |
 | 22 | Applications Exam II |  |  |  |
 | 23 | Inference with Raw Data |  | [Inference with Raw Data](https://docs.google.com/presentation/d/1fxVJN8PjmO1cZn-c7AQxI6BMJO79WEpq/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 24 | ANOVA |  |  |
+| 24 | ANOVA | [ANalysis Of VAriance](https://docs.google.com/presentation/d/14beehQu8gUjynCGDAHr2Cj_HIeE1WIo5/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 25 | Linear Regression |  |  |  |
 | 26 | Review |  |  |  |
 | 27 | Final Exam, Part A |  |  |  |
