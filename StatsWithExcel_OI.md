@@ -42,7 +42,7 @@ td {
 
 Below is a tentative timeline for our course. For each meeting day, it includes a description of the topic covered, suggested reading, notes (sometimes), and assignments you are prepared to complete.
 
-| Class Meeting | Topic | Before Class | Additional Notes | Assignments |
+| Class Meeting | Topic | Before Class | Additional Notes | Optional Extra Practice |
 |---|---|---|---|---|
 | 1 | Introduction and What to Expect<br/> Excel Basics |  | [Day 1, Overview](https://docs.google.com/presentation/d/11L82gdD-nUlJQS5BvyNZWgQ96SpS02RX/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 2 | Probability and Statistics Terminology<br/> Experimental Design<br/> Ethics in Statistics and Data Analysis | [Intro to Data](https://agmath.github.io/OpenIntroCompanions/01_IntroToData.html) | [Day 2, Terminology and Background](https://docs.google.com/presentation/d/11xBXW49UZ_ewOWr_d-NOPSrXtQRfgFd-/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 1 |
