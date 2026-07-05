@@ -57,9 +57,9 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 11 | The Central Limit Theorem and the Sampling Distribution | [Foundations for Inference](https://agmath.github.io/OpenIntroCompanions/09_FoundationsForInference_Spreadsheets.html) | [Day 11, CLT and Sampling Distributions](https://docs.google.com/presentation/d/12YAyXsiLDNtJIfOm2HAs9MzrNSgbifot/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 5 |
 | 12 | An Overview of Statistical Inference |  | [Day 12, Foundations for Inference](https://docs.google.com/presentation/d/1xYYqnxL1KEmgJNIsBHfTRjx3aQk2tKFO/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
 | 13 | Inference for a Single Proportion | [Inference for a Proportion](https://agmath.github.io/OpenIntroCompanions/11_HTandCIprop_Spreadsheets.html) | [Day 13, Inference for a Single Proportion](https://docs.google.com/presentation/d/1oKML_Q_WY9Ve6wkh21mUn8-uA_koB6pE/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 14 | Inference on One and Two Proportions | [Practice Inference for Proportions](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice_Spreadsheets.html) | [Day 14, Inference with One and Two Proportions](https://docs.google.com/presentation/d/1K1CTnQManG3N9UmyCppCGIqIMc4AAoiv/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
+| 14 | Inference on One and Two Proportions | [Practice Inference for Proportions](https://agmath.github.io/OpenIntroCompanions/12_InferencePractice_Spreadsheets.html) | [Day 14, Inference with One and Two Proportions](https://docs.google.com/presentation/d/1K1CTnQManG3N9UmyCppCGIqIMc4AAoiv/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 6 |
 | 15 | Practice with Inference on Proportions |  | [Practice Inference Problems](https://agmath.github.io/IntroductoryStatistics/PracticeInferenceProblems_ProportionsOnly.html) |  |
-| 16 | Inference for One and Two Means | [Inference on Means](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric_Spreadsheets.html) | [Day 16, Inference on Means](https://docs.google.com/presentation/d/1DHST50j4PkyQGolDvAszxsdUQTwkJm4v/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
+| 16 | Inference for One and Two Means | [Inference on Means](https://agmath.github.io/OpenIntroCompanions/15_HTandCI_Numeric_Spreadsheets.html) | [Day 16, Inference on Means](https://docs.google.com/presentation/d/1DHST50j4PkyQGolDvAszxsdUQTwkJm4v/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 8, HW 9 (1 - 3) |
 | 17 | Mixed Inference Practice, Part I | [Mixed Inference Practice A](https://agmath.github.io/OpenIntroCompanions/16a_InferencePractice_Spreadsheets_PartI.html) | [Practice Inference Problems](https://agmath.github.io/IntroductoryStatistics/PracticeInferenceProblems_F24Mixed_Excel.html) |  |
 | 18 | Mixed Inference Practice, Part II | [Mixed Inference Practice B](https://agmath.github.io/OpenIntroCompanions/16b_InferencePractice_Spreadsheets_PartII.html) |  |  |
 | 19 | Mixed Inference Practice, Part III | [Mixed Inference Practice C](https://agmath.github.io/OpenIntroCompanions/16c_InferencePractice_Spreadsheets_PartIII.html) |  |  |
@@ -67,8 +67,8 @@ Below is a tentative timeline for our course. For each meeting day, it includes 
 | 21 | Fundamentals Exam II (No Tech) |  |  |  |
 | 22 | Applications Exam II |  |  |  |
 | 23 | Inference with Raw Data |  | [Inference with Raw Data](https://docs.google.com/presentation/d/1fxVJN8PjmO1cZn-c7AQxI6BMJO79WEpq/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 24 | ANOVA |  | [ANalysis Of VAriance](https://docs.google.com/presentation/d/14beehQu8gUjynCGDAHr2Cj_HIeE1WIo5/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) |  |
-| 25 | Linear Regression |  |  |  |
+| 24 | ANOVA |  | [ANalysis Of VAriance](https://docs.google.com/presentation/d/14beehQu8gUjynCGDAHr2Cj_HIeE1WIo5/edit?usp=sharing&ouid=105915137780027700641&rtpof=true&sd=true) | HW 9 (4 - 9) |
+| 25 | Linear Regression |  |  | HW 10 |
 | 26 | Review |  |  |  |
 | 27 | Final Exam, Part A |  |  |  |
 | 28 | Final Exam, Part B (Optional) |  |  |  |
