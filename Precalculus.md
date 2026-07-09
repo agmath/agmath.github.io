@@ -7,7 +7,7 @@ description: This is a homepage for MAT142, Precalculus with Limits, with Dr. Gi
 
 ## MAT 142 - Precalculus with Limits
 
-<img src="/SiteFiles/OpenStaxPrecalc.jpg" align="left" width=200>[**Syllabus (Spring 2024)**](https://drive.google.com/file/d/1lXuFnwU7dSHKgeT0fy8Z80oagu9GuOFU/view?usp=sharing)<br/>
+<img src="/SiteFiles/OpenStaxPrecalc.jpg" align="left" width=200>[**Draft Syllabus (Fall 2026)**](https://drive.google.com/file/d/1omX8zKR6LHyB6xMNWoniY6nWkCnuohet/view?usp=sharing)<br/>
 <br/>
 
 ***Course Description:*** This course emphasizes the numerical, symbolic, and graphical representation of functions needed in 
@@ -19,7 +19,7 @@ wish to prepare for Calculus.
 
 ### Course Timeline and Notebooks
 
-Below is a tentative timeline for our course. It includes a detailed set of notes corresponding to each class meeting and assignments following each class meeting. Note that assignments are all available on [MyOpenMath](https://www.myopenmath.com/). Assignments are listed at the class meeting you will be prepared to *start* working on the assignment.
+Below is a tentative timeline for our course. It includes a detailed set of discussion slides corresponding to each class meeting and assignments following most class meeting. Note that assignments are all available on [MyOpenMath](https://www.myopenmath.com/). Assignments are listed at the class meeting you will be prepared to *start* working on the assignment.
 
 | Class Meeting | During Class | Discussion Slides | After Class |
 |---------------|--------------|-------------|--------------|
