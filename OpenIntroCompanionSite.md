@@ -30,6 +30,8 @@ Currently, the collecton of activities covers a full introductory experience
 in applied statistics. Versions of all notebooks utilizing the 
 R computing language are available, with corresponding versions in Excel/Sheets and Python forthcoming.
 
+If you're looking for the older versions of the companion notebooks, [click here](#old-versions)
+
 These resources are open-sourced and will always remain freely available. If you are benefiting 
 from using these activities and would like to support the their maintenance as well as the development of
 similar resources across mathematics and statistics in the future, you may donate via the link below.
@@ -93,6 +95,10 @@ similar resources across mathematics and statistics in the future, you may donat
 | 14 | Chi-Square Goodness of Fit and Independence | <a href="https://agmath.github.io/OpenIntroCompanions/14_ChiSquare.html" target="_blank">Static, R</a> |
 | 18 | One-Way ANOVA | <a href="https://agmath.github.io/OpenIntroCompanions/18_ANOVA.html" target="_blank">Static, R</a> |
 | 19 | Introduction to Linear Regression | <a href="https://agmath.github.io/OpenIntroCompanions/19_LinearRegression_Lab.html" target="_blank">Static, R</a> |
+
+### Old Versions
+
+If you're looking for the older versions of the interactive notebooks that are installed via the `{AppliedStatsInteractive}` R package or accessed via Posit Cloud, they're still available! Here are [the instructions](https://agmath.github.io/IntroductoryStatistics/AccessingInteractiveNotes.html) for installing R, RStudio, and the companion notebooks package for individuals interested in working with R locally. For those wishing to work in Posit Cloud, here's [a link to the workspace](https://posit.cloud/content/6328402). Because the Quarto Live versions accessed via the links above are accessible to a broader audience, my focus will be on maintaining and updating those moving forward. While I'll no longer be actively updating the notebooks in `{AppliedStatsInteractive}`, you are free to clone [the GitHub repository](https://github.com/agmath/AppliedStatsInteractive) and update your own versions as you see fit. 
 
 ---
 
