@@ -30,7 +30,7 @@ Currently, the collecton of activities covers a full introductory experience
 in applied statistics. Versions of all notebooks utilizing the 
 R computing language are available, with corresponding versions in Excel/Sheets and Python forthcoming.
 
-[Click here](#old-versions) if you're looking for the older versions of the companion notebooks.
+[**Click here**](#old-versions) if you're looking for the original versions of the companion notebooks.
 
 These resources are open-sourced and will always remain freely available. If you are benefiting 
 from using these activities and would like to support the their maintenance as well as the development of
