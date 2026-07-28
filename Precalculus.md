@@ -21,7 +21,7 @@ wish to prepare for Calculus.
 
 Below is a tentative timeline for our course. It includes a detailed set of discussion slides corresponding to each class meeting and assignments following most class meeting. Note that assignments are all available on [MyOpenMath](https://www.myopenmath.com/). Assignments are listed at the class meeting you will be prepared to *start* working on the assignment.
 
-| Class Meeting | During Class | Discussion Slides | After Class |
+| Class Meeting | Topic | Discussion Slides | After Class |
 |---------------|--------------|-------------|--------------|
 | 1 | Introduction and What to Expect <br/> [Algebra Review, Part I](https://colab.research.google.com/drive/1Nvgi5nWn7jdNs-kuWfXwP4WdSn_2wL6F?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D1_WhatToExpect.html) <br/> [PDF Slides](https://agmath.github.io/PreCalcWithLimits/PDF_Notes/D1_Precalc.pdf) | HW 1 |
 | 2 | [Algebra Review, Part II](https://colab.research.google.com/drive/1wT-N3BgiEAXPzxwZmRiFpRJVzSO8kR1q?usp=sharing) | [Class Slides](https://agmath.github.io/PreCalcWithLimits/Slide_Notes/D2_FoundationalAlgebra.html) <br/> [PDF Slides](https://agmath.github.io/PreCalcWithLimits/PDF_Notes/D2_Precalc.pdf) |  |
