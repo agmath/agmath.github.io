@@ -27,7 +27,7 @@ title: Welcome
       <p style="margin: 0;">email: a.gilbert1 [at] snhu [dot] edu</p>
       <p style="margin: 0;">
         View My:
-        <a href="https://drive.google.com/file/d/1MNpH4Z8H4rLJdybj7ntwOpgCtoPCQPg2/view?usp=sharing" target="_blank">CV</a>,
+        <a href="https://drive.google.com/file/d/1-v8B6W80cBmuVqO7ncBpN450ZbUG51vY/view?usp=sharing" target="_blank">CV</a>,
         <a href="https://agmath.github.io/SiteFiles/GilbertResume.html" title="Resume" target="_blank">Resume</a>
       </p>
     </div>
