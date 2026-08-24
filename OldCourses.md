@@ -42,6 +42,7 @@ Links to pages with information about each course will be added to the list belo
 + [MAT440 - BIG Problems](BIGproblems.md)
 
 **Directed Studies and Honors Theses:**
++ A Variation on the Game of Spies and Revolutionaries (with T. Krestalica, co-advised with M. Newell, 2025)
 + Generative Adversarial Networks (with C. Stambaugh, 2024)
 + Analysis of New Hampshire's Capacity to Meet Mental Health Needs of Youths (with M. Kelly, co-advised with V. Corbo, 2024)
 + Natural Language Processing and Comparison of Stories from Myth and Faith (with S. Pitra, 2023)
